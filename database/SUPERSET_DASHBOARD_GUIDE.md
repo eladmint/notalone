@@ -1,7 +1,7 @@
 # Notalone Superset Dashboard Guide
 
 **Date**: January 11, 2026
-**Status**: COMPLETE - 3 dashboards with 9 charts
+**Status**: COMPLETE - 4 dashboards with 21 charts
 
 ---
 
@@ -69,6 +69,33 @@
 
 ---
 
+### Dashboard 20: Israel Web3 Ecosystem
+
+**URL**: http://74.50.97.243:8088/superset/dashboard/20/
+**Slug**: israel-web3-ecosystem
+
+**Charts**:
+- Chart 167: Total Web3 Companies (big number)
+- Chart 168: Active Companies (big number)
+- Chart 169: Total Raised ($B) (big number)
+- Chart 170: Acquisitions (big number)
+- Chart 171: Companies by Stage (pie)
+- Chart 172: Companies by Status (pie)
+- Chart 173: Founded by Year (bar)
+- Chart 174: People Count (big number)
+- Chart 175: Network Connections (big number)
+- Chart 176: People Directory (table)
+- Chart 177: Top Companies (table)
+- Chart 178: Funding Rounds (table)
+
+**Key Metrics**:
+- 123 Web3/Crypto companies tracked
+- 110 active, 9 acquired, 4 shut down
+- Funding by stage: Seed, Growth, Series A/B
+- Founded year distribution
+
+---
+
 ## Database Connection
 
 | Setting | Value |
@@ -80,7 +107,7 @@
 
 ---
 
-## Datasets (IDs 42-59)
+## Datasets (IDs 42-65)
 
 ### Tables (14)
 | Dataset | Table Name | Purpose |
@@ -100,13 +127,14 @@
 | Education | notalone_education_records | Educational history |
 | Interactions | notalone_interactions_log | Activity log |
 
-### Views (4)
+### Views (5)
 | View | Purpose |
 |------|---------|
 | v_lp_pipeline | LP prospects with institution details |
 | v_people_careers | People with career history |
 | v_company_funding | Companies with funding totals |
 | v_8200_network | 8200 alumni network view |
+| v_web3_companies | Web3/Crypto companies filter (ID 65) |
 
 ---
 
