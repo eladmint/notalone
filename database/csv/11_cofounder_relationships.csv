@@ -1,0 +1,19 @@
+Person 1,Person 2,Company,Relationship Type,Start Date,Notes
+Gil Shwed,Shlomo Kramer,Check Point,Co-Founders,1993-01-01,"With Marius Nacht"
+Shlomo Kramer,Gur Shatz,Cato Networks,Co-Founders,2015-01-01,
+Assaf Rappaport,Ami Luttwak,Adallom,Co-Founders,2012-01-01,"The Adallom Four"
+Assaf Rappaport,Roy Reznik,Adallom,Co-Founders,2012-01-01,
+Assaf Rappaport,Yinon Costica,Adallom,Co-Founders,2012-01-01,
+Ami Luttwak,Roy Reznik,Adallom,Co-Founders,2012-01-01,
+Ami Luttwak,Yinon Costica,Adallom,Co-Founders,2012-01-01,
+Roy Reznik,Yinon Costica,Adallom,Co-Founders,2012-01-01,
+Assaf Rappaport,Ami Luttwak,Wiz,Co-Founders,2020-01-01,"Same team, second venture"
+Assaf Rappaport,Roy Reznik,Wiz,Co-Founders,2020-01-01,
+Assaf Rappaport,Yinon Costica,Wiz,Co-Founders,2020-01-01,
+Ami Luttwak,Roy Reznik,Wiz,Co-Founders,2020-01-01,
+Ami Luttwak,Yinon Costica,Wiz,Co-Founders,2020-01-01,
+Roy Reznik,Yinon Costica,Wiz,Co-Founders,2020-01-01,
+Uri Levine,Ehud Shabtai,Waze,Co-Founders,2006-01-01,"With Amir Shinar"
+Eli Ben-Sasson,Uri Kolodny,StarkWare,Co-Founders,2018-01-01,"Academic + business"
+Ouriel Ohayon,Tal Be'ery,Zengo,Co-Founders,2018-01-01,
+Avishay Ovadia,Adam Benayoun,Collider Ventures,Co-Founders,2018-01-01,

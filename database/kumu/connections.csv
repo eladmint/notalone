@@ -1,0 +1,206 @@
+From,To,Type,Label,Strength,Date,Notes
+Dov Moran,M-Systems,Founded,"Founder & CEO",Strong,1989-01-01,"Invented USB Flash Drive - $1.6B exit to SanDisk"
+Dov Moran,Modu,Founded,"Founder & CEO",Strong,2007-01-01,"Modular phone vision - patents to Google"
+Dov Moran,Grove Ventures,Founded,"Managing Partner",Strong,2015-01-01,"Deep tech VC"
+Gil Shwed,Check Point,Founded,"Founder & CEO",Strong,1993-01-01,"Invented firewall - Israel Prize laureate"
+Gil Shwed,Check Point,Works At,"Executive Chairman",Strong,2024-12-01,"Transitioned from CEO"
+Shlomo Kramer,Check Point,Founded,"Co-Founder & VP Engineering",Strong,1993-01-01,"Invented firewall"
+Shlomo Kramer,Imperva,Founded,"Founder & CEO",Strong,2002-01-01,"$2.1B exit to Thoma Bravo"
+Shlomo Kramer,Cato Networks,Founded,"Founder & CEO",Strong,2015-01-01,"Created SASE category - $773M raised"
+Nir Zuk,Check Point,Worked At,"Engineer",Medium,1994-01-01,"Stateful inspection patent"
+Nir Zuk,Palo Alto Networks,Founded,"Founder & CTO",Strong,2005-01-01,"Built $100B+ company"
+Assaf Rappaport,Adallom,Founded,"Co-Founder & CEO",Strong,2012-01-01,"$320M exit to Microsoft"
+Assaf Rappaport,Wiz,Founded,"Co-Founder & CEO",Strong,2020-01-01,"$32B exit to Google"
+Assaf Rappaport,Microsoft,Worked At,"GM Security",Medium,2015-07-01,"Post-Adallom acquisition"
+Ami Luttwak,Adallom,Founded,"Co-Founder & CTO",Strong,2012-01-01,
+Ami Luttwak,Wiz,Founded,"Co-Founder & CTO",Strong,2020-01-01,
+Ami Luttwak,Microsoft,Worked At,"CTO Security",Medium,2015-07-01,
+Roy Reznik,Adallom,Founded,"Co-Founder",Strong,2012-01-01,
+Roy Reznik,Wiz,Founded,"Co-Founder & VP R&D",Strong,2020-01-01,
+Roy Reznik,Microsoft,Worked At,"Engineering Lead",Medium,2015-07-01,
+Yinon Costica,Adallom,Founded,"Co-Founder",Strong,2012-01-01,
+Yinon Costica,Wiz,Founded,"Co-Founder & VP Product",Strong,2020-01-01,
+Yinon Costica,Microsoft,Worked At,"Product Lead",Medium,2015-07-01,
+Uri Levine,Waze,Founded,"Co-Founder",Strong,2006-01-01,"$1.3B exit to Google"
+Uri Levine,Pontera,Works At,"Chairman",Strong,2012-01-01,"Fintech"
+Ehud Shabtai,Waze,Founded,"Co-Founder & CTO",Strong,2006-01-01,"Technical co-founder"
+Eli Ben-Sasson,StarkWare,Founded,"Co-Founder & President",Strong,2018-01-01,"$8B valuation - invented STARKs"
+Eli Ben-Sasson,Technion,Works At,"Professor",Strong,2001-01-01,"Cryptography research"
+Uri Kolodny,StarkWare,Founded,"Co-Founder & CEO",Strong,2018-01-01,
+Michael Shaulov,Fireblocks,Founded,"Co-Founder & CEO",Strong,2018-01-01,"$8B valuation - zero security incidents"
+Michael Shaulov,Check Point,Worked At,"VP Mobile Security",Medium,2010-01-01,"Lacoon acquisition"
+Pavel Berengoltz,Fireblocks,Founded,"Co-Founder & CTO",Strong,2018-01-01,"$8B valuation"
+Idan Ofrat,Fireblocks,Founded,"Co-Founder",Strong,2018-01-01,
+Itay Malinger,Curv,Founded,"Co-Founder & CEO",Strong,2018-01-01,"$200M exit to PayPal"
+Dan Yadlin,Curv,Founded,"Co-Founder",Strong,2018-01-01,"$200M PayPal exit"
+Ido Ben-Natan,Blockaid,Founded,"Co-Founder & CEO",Strong,2022-01-01,"$83M raised - Web3 security leader"
+Raz Niv,Blockaid,Founded,"Co-Founder",Strong,2022-01-01,
+Omer Goldberg,Chaos Labs,Founded,"Founder & CEO",Strong,2021-01-01,"$79M raised - DeFi risk management"
+Yonatan Hayun,Chaos Labs,Founded,"Co-Founder",Strong,2021-01-01,
+Avishay Ovadia,Collider Ventures,Founded,"Founding Partner",Strong,2018-01-01,"Israeli crypto super-connector"
+Adam Benayoun,Collider Ventures,Founded,"Founding Partner",Strong,2018-01-01,
+Sebastian Lehrer,Collider Ventures,Works At,"Investor",Medium,2020-01-01,"Report author"
+Ouriel Ohayon,Zengo,Founded,"Co-Founder & CEO",Strong,2018-01-01,"2M+ users - MPC wallet"
+Tal Be'ery,Zengo,Founded,"Co-Founder & CTO",Strong,2018-01-01,"Zero hacks"
+Yehuda Lindell,Unbound Security,Founded,"Co-Founder",Strong,2014-01-01,"$100M exit to Coinbase"
+Yehuda Lindell,Bar-Ilan University,Works At,"Professor",Strong,2003-01-01,"MPC pioneer - Cryptography chair"
+Nadav Zafrir,Team8,Founded,"Founder & CEO",Strong,2014-01-01,"Cyber foundry"
+Nadav Zafrir,Check Point,Works At,"CEO",Strong,2024-12-01,"Took over from Gil Shwed"
+Nimrod Lehavi,Simplex,Founded,"Founder & CEO",Strong,2014-01-01,"$200-250M Nuvei exit"
+Lior Lamesh,GK8,Founded,"Founder & CEO",Strong,2018-01-01,"Galaxy acquisition"
+Josh Schwartz,Fordefi,Founded,"Founder & CEO",Strong,2021-01-01,"$100M Paxos acquisition"
+Eyal Hertzog,Bancor,Founded,"Co-Founder",Strong,2017-01-01,"Invented AMM - $153M raised"
+Gal Sagie,Hypernative,Founded,"Co-Founder",Strong,2022-01-01,"Protects $100B+ assets"
+Dan Caspi,Hypernative,Founded,"Co-Founder",Strong,2022-01-01,
+Mooly Sagiv,Certora,Founded,"Founder",Strong,2018-01-01,"Secures $25B+ DeFi"
+Yaron Velner,B.Protocol,Founded,"Founder",Strong,2020-01-01,"DeFi OG"
+Dr. Yonatan Sompolinsky,Kaspa,Founded,"Founder",Strong,2017-01-01,"GHOST protocol creator"
+Yishay Harel,Dymension,Founded,"Founder",Strong,2022-01-01,"Modular blockchain"
+Adam Efrima,SSV Network,Founded,"Founder",Strong,2020-01-01,"ETH staking infrastructure"
+Udi Wertheimer,Taproot Wizards,Founded,"Founder",Strong,2023-01-01,"Bitcoin Ordinals pioneer"
+Matan Sitbon,eOracle,Founded,"Founder & CEO",Strong,2022-01-01,"Built on EigenLayer"
+Yarden Shechter,Othentic,Founded,"Founder",Strong,2023-01-01,"AVS infrastructure"
+Or Dadosh,Venn,Founded,"Founder",Strong,2022-01-01,"Collider portfolio"
+Guy Itzhaki,FHEenix,Founded,"Founder",Strong,2023-01-01,"Collider portfolio"
+Guy Zyskind,FHEenix,Founded,"Co-Founder",Strong,2023-01-01,"Previously Secret Network/Enigma"
+Yoni Assia,eToro,Founded,"Founder & CEO",Strong,2007-01-01,"35M users"
+Eden Shochat,Aleph,Works At,"Partner",Strong,2013-01-01,
+Michael Eisenberg,Aleph,Works At,"Partner",Strong,2013-01-01,"Writes about crypto"
+Oren Zeev,Zeev Ventures,Founded,"Founder",Strong,2008-01-01,"Houzz investor"
+Gil Dibner,Angular Ventures,Founded,"Founder",Strong,2017-01-01,"Solo GP - Makes own decisions"
+Dovi Frances,Group 11,Founded,"Founder",Strong,2015-01-01,"Backed Fireblocks early"
+Gigi Levy-Weiss,NFX,Works At,"General Partner",Strong,2015-01-01,"Prolific angel"
+Shauli Rejwan,Masterkey VC,Works At,"Partner",Strong,2020-01-01,"Web3 Dev Underground sponsor"
+Ben Samocha,CryptoJungle,Founded,"CEO",Strong,2020-01-01,"EXISTING CONTACT via Reuven"
+Assaf Rappaport,Ami Luttwak,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Assaf Rappaport,Roy Reznik,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Assaf Rappaport,Yinon Costica,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Ami Luttwak,Roy Reznik,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Ami Luttwak,Yinon Costica,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Roy Reznik,Yinon Costica,Co-Founder With,,Strong,2012-01-01,"Adallom & Wiz"
+Gil Shwed,Shlomo Kramer,Co-Founder With,,Strong,1993-01-01,"Check Point - With Marius Nacht"
+Shlomo Kramer,Gur Shatz,Co-Founder With,,Strong,2015-01-01,"Cato Networks"
+Eli Ben-Sasson,Uri Kolodny,Co-Founder With,,Strong,2018-01-01,"StarkWare - Academic + business"
+Ouriel Ohayon,Tal Be'ery,Co-Founder With,,Strong,2018-01-01,"Zengo"
+Uri Levine,Ehud Shabtai,Co-Founder With,,Strong,2006-01-01,"Waze - With Amir Shinar"
+Avishay Ovadia,Adam Benayoun,Co-Founder With,,Strong,2018-01-01,"Collider Ventures"
+Dov Moran,Fireblocks,Invested In,"Angel - $500K",Medium,2018-06-01,"Early bet on crypto custody"
+Gil Dibner,Fireblocks,Invested In,"VC - $3M",Medium,2019-03-01,"Angular Ventures"
+Yossi Vardi,Waze,Invested In,"Angel - $250K",Medium,2006-03-01,"Early believer"
+Michael Eisenberg,StarkWare,Invested In,"VC - $6M",Medium,2018-09-01,"Aleph"
+Dovi Frances,Fireblocks,Invested In,"VC - $5M Lead",Strong,2019-03-01,"Group 11 led"
+Avishay Ovadia,Blockaid,Invested In,"VC - $1M",Medium,2022-06-01,"Collider Ventures"
+Nir Zuk,Wiz,Invested In,"Angel - $1M",Medium,2020-03-01,"$150M+ invested in Israeli startups"
+Avishay Ovadia,Chaos Labs,Invested In,"VC - $500K",Medium,2021-09-01,"Collider Ventures"
+Gigi Levy-Weiss,Fireblocks,Invested In,"Angel - $250K",Medium,2018-06-01,
+Avishay Ovadia,Hypernative,Invested In,"VC - $500K",Medium,2022-03-01,"Collider Ventures"
+Eden Shochat,Wiz,Invested In,"VC - $10M",Strong,2020-12-01,"Aleph"
+Google,Waze,Acquired,"$1.3B",Strong,2013-06-11,"Navigation technology"
+Google,Wiz,Acquired,"$32B",Strong,2025-03-01,"Largest Israeli tech exit ever"
+Microsoft,Adallom,Acquired,"$320M",Strong,2015-07-01,"Cloud security"
+PayPal,Curv,Acquired,"$200M",Strong,2021-03-01,"MPC custody technology"
+SanDisk,M-Systems,Acquired,"$1.6B",Strong,2006-07-01,"Flash storage technology"
+Thoma Bravo,Imperva,Acquired,"$2.1B",Strong,2018-10-01,"Web security take-private"
+Coinbase,Unbound Security,Acquired,"$100M",Strong,2022-01-01,"MPC key management"
+Nuvei,Simplex,Acquired,"$225M",Strong,2021-01-01,"Crypto payment processing"
+Galaxy Digital,GK8,Acquired,,Medium,2022-01-01,"Self-custody technology"
+Paxos,Fordefi,Acquired,"$100M",Strong,2025-11-01,"Institutional MPC wallet"
+Chainalysis,Hexagate,Acquired,"$60M",Medium,2024-12-01,"Smart contract security"
+Chainalysis,Alterya,Acquired,"$150M",Strong,2025-01-01,"Blockchain compliance"
+Fireblocks,Dynamic,Acquired,"$90M",Strong,2025-10-01,"Web3 authentication"
+Intel,Moovit,Acquired,"$900M",Strong,2020-05-01,"Mobility data"
+Palo Alto Networks,CyberArk,Acquired,"$25B",Strong,2025-01-01,"Identity security"
+Shapeshift,Portis,Acquired,,Medium,2020-01-01,"Ethereum wallet"
+Assaf Rappaport,Unit 8200,Served In,"Major",Strong,2004-2009,"Pre-Adallom"
+Ami Luttwak,Unit 8200,Served In,"Major",Strong,2004-2009,
+Roy Reznik,Unit 8200,Served In,"Captain",Strong,2004-2009,
+Yinon Costica,Unit 8200,Served In,"Captain",Strong,2004-2009,
+Gil Shwed,Unit 8200,Served In,"Captain",Strong,1986-1990,"Pre-Check Point"
+Shlomo Kramer,Unit 8200,Served In,"Captain",Strong,1986-1990,"Pre-Check Point"
+Nir Zuk,Unit 8200,Served In,"Captain",Strong,1988-1992,
+Michael Shaulov,Unit 8200,Served In,"Major",Strong,2002-2007,
+Ido Ben-Natan,Unit 8200,Served In,"Captain",Strong,2012-2017,"Pre-Blockaid"
+Uri Levine,Unit 8200,Served In,"Lieutenant",Medium,1984-1988,
+Nadav Zafrir,Unit 8200,Served In,"Brigadier General",Strong,2005-2009,"8200 Commander"
+Eli Ben-Sasson,Technion,Educated At,"PhD Computer Science",Strong,1997-2001,"STARK inventor"
+Eli Ben-Sasson,Hebrew University,Educated At,"BSc Mathematics",Medium,1990-1993,
+Yehuda Lindell,Weizmann Institute,Educated At,"PhD Computer Science",Strong,1997-2002,"MPC research"
+Yehuda Lindell,Bar-Ilan University,Educated At,"Professor",Strong,2003-present,"Cryptography chair"
+Dov Moran,Technion,Educated At,"MSc Electrical Engineering",Strong,1980-1983,
+Dov Moran,Technion,Educated At,"BSc Electrical Engineering",Medium,1976-1980,
+Gil Shwed,Hebrew University,Educated At,"BSc Computer Science",Medium,1987-1991,
+Shlomo Kramer,Hebrew University,Educated At,"BSc Math & CS",Medium,1987-1991,
+Uri Levine,Tel Aviv University,Educated At,"BSc Computer Science",Medium,1988-1992,
+Uri Levine,Tel Aviv University,Educated At,"MBA",Medium,1992-1994,
+Nadav Zafrir,Tel Aviv University,Educated At,"BSc Computer Science",Medium,1995-1999,
+Nadav Zafrir,Harvard,Educated At,"MBA",Strong,2009-2011,"Post-8200 Commander"
+Gigi Levy-Weiss,IDC Herzliya,Educated At,"MBA",Medium,1998-2000,
+Michael Eisenberg,Harvard,Educated At,"MBA",Strong,1990-1992,
+Ben Samocha,Avishay Ovadia,Connected To,"Professional",Strong,,"Israeli crypto scene - WARM INTRO PATH"
+Tomer Sharoni,Addressable,Founded,"Co-Founder",Strong,2021-01-01,
+Tomer Shlomo,Addressable,Founded,"Co-Founder",Strong,2021-01-01,
+Asaf Nadler,Addressable,Founded,"Co-Founder",Strong,2021-01-01,
+Roei Levav,Efficient Frontier,Founded,"Co-Founder",Strong,2018-01-01,
+Yohai Rayfeld,Efficient Frontier,Founded,"Co-Founder",Strong,2018-01-01,
+Ohad Galor Kimchi,Efficient Frontier,Founded,"Co-Founder",Strong,2018-01-01,
+Eyal Meron,Spherex,Founded,"Co-Founder",Strong,2022-01-01,
+Oren Fine,Spherex,Founded,"Co-Founder",Strong,2022-01-01,
+Bentzi Rabi,Utila,Founded,"Co-Founder",Strong,2022-01-01,
+Sam Eiderman,Utila,Founded,"Co-Founder",Strong,2022-01-01,
+Asaf Meir,Solidus Labs,Founded,"Co-Founder",Strong,2017-01-01,
+Praveen Kumar,Solidus Labs,Founded,"Co-Founder",Strong,2017-01-01,
+Chen Arad,Solidus Labs,Founded,"Co-Founder",Strong,2017-01-01,
+Omer Sadika,Ika,Founded,"Co-Founder",Strong,2022-01-01,
+Yehonatan Scaly,Ika,Founded,"Co-Founder",Strong,2022-01-01,
+David Lachmish,Ika,Founded,"Co-Founder",Strong,2022-01-01,
+Ido Sofer,Sodot,Founded,"Co-Founder",Strong,2021-01-01,
+Elichai Turkel,Sodot,Founded,"Co-Founder",Strong,2021-01-01,
+Shalev Keren,Sodot,Founded,"Co-Founder",Strong,2021-01-01,
+Matan Hamilis,Sodot,Founded,"Co-Founder",Strong,2021-01-01,
+Alon Webman,Chain Reaction,Founded,"Co-Founder",Strong,2019-01-01,
+Oren Yokev,Chain Reaction,Founded,"Co-Founder",Strong,2019-01-01,
+Yaniv Azar,Reach,Founded,"Co-Founder",Strong,2022-01-01,
+David Solomon,Reach,Founded,"Co-Founder",Strong,2022-01-01,
+Aharon Miller,Oobit,Founded,"Co-Founder",Strong,2019-01-01,
+Amram Adar,Oobit,Founded,"Co-Founder",Strong,2019-01-01,
+Yoni Goldberg,Dynamic,Founded,"Co-Founder",Strong,2021-01-01,
+Itai Turbahn,Dynamic,Founded,"Co-Founder",Strong,2021-01-01,
+Omer Shlomovits,Ingonyama,Founded,"Co-Founder",Strong,2021-01-01,
+Michael Asa,Ingonyama,Founded,"Co-Founder",Strong,2021-01-01,
+Danny Shterman,Ingonyama,Founded,"Co-Founder",Strong,2021-01-01,
+Adam Levi,Backed,Founded,"Co-Founder",Strong,2021-01-01,
+Roberto Klein,Backed,Founded,"Co-Founder",Strong,2021-01-01,
+Yehonatan Goldman,Backed,Founded,"Co-Founder",Strong,2021-01-01,
+Tom Teman,Portis,Founded,"Co-Founder",Strong,2018-01-01,
+Scott Gralnick,Portis,Founded,"Co-Founder",Strong,2018-01-01,
+Itay Radotzki,Portis,Founded,"Co-Founder",Strong,2018-01-01,
+Tal Zackon,Tres Finance,Founded,"Founder",Strong,2022-01-01,
+Yaniv Nissenboim,Hexagate,Founded,"Co-Founder",Strong,2022-01-01,
+Niv Yehezkel,Hexagate,Founded,"Co-Founder",Strong,2022-01-01,
+Ronen Assia,eToro,Founded,"Co-Founder",Strong,2007-01-01,
+David Ring,eToro,Founded,"Co-Founder",Strong,2007-01-01,
+Netanel Kabala,Simplex,Founded,"Co-Founder",Strong,2014-01-01,
+Erez Shapira,Simplex,Founded,"Co-Founder",Strong,2014-01-01,
+Shelly Grossman,Certora,Founded,"Co-Founder",Strong,2018-01-01,
+Alon Muroch,SSV Network,Founded,"Co-Founder",Strong,2020-01-01,
+Uri Margalit,eOracle,Founded,"Co-Founder",Strong,2022-01-01,
+Dean Rubin,Othentic,Founded,"Co-Founder",Strong,2023-01-01,
+Eric Wall,Taproot Wizards,Founded,"Co-Founder",Strong,2023-01-01,
+Daniel Sevitt,GK8,Founded,"Co-Founder",Strong,2018-01-01,
+Shahar Shamai,GK8,Founded,"Co-Founder",Strong,2018-01-01,
+Guy Peer,Unbound Security,Founded,"Co-Founder",Strong,2014-01-01,
+Nigel Smart,Unbound Security,Founded,"Co-Founder",Strong,2014-01-01,
+Avner Mor,Unbound Security,Founded,"Co-Founder",Strong,2014-01-01,
+Gary Benattar,Zengo,Founded,"Co-Founder",Strong,2018-01-01,
+Dima Kogan,Fordefi,Founded,"Co-Founder",Strong,2021-01-01,
+Michael Volfman,Fordefi,Founded,"Co-Founder",Strong,2021-01-01,
+Assaf Eli,Venn,Founded,"Co-Founder",Strong,2022-01-01,
+Dan Danay,Curv,Founded,"Co-Founder",Strong,2018-01-01,
+Avi Rozen,Curv,Founded,"Co-Founder",Strong,2018-01-01,
+Tom Azoulay,Sayfer,Founded,"Co-Founder",Strong,2020-01-01,
+Roi Bar-Zur,Sayfer,Founded,"Co-Founder",Strong,2020-01-01
+Ronen Vindichansky,Collider Ventures,Works At,"COO",Strong,2018-01-01,"Chief Operating Officer"
+Tamar Vereli,Collider Ventures,Works At,"Finance Operations",Strong,2020-01-01,"Finance Operations"
+Eden Vitner,Collider Ventures,Works At,"Operations Assistant",Strong,2022-01-01,"Operations Assistant"
+Adi Shamir,Weizmann Institute,Works At,"Professor",Strong,1996-01-01,"RSA co-inventor, Turing Award winner"
+Collider Ventures,Israeli Crypto Forum,Founded,"Co-Founder",Strong,2022-01-01,"Nonprofit advocacy organization"

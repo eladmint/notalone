@@ -1,0 +1,15 @@
+Person,Institution,Degree Type,Field of Study,Start Year,End Year,Notable Achievement,Notes
+Eli Ben-Sasson,Technion,PhD,Computer Science,1997,2001,"STARK inventor","Cryptography research"
+Eli Ben-Sasson,Hebrew University,BSc,Mathematics,1990,1993,,
+Dov Moran,Technion,BSc,Electrical Engineering,1976,1980,,
+Dov Moran,Technion,MSc,Electrical Engineering,1980,1983,,
+Gil Shwed,Hebrew University,BSc,Computer Science,1987,1991,,
+Shlomo Kramer,Hebrew University,BSc,Math & Computer Science,1987,1991,,
+Yehuda Lindell,Weizmann Institute,PhD,Computer Science,1997,2002,"MPC research",
+Yehuda Lindell,Bar-Ilan University,Professor,Computer Science,2003,,"Cryptography chair"
+Gigi Levy-Weiss,IDC Herzliya,MBA,Business,1998,2000,,
+Michael Eisenberg,Harvard,MBA,Business,1990,1992,,
+Uri Levine,Tel Aviv University,BSc,Computer Science,1988,1992,,
+Uri Levine,Tel Aviv University,MBA,Business,1992,1994,,
+Nadav Zafrir,Tel Aviv University,BSc,Computer Science,1995,1999,,
+Nadav Zafrir,Harvard,MBA,Business,2009,2011,"Post-8200 Commander"

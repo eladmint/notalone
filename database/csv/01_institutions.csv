@@ -1,0 +1,17 @@
+Institution Name,Full Name,Type,Subtype,Location,Founded Year,Prestige Tier,Notable Programs,Notes
+Technion,Technion - Israel Institute of Technology,University,Technical,Haifa,1912,Tier 1,"Computer Science,Electrical Engineering,Cryptography",Premier technical university - produced StarkWare founders
+Weizmann Institute,Weizmann Institute of Science,Research Institute,Technical,Rehovot,1934,Tier 1,"Cryptography,Mathematics,Physics","Adi Shamir (RSA), ZK proofs research origin"
+Tel Aviv University,Tel Aviv University,University,,Tel Aviv,1956,Tier 1,"Computer Science,Business,Law",Largest university in Israel
+Hebrew University,Hebrew University of Jerusalem,University,,Jerusalem,1918,Tier 1,"Computer Science,Economics,Life Sciences",
+Ben-Gurion University,Ben-Gurion University of the Negev,University,,Beer Sheva,1969,Tier 2,"Cybersecurity,Engineering",Strong cyber program
+IDC Herzliya,Reichman University (IDC Herzliya),University,Business School,Herzliya,1994,Tier 2,"Business,Law,Communications",Entrepreneurship focus
+Bar-Ilan University,Bar-Ilan University,University,,Ramat Gan,1955,Tier 2,"Computer Science,Cryptography",Yehuda Lindell - MPC research
+Unit 8200,IDF Unit 8200,Military Unit,Intelligence,Multiple,1952,Tier 1,"SIGINT,Cyber,Technology","80% of cyber founders, 1000+ companies"
+Talpiot,IDF Talpiot Program,Military Unit,Technical,Multiple,1979,Tier 1,"Physics,Math,Leadership","~50/year, elite technical leadership"
+Mamram,IDF Mamram,Military Unit,Technical,Multiple,1959,Tier 1,"Software,IT,Systems",Computer and information systems center
+Unit 81,IDF Unit 81,Military Unit,Intelligence,Multiple,,Tier 1,"Technology,Intelligence",Technology and intelligence unit
+8200 EISP,8200 EISP Accelerator,Accelerator,Incubator,Tel Aviv,2013,Tier 1,"Startups,Mentorship","300+ companies supported, 9 exits totaling $4.5B"
+The Junction,The Junction by Genesis,Accelerator,Incubator,Tel Aviv,,Tier 2,"Startups,Corporate Innovation",
+Techstars TLV,Techstars Tel Aviv,Accelerator,,Tel Aviv,,Tier 2,"Startups,Funding",
+Microsoft Accelerator TLV,Microsoft for Startups,Accelerator,,Tel Aviv,,Tier 2,"Enterprise,Cloud",
+Team8,Team8,Accelerator,Cyber Foundry,Tel Aviv,2014,Tier 1,"Cybersecurity,Enterprise",Founded by 8200 commander Nadav Zafrir

@@ -1,0 +1,5710 @@
+[
+  {
+    "id": "rec0015pfQwF2y6jW",
+    "fields": {
+      "Name": "Rami Kalish",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recBk8c4Iq47IHMWq"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder",
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Founded Polaris Venture Capital (later Pitango) in 1993 as part of the Yozma government initiative. Prior to founding Pitango, held sales/marketing positions at IBM and senior executive roles at Orbotech. Built Pitango into Israel's largest VC fund with $3B+ under management, 300+ investments, 90+ exits."
+    }
+  },
+  {
+    "id": "rec0ebT3VWWWRW3wX",
+    "fields": {
+      "Name": "Gigi Levy-Weiss",
+      "Current Role": "General Partner",
+      "Current Company": [
+        "rectGyTiDGl5SmPQk"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Gaming,VC,Personal Investor",
+      "Notes": "NFX GP, prolific angel",
+      "Employment History": [
+        "recyV9Mvnf9WjPmMb"
+      ],
+      "Investment Relationships": [
+        "recqvASFP2iFxp26u"
+      ]
+    }
+  },
+  {
+    "id": "rec0vD1P9cCdImeXH",
+    "fields": {
+      "Name": "Zvi Ziv",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rechTb4HRCJJxEChc"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Silver Castle. Former CEO of Bank Hapoalim - Israel's largest banking group ($75B+ under management). World Bank consultant. Banking industry veteran turned crypto. Company publicly traded on TASE."
+    }
+  },
+  {
+    "id": "rec18b7uHO2S80axT",
+    "fields": {
+      "Name": "Deddy Lavid",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recC2wsRqyQJ8hxCf"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of CyVers. Serial ML entrepreneur with 11 patents in anomaly detection. Founded Presenso (acquired by SKF), then led SKF Israeli subsidiary."
+    }
+  },
+  {
+    "id": "rec1DRa2A7cEBtt0a",
+    "fields": {
+      "Name": "Omer Goldberg",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recfb2cVyClkaI6SD"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "DeFi,Risk",
+      "Notes": "Chaos Labs founder",
+      "Employment History": [
+        "rec7ZAZiq8l6X3H2u"
+      ]
+    }
+  },
+  {
+    "id": "rec1IfveytHyp4qJ9",
+    "fields": {
+      "Name": "Yaniv Tal",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Location": "SF Bay Area",
+      "Notes": "The Graph co-founder - decentralized indexing protocol"
+    }
+  },
+  {
+    "id": "rec1Q791WlN8MZcJ1",
+    "fields": {
+      "Name": "Alon Shvartsman",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-Founder and CEO of Newhedge - Bitcoin analytics platform providing market-leading research and on-chain insights. Founded 2022. Quickly became leading Bitcoin intelligence terminal."
+    }
+  },
+  {
+    "id": "rec1XBp7Lrx7al2W6",
+    "fields": {
+      "Name": "Or Dadosh",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recxIShRH64Fk45DV"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Venn,EigenLayer,Security",
+      "Notes": "Venn founder - Collider portfolio",
+      "Employment History": [
+        "recco6zYDoB6CmuyS"
+      ]
+    }
+  },
+  {
+    "id": "rec2cXHAxIh7Stk6a",
+    "fields": {
+      "Name": "David Solomon",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Reach co-founder - blockchain payments"
+    }
+  },
+  {
+    "id": "rec2j9BZb8f3Gv5z9",
+    "fields": {
+      "Name": "Ami Luttwak",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recr3zyBhynRsDCM5"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "TRUE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Adallom,Wiz,8200,Talpiot",
+      "Notes": "Adallom & Wiz co-founder. 8200 + Talpiot alumni. Microsoft $320M + Google $32B exits."
+    }
+  },
+  {
+    "id": "rec2t2xDm930P2Fw0",
+    "fields": {
+      "Name": "Omer Sadika",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Ika co-founder - parallel MPC network"
+    }
+  },
+  {
+    "id": "rec2tllIYbNpL6fD7",
+    "fields": {
+      "Name": "David Lachmish",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Ika co-founder - parallel MPC network"
+    }
+  },
+  {
+    "id": "rec2w86ZyrCdUXlZ3",
+    "fields": {
+      "Name": "Ziv Keinan",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recAfF6E0nhNAXJjG"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of Simetria - Israel's first digital securities marketplace. Former founding member and COO of Ownera (backed by JP Morgan, US Bank). Backed by Tim Draper's Draper Goren Holm VC. Holds ISA no-action letter for digital securities trading."
+    }
+  },
+  {
+    "id": "rec3lUd44f7Nqy05V",
+    "fields": {
+      "Name": "Erez Ben-Kiki",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rechSsXS7sYutOGkp",
+        "recM052Wi1PtoDSa5"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of ChainPort (blockchain bridge). Also co-founded 2key. ChainPort is first bridge with 95% cold storage security, MPC cryptography. Flagship product of DcentraLab alongside TokensFarm and Hord."
+    }
+  },
+  {
+    "id": "rec3m1om8jAyVv2Hw",
+    "fields": {
+      "Name": "Tal Be'ery",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recMMB0BpQtSuwLo0"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Zengo. TAU MS EE, CISSP. 9x BlackHat speaker. Ex-Microsoft Sr Manager Security Research. Ex-Aorato VP Research (acq by MSFT). Ex-Imperva. Won Coinbase bug bounties."
+    }
+  },
+  {
+    "id": "rec3s3gIUKmt5z1dR",
+    "fields": {
+      "Name": "Yaniv Azar",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "recln4WfG8UuAeGBa",
+        "recKKH6W6iP03b5UL"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of nReach (Web3 B2B sales platform). Background in leadership roles at Israel Elite Intelligence Unit 8200. AI and data-driven solutions expert. Created platform achieving 5x response rates vs traditional methods."
+    }
+  },
+  {
+    "id": "rec43gVVhq9MZqEmd",
+    "fields": {
+      "Name": "Roberto Klein",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recn6bchgyFrSrVNz"
+      ],
+      "Primary Type": "Founder",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Backed Finance (tokenized stocks), Legal Lead. B.S. and M.S. from Tel Aviv University in Electrical Engineering. Previously at DAOstack handling legal and regulatory. Company HQ in Zug, Switzerland. Acquired by Kraken."
+    }
+  },
+  {
+    "id": "rec4KDkXCJk70KpgL",
+    "fields": {
+      "Name": "Dov Moran",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recCz7WqxN4QhwazK"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Investor"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Notes": "Israeli businessman, electrical engineer, inventor. Best known as inventor of USB flash drive (DiskOnKey). Founded M-Systems in 1989 - grew to $1B revenue, sold to SanDisk for $1.6B in 2006. Founded Modu (modular smartphone) in 2007 - raised $130M, shut down 2011. Patents sold to Google for $4.9M (became Project Ara). Serial entrepreneur and investor."
+    }
+  },
+  {
+    "id": "rec4yD0f1gG26fr54",
+    "fields": {
+      "Name": "Dima Kogan",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Fordefi co-founder - institutional wallet, 8200 alumni"
+    }
+  },
+  {
+    "id": "rec5D87LVWEh7ZTt6",
+    "fields": {
+      "Name": "Michael Shaulov",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "8200,Crypto,MPC",
+      "Notes": "Fireblocks founder, $8B valuation",
+      "Employment History": [
+        "recCwXtli1GffZQGX",
+        "reckHoqWzTlZmhjoX"
+      ]
+    }
+  },
+  {
+    "id": "rec5PFIYo7S3295yo",
+    "fields": {
+      "Name": "Ilan Schuster",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec6LxUMjR4VeqWnZ"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Tech industry background. Introduced Laurence Newman to Bitcoin which led to founding Coinmama."
+    }
+  },
+  {
+    "id": "rec5Uz9S4zjeG6LyQ",
+    "fields": {
+      "Name": "Yonatan Roash",
+      "Current Role": "Chairman",
+      "Current Company": [
+        "recmOzQzSKJR0sp7Q"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Bits of Gold,Exchange,Crypto",
+      "Notes": "Bits of Gold co-founder & Chairman. Founded 2013 with brother Yuval. 200K+ customers, Israel's largest crypto entity."
+    }
+  },
+  {
+    "id": "rec5sjEwOSeXbXJ8l",
+    "fields": {
+      "Name": "Roei Levav",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recEni2V85APdHuse"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Efficient Frontier. Co-founded Tradomatics (traded 5-10% of TASE options, $5B+ annual). Angel/VC investor since 2006. Active Bitcoin community volunteer educating regulators. $10B+ monthly crypto volume."
+    }
+  },
+  {
+    "id": "rec64IYaUkWjqBOGQ",
+    "fields": {
+      "Name": "Ruben Perez",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec7MJX2CphTnPu43"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "CTO & CPO Certhis. Self-taught full-stack dev since 2010. Blockchain ecosystem experience since 2016. 10+ years in technology."
+    }
+  },
+  {
+    "id": "rec6FSLkRtbd57IHN",
+    "fields": {
+      "Name": "Ami Luttwak",
+      "Current Role": "CTO",
+      "Current Company": [
+        "rec16Q9Kryxz6heVn"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "8200,Serial Founder,Cyber",
+      "Notes": "Adallom + Wiz co-founder",
+      "Employment History": [
+        "recK2zcFyxGR9fv57",
+        "recRrR09pkSxz42T8",
+        "recz9Td9ZSwtx8iBX"
+      ]
+    }
+  },
+  {
+    "id": "rec6MZ4hqzHOpwS1I",
+    "fields": {
+      "Name": "Kfir Nissan",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rechffrMChpTukJpf"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Valid Network (Web3 intelligence). Based in Be'er Sheva with NY office. Company raised $8M from Ten Eleven Ventures and JVP. Platform provides real-time monitoring, forensics, and investigation for smart contracts and on-chain behaviors."
+    }
+  },
+  {
+    "id": "rec6QPW2hepdgbZ6I",
+    "fields": {
+      "Name": "Shauli Rejwan",
+      "Current Role": "Partner",
+      "Current Company": [
+        "rec7FJDX5PHLU5jPL"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Frustrated Allocator",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Web3,VC",
+      "Notes": "Sponsors Web3 Dev Underground",
+      "Employment History": [
+        "recqUORgAmRBkjg7T"
+      ]
+    }
+  },
+  {
+    "id": "rec6gRpZquNVHaF2B",
+    "fields": {
+      "Name": "Eran Ruso",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec8Y6VYetRh1dWH0"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Crowdsense (shut down). Former tech leader at ICE (NYSE owner) and Super Derivatives. Led 70+ person tech dept at CET. Now at V-HOLA Labs. ML/NLP expert."
+    }
+  },
+  {
+    "id": "rec6gsEUgLwZ9IpU2",
+    "fields": {
+      "Name": "Tal Zackon",
+      "Current Role": "Founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Tres Finance,Accounting",
+      "Notes": "Tres Finance founder - Web3 accounting"
+    }
+  },
+  {
+    "id": "rec7EArE6QNu7LSkn",
+    "fields": {
+      "Name": "Israel Grimberg",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recREi1inShZZCeqX"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Team8,8200,Cybersecurity",
+      "Notes": "Team8 co-founder. Former head of 8200's cyber division."
+    }
+  },
+  {
+    "id": "rec7V7nbQ8T8sfudi",
+    "fields": {
+      "Name": "Ido Ben-Natan",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recIqFr5pEa28IABK"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Web3 Security,8200",
+      "Notes": "Blockaid founder - rising star",
+      "Employment History": [
+        "recuB5qPjaMSoj3tO",
+        "reccD0NXzndcoaXB4"
+      ]
+    }
+  },
+  {
+    "id": "rec7di4u0Bg7hLqZQ",
+    "fields": {
+      "Name": "Guy Itzhaki",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recgsJJL6q5ZXQXhH"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "FHEenix,FHE,Privacy",
+      "Notes": "FHEenix founder - Collider portfolio",
+      "Employment History": [
+        "rec8SwPUAoMIvqrz4"
+      ]
+    }
+  },
+  {
+    "id": "rec7gqfXXGrzItiwg",
+    "fields": {
+      "Name": "Dan Danay",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Curv co-founder (PayPal $200M acquisition)"
+    }
+  },
+  {
+    "id": "rec7l5xzgGEiywXxm",
+    "fields": {
+      "Name": "Daniel Sevitt",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "GK8,Custody",
+      "Notes": "GK8 co-founder - Galaxy acquisition"
+    }
+  },
+  {
+    "id": "rec7maLVBsuf5FoRB",
+    "fields": {
+      "Name": "Uzi Gabsi",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recy09d21fx3eMIJs"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Strategy & Co-founder of Exberry. Co-founded OM2 Group. Strategic vision for exchange infrastructure."
+    }
+  },
+  {
+    "id": "rec7qH2FnQGdQj5Zi",
+    "fields": {
+      "Name": "Eyal Miller",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "rec2HrAph70ZpQ08g"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Notes": "Former VP & Managing Director of Samsung Next Tel Aviv. Set up Google's Tel Aviv campus before Samsung. Led Samsung Next's Israel office for nearly a decade, investing in 70+ startups before closure in April 2024."
+    }
+  },
+  {
+    "id": "rec7vbTyynVm5KOhd",
+    "fields": {
+      "Name": "Assaf Eli",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Venn co-founder - transaction security network"
+    }
+  },
+  {
+    "id": "rec820ojuBuuv7ncv",
+    "fields": {
+      "Name": "Guy Peer",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Notes": "Unbound Security co-founder - acquired by Coinbase"
+    }
+  },
+  {
+    "id": "rec85KuULsDhGNdAM",
+    "fields": {
+      "Name": "Dan Yadlin",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Curv,MPC,PayPal",
+      "Notes": "Curv co-founder - $200M PayPal exit",
+      "Employment History": [
+        "recWy5j7ujRq9jmHI"
+      ]
+    }
+  },
+  {
+    "id": "rec85SVLmNHLO5DnP",
+    "fields": {
+      "Name": "Josh Schwartz",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recg3boJcAeqqFifD"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Fordefi,Paxos,Crypto",
+      "Notes": "Fordefi co-founder & CEO. Founded 2021. Acquired by Paxos for $100M+ in 2025."
+    }
+  },
+  {
+    "id": "rec85zy4ZqKggVcmP",
+    "fields": {
+      "Name": "Tom Teman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Notes": "Portis co-founder - acquired by ShapeShift"
+    }
+  },
+  {
+    "id": "rec8abEZrmZ37y3QV",
+    "fields": {
+      "Name": "Roy Bick",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recrv7by3z2Lew14G"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Moovit,Intel,Mobility",
+      "Notes": "Moovit co-founder & CTO. Intel acquisition $900M (2020)."
+    }
+  },
+  {
+    "id": "rec8avKbSoSENEVOd",
+    "fields": {
+      "Name": "Bentzi Rabi",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Utila co-founder - wallet infrastructure"
+    }
+  },
+  {
+    "id": "rec8fin4YdnEsBDJC",
+    "fields": {
+      "Name": "Alexander Zaidelson",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recyzRE2JTG5OlUkF",
+        "recT8NnlpdUZV57BS"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive",
+        "Investor"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of Beam (Mimblewimble privacy coin). Israeli tech veteran. Co-founded Nareos (P2P file-sharing, 2005), Wikitup (desktop dictionary, acquired by iMesh). Former VP Product at WeFi. Spent 2 years in VC investing in Israeli growth/late-stage companies before Beam."
+    }
+  },
+  {
+    "id": "rec8xYQ5jRAQuV0UB",
+    "fields": {
+      "Name": "Mor Assia",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recJUyGwzguoehAfP"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Women,Angel",
+      "Notes": "iAngels co-founder. Previously Corporate Strategy at Amdocs, BD at SAP, Strategy at IBM. Forbes Midas List."
+    }
+  },
+  {
+    "id": "rec9QHHrftPXqCq4Q",
+    "fields": {
+      "Name": "Gil Shwed",
+      "Current Role": "Executive Chairman",
+      "Current Company": [
+        "rec1umsiFg35vSD8o"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "Is Technion Alumni": true,
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Cyber Godfather,8200",
+      "Notes": "Check Point founder, invented firewall, Israel Prize laureate",
+      "Employment History": [
+        "reczwIbzWqePjX3Dg",
+        "recyco6EB1W3lKT1X"
+      ]
+    }
+  },
+  {
+    "id": "rec9XlDeUPUNZT32j",
+    "fields": {
+      "Name": "Eli Mizroch",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rechTb4HRCJJxEChc"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "CEO of Silver Castle (2018) - Israel's first digital currency investment house. Publicly traded on TASE (Jan 2022). Blockchain economics expert. Former Senior Partner at TASC (Israel's leading mgmt consulting). Held senior positions at Bank Hapoalim and Bezeq Group. Former CEO of Golf & Co."
+    }
+  },
+  {
+    "id": "rec9mnF8czpArvmNn",
+    "fields": {
+      "Name": "Sagi Maman",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recM2yakI53uqAjps"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Gaming,Web3,Playtika,IAF",
+      "Notes": "Xternity co-founder & CEO. Former Head of Monetization at Playtika. 12 years in Israeli Air Force as officer."
+    }
+  },
+  {
+    "id": "recA4aaxVhHWsJlx1",
+    "fields": {
+      "Name": "Tal Asa",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recRiBAfh6CJGKAXy"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc Communication Systems Engineering Ben-Gurion U. 16+ years full-stack development. Former VP R&D, Applications Group Manager. Expertise: Software Design, System Architecture, Multithreading."
+    }
+  },
+  {
+    "id": "recAMBNjUKAb6xehO",
+    "fields": {
+      "Name": "Yehonatan Cohen Scaly",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec5hT5htqxLnK344",
+        "receQ9sINVUWLYUjb",
+        "rectWzOv1w5Mv3Pxp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of dWallet Labs / Odsy / Ika Network. Vulnerability researcher - found 0-days in Linux kernel. Kernel exploitation, race conditions, UAF, heap shaping expert. Bar-Ilan University."
+    }
+  },
+  {
+    "id": "recAlDyUtjEadH1wH",
+    "fields": {
+      "Name": "Tomer Sharoni",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recZtvAEJbhsFExZp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Addressable. Talpiot program alum. 3x Israeli Defense Prize winner. Elite technical + leadership background."
+    }
+  },
+  {
+    "id": "recBFMLPWWiuT3Z8W",
+    "fields": {
+      "Name": "Yaniv Azar",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Reach co-founder - blockchain payments"
+    }
+  },
+  {
+    "id": "recBNANue6Zex8KTK",
+    "fields": {
+      "Name": "Liat Aaronson",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recCsvMjfUt3ZY4YT"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "COO & Co-founder of Horizen Labs. Ran IDC Herzliya Zell Entrepreneurship Program for 10 years. Former COO of Selina Hospitality. Started in M&A at major Israeli law firm. Facebook Israel SheShe mentor."
+    }
+  },
+  {
+    "id": "recBiZScHawk9wmTk",
+    "fields": {
+      "Name": "Nadav Dakner",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recAiDxP54wxD5XrH"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of MarketAcross. IDC Herzliya Psychology. Also founded InboundJunction, BusinessBee, Chainwire. Active angel investor (accessiBe, Dialogue). E-commerce, AI, SaaS investments."
+    }
+  },
+  {
+    "id": "recC2TZZkqhePGX62",
+    "fields": {
+      "Name": "Shahar Shamai",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "GK8,Custody",
+      "Notes": "GK8 co-founder - Galaxy acquisition"
+    }
+  },
+  {
+    "id": "recC55VmiqrDirgL1",
+    "fields": {
+      "Name": "Oren Yokev",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recmVtdPBI5bHC7py"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Chain Reaction (ZK proofs/privacy chips). Led technology unit of Israeli Prime Minister's office for 21+ years. Specialized in cybersecurity and R&D team management. Technion classmate of Alon Webman."
+    }
+  },
+  {
+    "id": "recCBEyeE9UGG2OBH",
+    "fields": {
+      "Name": "Yehonatan Scaly",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Ika co-founder - parallel MPC network"
+    }
+  },
+  {
+    "id": "recCPFHJcH8qWIEOq",
+    "fields": {
+      "Name": "Dr. Eran Tromer",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "Zcash,Cryptography",
+      "Notes": "Tel Aviv University. Zcash founding scientist (Zerocash protocol)."
+    }
+  },
+  {
+    "id": "recCWv6BiLfunPdo2",
+    "fields": {
+      "Name": "Alon Webman",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recmVtdPBI5bHC7py"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Technion Alumni": true,
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Chain Reaction (ZK proofs/privacy chips). Also co-founder of Mellanox Technologies (networking equipment) - acquired by NVIDIA for $7B. Technion classmate of Oren Yokev. Building 'next Nvidia' for privacy/crypto compute with custom CrPU chips."
+    }
+  },
+  {
+    "id": "recCWzgDMz5O3tyAu",
+    "fields": {
+      "Name": "Shelly Hod Moyal",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recJUyGwzguoehAfP"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Women,Angel,Goldman",
+      "Notes": "iAngels co-founder. Previously Investment Banker at Goldman Sachs, Research Analyst at Avenue Capital, Financial Adviser at UBS."
+    }
+  },
+  {
+    "id": "recD6gm5fZ9s90M6Q",
+    "fields": {
+      "Name": "Nir Zuk",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recJp6behB2K5lToj"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "SF Bay Area",
+      "Tags": "Cyber,Check Point Alumni",
+      "Notes": "Palo Alto Networks founder, ex-Check Point, $150M+ invested in Israeli startups",
+      "Employment History": [
+        "recAHWCxWplhQShn4",
+        "rec4bNOiMnupjxQxo"
+      ],
+      "Investment Relationships": [
+        "recoNogdwl0UOniPh"
+      ]
+    }
+  },
+  {
+    "id": "recDNvDtKTFYp5Mrh",
+    "fields": {
+      "Name": "Afik Rechler",
+      "Current Role": "CEO",
+      "Current Company": [
+        "rec7WcKPwre7aI8iD"
+      ],
+      "Primary Type": "Executive",
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,PR",
+      "Notes": "Chainstory co-CEO."
+    }
+  },
+  {
+    "id": "recDOniIw2rzjK7ap",
+    "fields": {
+      "Name": "Shelly Grossman",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recPIVFl2SqcY582B"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Certora ($100B+ TVL secured). TAU PhD candidate Smart Contract Verification. TAU MS CS. Ex-Check Point (5 years). Lead author isolation technique for modular reasoning."
+    }
+  },
+  {
+    "id": "recDUA4xZOsJiXppW",
+    "fields": {
+      "Name": "Gil Dibner",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recNm2OqWlm6AYKLH"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Frustrated Allocator",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Deep Tech,Solo GP",
+      "Notes": "Angular Ventures founder, makes own decisions",
+      "Employment History": [
+        "recPxkVqLC66Z2hHq"
+      ],
+      "Investment Relationships": [
+        "recJnvHMcJrzUvrte"
+      ]
+    }
+  },
+  {
+    "id": "recDZI37mQVSNothM",
+    "fields": {
+      "Name": "Alon Muroch",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "SSV Network founder - distributed validator technology"
+    }
+  },
+  {
+    "id": "recDeSn1ngChagDZG",
+    "fields": {
+      "Name": "Omer Sadika",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec5hT5htqxLnK344",
+        "receQ9sINVUWLYUjb",
+        "rectWzOv1w5Mv3Pxp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of dWallet Labs / Odsy / Ika Network. Co-founded Salt Security (API Security unicorn). Israeli cyber intel. Y Combinator alum. Raised $12.5M at $250M valuation."
+    }
+  },
+  {
+    "id": "recDnIsrFTu986ML2",
+    "fields": {
+      "Name": "Pavel Berengoltz",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Fireblocks co-founder - $8B valuation, 8200 alumni"
+    }
+  },
+  {
+    "id": "recEBfvQO0xfWOIHL",
+    "fields": {
+      "Name": "Eitan Lavi",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rechSsXS7sYutOGkp",
+        "recM052Wi1PtoDSa5"
+      ],
+      "Primary Type": "Founder",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of ChainPort (blockchain bridge). Also co-founded 2key with Erez Ben-Kiki. ChainPort supports all common bridging methods with hard-security approach."
+    }
+  },
+  {
+    "id": "recEFXcmITyv6tJ3C",
+    "fields": {
+      "Name": "Nadav Ivgi",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recoZbZWLydW5p3nR"
+      ],
+      "Primary Type": "Founder",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder of Bitrated (2013) - first multi-signature Bitcoin app ever released. 14+ years software development experience. Previously CTO at marketing automation firm he co-founded in 2009. Long-time Bitcoin enthusiast. Company now deadpooled. Advisor: Meni Rosenfeld (Israeli Bitcoin Association Chair)."
+    }
+  },
+  {
+    "id": "recFQ85JPk9fs71CS",
+    "fields": {
+      "Name": "Eran Shir",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Nexar co-founder (AI dashcam) - previously in crypto space"
+    }
+  },
+  {
+    "id": "recFbjCSpu6z3QS9U",
+    "fields": {
+      "Name": "Or Perelman",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec0ebLFSMA9mTcVS"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "LLB Netanya Academic College. In blockchain since 2011. Co-founded Safebit (early Bitcoin wallet) with Stefan Thomas. Marketing/BD background."
+    }
+  },
+  {
+    "id": "recFg3ntJHsjDnWy6",
+    "fields": {
+      "Name": "Michael Eisenberg",
+      "Current Role": "Partner",
+      "Current Company": [
+        "recF71OHfTcuMMUNM"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Thought Leader,VC",
+      "Notes": "Aleph partner, writes about crypto",
+      "Employment History": [
+        "rectoBHY2YRErtRvD"
+      ],
+      "Investment Relationships": [
+        "recOgsiLzF0jLIFPe"
+      ]
+    }
+  },
+  {
+    "id": "recGQBQcYCKUjm1id",
+    "fields": {
+      "Name": "Nir Erez",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recrv7by3z2Lew14G"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "Moovit,Intel,Mobility",
+      "Notes": "Moovit co-founder, CEO (2012-2024), now President. Serial entrepreneur (ActionBase, OptimalPlus). Intel acquisition $900M. Eyron Group co-owner."
+    }
+  },
+  {
+    "id": "recGS8dMSTogxgUCp",
+    "fields": {
+      "Name": "Netanel Kabala",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Simplex,Payments",
+      "Notes": "Simplex co-founder - $225M Nuvei exit"
+    }
+  },
+  {
+    "id": "recGbBlCvkhBnq3Ry",
+    "fields": {
+      "Name": "Shahar Shamai",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "GK8 co-founder - acquired by Galaxy Digital $125M, 8200 alumni"
+    }
+  },
+  {
+    "id": "recGcXmF8dYLMJoqz",
+    "fields": {
+      "Name": "Ohad Assoulin",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec58zWX3lV7Nqbzx"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Tydal, an R&D company developing proprietary algorithmic trading systems for digital assets. 4+ years developing algo trading strategies."
+    }
+  },
+  {
+    "id": "recGnRbzCtwFOga9m",
+    "fields": {
+      "Name": "Amos Meiri",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recBj3X2kUYiTivVx"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founded Node Capital (crypto VC) in 2021. Pioneer in crypto & digital assets - co-founded Colored Coins (first digital assets protocol) in 2012 and Colu.com (first digital assets platform) in 2014. Former head of trading at eToro. Key positions at other investment firms."
+    }
+  },
+  {
+    "id": "recGpRlwBi1tCaHte",
+    "fields": {
+      "Name": "Chemi Peres",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recBk8c4Iq47IHMWq"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Son of former President Shimon Peres. Born July 17, 1958 in Tel Aviv. Joined Rami Kalish in 1996 to co-found Polaris Fund II (later Pitango). Built Pitango into Israel's largest and longest-standing VC with 14 funds, $3B+ under management."
+    }
+  },
+  {
+    "id": "recGuxXZ8ct5wtO3F",
+    "fields": {
+      "Name": "Shahaf Bar-Geffen",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recg57t2QALaB532A"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of COTI Network (2017) - enterprise payments blockchain. Serial entrepreneur 15+ years. Previously sold Web3 media company to McCann Erickson (IPG) in 2016. Founded Positive Mobile (early smartphone advertising, acquired). Co-founded WEB3 digital marketing (2006, now in 15 countries). First beneficiary of Cardano's cFund."
+    }
+  },
+  {
+    "id": "recH0cFjOYVxa2sfC",
+    "fields": {
+      "Name": "Alessandro Chiesa",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Location": "SF Bay Area",
+      "Notes": "StarkWare co-founder - UC Berkeley professor, STARK inventor with Eli Ben-Sasson"
+    }
+  },
+  {
+    "id": "recH3SysAOlXgb9t2",
+    "fields": {
+      "Name": "Netanel Kabala",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recWygOnNJPgkGr6V"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Simplex,Payments,PayPal",
+      "Notes": "Simplex co-founder & Chief Analytics Officer. Former PayPal employee. Nuvei exit ~$225M."
+    }
+  },
+  {
+    "id": "recHNehSuUdf7XOrM",
+    "fields": {
+      "Name": "Adam Levi (DAOStack)",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recHsw45hkbdGDLTk"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & CTO at DAOStack (shut down 2022). PhD Physics, Technion. Now Co-Founder at Backed Finance. Former IDF radar engineer. LinkedIn: linkedin.com/in/leviadam. Twitter: @leviadam1"
+    }
+  },
+  {
+    "id": "recHRPi7dqwq847gn",
+    "fields": {
+      "Name": "Elichai Turkel",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recjCj2ifNWWSrDlY"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and Head of Engineering at Sodot (MPC infrastructure). Previously Co-Founder and CTO of Colu. Played key role in developing Colored Coins specification for Bitcoin. Part of founding team in July 2023."
+    }
+  },
+  {
+    "id": "recHWJ9Djl4ZmHFjp",
+    "fields": {
+      "Name": "Ilan Sterk",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recC4fpWlT8Kd9lrE"
+      ],
+      "Primary Type": "Executive",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Location": "Tel Aviv",
+      "Notes": "CEO of Altshuler Shaham Horizon (prime broker for digital assets). Former VP of Trading & Capital Markets at Orbs. ~20 years financial services experience. Working to grow digital assets business for retail and institutional investors."
+    }
+  },
+  {
+    "id": "recHh28trJ4ErufTZ",
+    "fields": {
+      "Name": "Eyal Eithcowich",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "reclaVjpxG448ahUp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Former campaign manager, filmmaker, consulting engineer manager at Apple Computer. VP Product LeadSpotting 2016-18. Founder/CTO Smart Monthly 2014-16. Built DeepDAO while member of Genesis Alpha DAO."
+    }
+  },
+  {
+    "id": "recHxuShueL2cSfyT",
+    "fields": {
+      "Name": "Liran Grinberg",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recREi1inShZZCeqX"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Team8,8200,Cybersecurity",
+      "Notes": "Team8 co-founder. 5 years in Israeli intelligence corps."
+    }
+  },
+  {
+    "id": "recI3OW2IdhoDaHCR",
+    "fields": {
+      "Name": "Tom Teman",
+      "Current Role": "Founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Portis,Wallet",
+      "Notes": "Portis founder - Shapeshift acquisition"
+    }
+  },
+  {
+    "id": "recIQAZAFxaGAqRet",
+    "fields": {
+      "Name": "Oren Zeev",
+      "Current Role": "Founder",
+      "Current Company": [
+        "rec50JuKhPFT84owl"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Cold",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Solo GP,Consumer",
+      "Notes": "Zeev Ventures, Houzz investor",
+      "Employment History": [
+        "rec5E4qk2HLUZtApn"
+      ]
+    }
+  },
+  {
+    "id": "recIoMuHQglG6V5b5",
+    "fields": {
+      "Name": "Avi Rozen",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Curv co-founder (PayPal $200M acquisition)"
+    }
+  },
+  {
+    "id": "recJ0EUjLIBuhCQK6",
+    "fields": {
+      "Name": "Aharon Miller",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Oobit co-founder - crypto payments app"
+    }
+  },
+  {
+    "id": "recJ7RM3Qn2JXXdEb",
+    "fields": {
+      "Name": "Pavel Berengoltz",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Fireblocks ($8B valuation). IDF 8200 - developed cutting-edge military products. CTO of Safend (acq Wave Systems). Joined Check Point after Lacoon. Deep cryptography expertise."
+    }
+  },
+  {
+    "id": "recJEjEwDCHoyNh3w",
+    "fields": {
+      "Name": "Itay Malinger",
+      "Current Role": "Advisor",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Advisor"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "MPC,Crypto,PayPal Exit",
+      "Notes": "Curv co-founder - PayPal $200M exit",
+      "Employment History": [
+        "recTIH1ZRZO11cbix"
+      ]
+    }
+  },
+  {
+    "id": "recJFGniHPPsw4snL",
+    "fields": {
+      "Name": "Isaac Applbaum",
+      "Current Role": "Partner",
+      "Current Company": [
+        "reciDTzQy2kLEIBYS"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Mizmaa,Lightspeed,VC",
+      "Notes": "Mizmaa Ventures co-founder (2016). Previously Partner at Lightspeed Venture Partners, SVP at Bank of America. Founded Concorde Solutions."
+    }
+  },
+  {
+    "id": "recJHsI51pThnYimy",
+    "fields": {
+      "Name": "Jacob Ner-David",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Vinsent (formerly VinX) - blockchain wine futures marketplace. Serial tech entrepreneur. Also founded Jezreel Winery (2011). Company backed by Medici Ventures. Note: Vinsent now closed."
+    }
+  },
+  {
+    "id": "recJMUcy9FhDwUzw9",
+    "fields": {
+      "Name": "Yuval Wirzberger",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec6xGOxYJxIyaoBc"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "15+ years tech/product management. Mission to democratize private equity/RE investing. Based in Abu Dhabi."
+    }
+  },
+  {
+    "id": "recJPqZEfPqtuBY29",
+    "fields": {
+      "Name": "Asaf Meir",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Solidus Labs co-founder - crypto market surveillance"
+    }
+  },
+  {
+    "id": "recJc6yOMoHE35YBM",
+    "fields": {
+      "Name": "Eyal Meron",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "recbrmasinFARI4t4"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of SphereX (smart contract security). 20+ years leading tier-1 cyber capabilities in cyber and intelligence community. Former CISO of Bank Leumi (Israel's leading bank). IDF 8200 veteran. SphereX raised $8.2M at $24M valuation - security solution prevents $2B+ in potential losses."
+    }
+  },
+  {
+    "id": "recJexrGBh6YpXDFu",
+    "fields": {
+      "Name": "Eli Ben-Sasson",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recg1Do9u8vc6GvBt"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "Is Technion Alumni": true,
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Cryptography,ZK,Technion",
+      "Notes": "StarkWare co-founder, invented STARKs, Technion professor",
+      "Employment History": [
+        "recuVAFUvGZErUekA",
+        "recaC9F7I11AX0aOw"
+      ]
+    }
+  },
+  {
+    "id": "recJg0ejjyvYdOW82",
+    "fields": {
+      "Name": "Idan Ofrat",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Fireblocks",
+      "Notes": "Fireblocks co-founder",
+      "Employment History": [
+        "recwiZPR2Agvn7O0y"
+      ]
+    }
+  },
+  {
+    "id": "recJiJKog7gthKjCO",
+    "fields": {
+      "Name": "Shimon Elkabetz",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "recFXjnkEhFiJchWK"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Founded Jibe Ventures in 2020. Jibe is an early-stage fund with a give-first approach, investing in business software, fintech, healthcare, AI, cybersecurity, and climate tech across Israel, Europe, US and MENA."
+    }
+  },
+  {
+    "id": "recJlcO08uYvxFje6",
+    "fields": {
+      "Name": "Omer Shlomovits",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recnflCzjsSgoQ3lC"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ingonyama,ZK,8200,Cryptography",
+      "Notes": "Ingonyama founder & CEO. 8 years IDF intelligence (8200 & 81). Co-founded ZK TLV. Building ZK hardware acceleration. Psagot Program graduate."
+    }
+  },
+  {
+    "id": "recJsvI6ChQTs0KIx",
+    "fields": {
+      "Name": "Michael Volfman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Fordefi co-founder - institutional wallet"
+    }
+  },
+  {
+    "id": "recKSObiopoRKRdTW",
+    "fields": {
+      "Name": "Adiel Ya'akov",
+      "Current Role": "Partner",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,VC",
+      "Notes": "Collider Ventures Partner"
+    }
+  },
+  {
+    "id": "recKWNXC2rYoTefAA",
+    "fields": {
+      "Name": "Alon Webman",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Chain Reaction co-founder - blockchain hardware acceleration"
+    }
+  },
+  {
+    "id": "recKaOnqw9XhQeaug",
+    "fields": {
+      "Name": "Mickey Boodaei",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recbTGSXywtgVq4cb"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "Imperva,Trusteer,IBM,Cyber",
+      "Notes": "Imperva co-founder. Founded Trusteer (acquired by IBM). Serial entrepreneur."
+    }
+  },
+  {
+    "id": "recKekbQrFSXWkfh5",
+    "fields": {
+      "Name": "David Ring",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recr8av1JZcYzicWa"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founded eToro (CTO 2007-2012). BSc Electronics Technion, MSc CS IDC, MBA Finance Manchester. Founding team 888.com (Head of Gaming R&D). 20+ years founding high-tech companies, $200M+ total fundraising. Angel investor."
+    }
+  },
+  {
+    "id": "recKk7RF7IFR5gxfd",
+    "fields": {
+      "Name": "Oren Fine",
+      "Current Role": "Founder & CTO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Spherex co-founder - smart contract security, 8200 alumni"
+    }
+  },
+  {
+    "id": "recLBTfEaYWgUoE4C",
+    "fields": {
+      "Name": "Matan Hamilis",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recjCj2ifNWWSrDlY"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and Head of Research at Sodot (MPC infrastructure). Founded company with Ido Sofer, Shalev Keren, and Elichai Turkel in July 2023."
+    }
+  },
+  {
+    "id": "recLFlPjFNhbpjGxp",
+    "fields": {
+      "Name": "Benjamin Vodovozov",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec1BY7ksmeSEcYUF"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Co-founder & CMO at Magic Square. 15+ years hi-Tech, 10+ years in NFTs, Crypto, Digital Marketing. Entrepreneur, Business Advisor, Investor. LinkedIn: linkedin.com/in/benjamin-vodovozov"
+    }
+  },
+  {
+    "id": "recLfUIbyjcW7sjRn",
+    "fields": {
+      "Name": "Aviv Zohar",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recB50cJIolMhPbu2"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Full Professor Hebrew University CS. PhD CS Hebrew U. 10K+ citations on Google Scholar. World-renowned blockchain/crypto researcher. Cited by Vitalik Buterin in early Ethereum writings. The Marker '40 under 40'."
+    }
+  },
+  {
+    "id": "recLxuXoPuU9uAAzk",
+    "fields": {
+      "Name": "Eitan Katz",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recfvA7wQFOzmIyUG"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Kima. IDF 8200 alum. Former HP/HPE. Founded Aegis MPC wallet in 2014. Mastercard partnership for DeFi credit card."
+    }
+  },
+  {
+    "id": "recM15WtSTC9zz7Mq",
+    "fields": {
+      "Name": "Daniel Peled",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recSFZQOSfb6BES9e"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & President at Orbs (2017). Previously co-founded PayKey (fintech with MasterCard, Santander investors). First Israeli to ICO a blockchain company. LL.M and BS Economics. LinkedIn: linkedin.com/in/dpeled"
+    }
+  },
+  {
+    "id": "recM2fItCoCDFJgJq",
+    "fields": {
+      "Name": "Tamar Vereli",
+      "Current Role": "Partner",
+      "Primary Type": "Executive",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,Finance",
+      "Notes": "Collider Ventures Finance Operations"
+    }
+  },
+  {
+    "id": "recMA7Xc7fhCcEGB2",
+    "fields": {
+      "Name": "Tom Teman",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "recz5foHBLOYTlcp7"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Portis (Ethereum wallet for dApps). Won first place at Tel Aviv Facebook Hackathon in Oct 2017 building decentralized Ethereum app. Company acquired by ShapeShift in 2020. Joined ShapeShift senior management after acquisition."
+    }
+  },
+  {
+    "id": "recMMuB6UQ9x8e2ln",
+    "fields": {
+      "Name": "Dean Rubin",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec70tan65XEXdJfY"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Othentic. BA Economics & CS from IDC Herzliya. Former DataOnix, AccessFintech. Technical lead for Othentic Stack."
+    }
+  },
+  {
+    "id": "recMajw4QUMsB0kh6",
+    "fields": {
+      "Name": "Ido Ben-Natan",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recIqFr5pEa28IABK"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Blockaid ($83M raised). IDF 8200 veteran. ISRAEL DEFENSE PRIZE winner. Ex-PM Office Cyber R&D Team Lead. Prevented $5.3B in losses. Clients: Coinbase, MetaMask, Uniswap."
+    }
+  },
+  {
+    "id": "recMh2BiGaBJno5zO",
+    "fields": {
+      "Name": "Oren Yokev",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Chain Reaction co-founder - blockchain hardware acceleration"
+    }
+  },
+  {
+    "id": "recMnLUEtirte00jW",
+    "fields": {
+      "Name": "Eyal Hertzog",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recMHGuPTQGkVtN9W"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Product Architect & Co-founder of Bancor (INVENTED AMMs). Founded MetaCafe (major video platform). Co-founded AppCoin. First xy=k liquidity pool (2017). $153M ICO in <3 hours."
+    }
+  },
+  {
+    "id": "recMncfAC44pHKdJ2",
+    "fields": {
+      "Name": "Itay Malinger",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recDI2pR0dlWBrKY2"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Curv (acq PayPal $200M). TALPIOT program. ISRAEL DEFENSE PRIZE. Ex-Akamai Dir Enterprise Security. Hebrew U BS/MS CS. Now at PayPal digital tokens. ELITE LP TARGET."
+    }
+  },
+  {
+    "id": "recMqOW2snMHDgvoB",
+    "fields": {
+      "Name": "Shahar Asher",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recM2yakI53uqAjps"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Gaming,Web3",
+      "Notes": "Xternity co-founder & CTO. Childhood friends with Sagi Maman."
+    }
+  },
+  {
+    "id": "recN6YMfZ1UwZwJzD",
+    "fields": {
+      "Name": "Michael Kellner",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "reccIdNzXyrtcMCEn"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Talpiot Alumni": "Yes",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of SendBlocks (blockchain data infrastructure). 10+ years in Talpiot program. Masters in post-quantum cryptography. Building scalable blockchain data stack for high-throughput chains."
+    }
+  },
+  {
+    "id": "recNCI8Ei7zjG2cU9",
+    "fields": {
+      "Name": "Itay Hasid",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec5hEVMF6RqF8XDp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Digital Dogs. Serial entrepreneur (Mobeego acq by Life Clips, Kado, QASE). Israeli Air Force veteran. Former Sr PM at Israel Aerospace Industries. Building AI-powered metaverse pets."
+    }
+  },
+  {
+    "id": "recNUncnyqtkkodbB",
+    "fields": {
+      "Name": "Asaf Meir",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recugi8PiLQCm0Ra4"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Solidus Labs,Goldman,Compliance",
+      "Notes": "Solidus Labs co-founder & CEO. Based in NYC. Former Goldman Sachs equities engineer. Founded 2018 for crypto compliance."
+    }
+  },
+  {
+    "id": "recNZmqkYjnNGdjnU",
+    "fields": {
+      "Name": "Uri Margalit",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "eOracle,EigenLayer",
+      "Notes": "eOracle co-founder"
+    }
+  },
+  {
+    "id": "recNwq4fQ7gqp4YlF",
+    "fields": {
+      "Name": "Avner Mor",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Notes": "Unbound Security co-founder - acquired by Coinbase"
+    }
+  },
+  {
+    "id": "recO1Xmq8m7pM0joK",
+    "fields": {
+      "Name": "Tal Kol",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recSFZQOSfb6BES9e"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder at Orbs. BSc summa cum laude Computer Engineering, Technion. Previously Head of Mobile Engineering at Wix, Head of Engineering at Kin. Co-founded Appixia (acquired by Wix). TON Foundation Ambassador."
+    }
+  },
+  {
+    "id": "recO1kmZWi5gxQNn3",
+    "fields": {
+      "Name": "Yishay Harel",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recSbgrYvcTyYgx2A"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Dymension,RollApps",
+      "Notes": "Dymension founder - modular blockchain",
+      "Employment History": [
+        "recwRz1FAsdsf5lCH"
+      ]
+    }
+  },
+  {
+    "id": "recO1lXVcQ4mK0zlm",
+    "fields": {
+      "Name": "Lior Lamesh",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recrSsrDDOPqhmpbi"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "GK8,Custody",
+      "Notes": "GK8 founder - Galaxy acquisition",
+      "Employment History": [
+        "recpBiEzcGCLdYraq"
+      ]
+    }
+  },
+  {
+    "id": "recOD2RNyzrGL5GfD",
+    "fields": {
+      "Name": "Yossi Vardi",
+      "Current Role": "Chairman",
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Cold",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Godfather,ICQ,80+ investments",
+      "Notes": "Israeli tech godfather, ICQ, 80+ investments",
+      "Employment History": [
+        "recmy8gLAo9xwTDDs"
+      ],
+      "Investment Relationships": [
+        "recMLqrrC49Qprmik"
+      ]
+    }
+  },
+  {
+    "id": "recODGjRwkkXvVzr3",
+    "fields": {
+      "Name": "Alex Romanov",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recyzRE2JTG5OlUkF"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Beam (Mimblewimble privacy cryptocurrency). Launched March 2018 with focus on privacy. Beam raised $5M total funding."
+    }
+  },
+  {
+    "id": "recOEjKZbGwiv6zYi",
+    "fields": {
+      "Name": "Tomer Ravid",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recC3SVDTqfVuhj4y"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of BloxTax - Israel's crypto tax platform combining calculation software with CPA services. Works directly with Israel Tax Authority."
+    }
+  },
+  {
+    "id": "recOY2vmArEZD0h9w",
+    "fields": {
+      "Name": "Shahar Madar",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Fireblocks co-founder (cybersecurity team), 8200 alumni"
+    }
+  },
+  {
+    "id": "recOgO9q6ALoZsdxH",
+    "fields": {
+      "Name": "Danny Silbiger",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rechTb4HRCJJxEChc"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Silver Castle. Experienced CEO/COO. Former senior exec at Playtech (world's largest gaming software, Teddy Sagi's group). Set up businesses in Europe, Asia, Israel, Central America. Founded Delevene (trading algorithms). Hedge fund consultant."
+    }
+  },
+  {
+    "id": "recOhorNwqVM8VOe0",
+    "fields": {
+      "Name": "Yehonatan Goldman",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recn6bchgyFrSrVNz"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and COO of Backed Finance (tokenized stocks). Master's in Cultural Heritage Conservation. Previously COO at DAOstack. One of three Israeli co-founders, company acquired by Kraken."
+    }
+  },
+  {
+    "id": "recOwOhhKCR1k7YmY",
+    "fields": {
+      "Name": "Tal Muskal",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rectR4HZwmJISMZl8"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive",
+        "Advisor"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of LiquidApps (DAPP Network). Senior technical advisor at Bancor focusing on blockchain interoperability. 30+ years software development. Serial founder at forefront of hardware, embedded systems, deep learning and cryptography. Also co-founded LiquidEOS."
+    }
+  },
+  {
+    "id": "recOy6HkzQxF8Fasj",
+    "fields": {
+      "Name": "Shelly Grossman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "Certora,Formal Verification",
+      "Notes": "Certora co-founder - smart contract audits"
+    }
+  },
+  {
+    "id": "recP3GRKLfvAZy0XF",
+    "fields": {
+      "Name": "Itai Turbahn",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec2jY77PaZNeU4ch"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Dynamic (acq by Fireblocks $90M). MIT + Harvard MBA. IDF Intelligence Corps Commander. Former Juul, BCG. Founded Villy travel-tech."
+    }
+  },
+  {
+    "id": "recP6lHpffAo1D80N",
+    "fields": {
+      "Name": "Nigel Smart",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Notes": "Unbound Security co-founder - acquired by Coinbase"
+    }
+  },
+  {
+    "id": "recPOnKXTTf6IP17w",
+    "fields": {
+      "Name": "Sebastian Lehrer",
+      "Current Role": "Investor",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Connector",
+      "Estimated Net Worth": "$1-5M",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,Content",
+      "Notes": "Collider investor, report author",
+      "Employment History": [
+        "recqYvl6UsOh1ZTsC"
+      ]
+    }
+  },
+  {
+    "id": "recPSLwD9NN0SXifk",
+    "fields": {
+      "Name": "Itay Radotzki",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recz5foHBLOYTlcp7"
+      ],
+      "Primary Type": "Founder",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Portis (Ethereum wallet for dApps). Co-developed Portis in 2018. Part of Ethereum Horizons Ltd. Company acquired by ShapeShift in 2020."
+    }
+  },
+  {
+    "id": "recPVBEIvS8KaSmzG",
+    "fields": {
+      "Name": "Eliaz Tobias",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec8Y6VYetRh1dWH0"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Crowdsense (shut down). Former Microsoft CTO Israel (9 years). Part of Azure founding team. Led Microsoft cloud enterprise in Seattle. 20+ years product/tech. HIGH VALUE CONTACT for LP network."
+    }
+  },
+  {
+    "id": "recPVqu6OeKiJIrhj",
+    "fields": {
+      "Name": "Michael Shaulov",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Fireblocks ($8B valuation, $1B+ raised). IDF 8200. Israel Presidential Excellency Honor. Founded Lacoon Mobile Security (acq Check Point $100M). Ben Gurion CS/Physics. Speaker at RSA, BlackHat. ELITE LP TARGET."
+    }
+  },
+  {
+    "id": "recPXWuFlnuIeyyz3",
+    "fields": {
+      "Name": "Udi Wertheimer",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recfGWtveya63T0PM"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Taproot Wizards,Bitcoin,Ordinals",
+      "Notes": "Taproot Wizards founder - Bitcoin Ordinals pioneer",
+      "Employment History": [
+        "recFYeiuLs8BQvfGH"
+      ]
+    }
+  },
+  {
+    "id": "recPbjY11FEhLVoAt",
+    "fields": {
+      "Name": "Amir Chetrit",
+      "Current Role": "Advisor",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ethereum,Colored Coins",
+      "Notes": "From the Colored Coins team, joined Ethereum as a co-founder. Early crypto pioneer who influenced Vitalik Buterin during his 2013 Israel visit."
+    }
+  },
+  {
+    "id": "recPcf2d1jpFl3yeA",
+    "fields": {
+      "Name": "Roy Reznik",
+      "Current Role": "VP R&D",
+      "Current Company": [
+        "rec16Q9Kryxz6heVn"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "8200,Serial Founder",
+      "Notes": "Adallom + Wiz co-founder",
+      "Employment History": [
+        "recjseNBKs1QrJ82T",
+        "recDn4TuaC88WFS22",
+        "recNQChvT6mHrhXtV"
+      ]
+    }
+  },
+  {
+    "id": "recPj5VuhpDCdQW6u",
+    "fields": {
+      "Name": "Yarden Shechter",
+      "Current Role": "Founder",
+      "Current Company": [
+        "rec70tan65XEXdJfY"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Othentic,AVS,EigenLayer",
+      "Notes": "Othentic founder - Collider portfolio",
+      "Employment History": [
+        "recPifS3gmEpXC52n"
+      ]
+    }
+  },
+  {
+    "id": "recQBQtgnGFNAlmgY",
+    "fields": {
+      "Name": "Shahar Shamai",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recrSsrDDOPqhmpbi"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "GK8,Galaxy,Custody,8200",
+      "Notes": "GK8 co-founder & CTO. PM Office cybersecurity veteran. Celsius ($115M) then Galaxy acquisition."
+    }
+  },
+  {
+    "id": "recQIRzKCEe7GE257",
+    "fields": {
+      "Name": "Amos Meiri",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recr8av1JZcYzicWa"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Former Head of Trading at eToro (2 years). College of Management Israel. Co-founded Colored Coins. Founding partner Node Capital. Strategic Advisor Algorand Foundation."
+    }
+  },
+  {
+    "id": "recQSKISnHw9p47ue",
+    "fields": {
+      "Name": "Avi Zeevi",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "rec5aA0ptEo6GGpMj"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Viola Group. Part of the original founding team in 2000 alongside Shlomo Dovrat, Harel Beit-On, Moti Weiss, and Ruthi Simha."
+    }
+  },
+  {
+    "id": "recQSb1AnLSniS3Mm",
+    "fields": {
+      "Name": "Harel Beit-On",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "rec5aA0ptEo6GGpMj"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder",
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founded Viola Group in 2000 with Shlomo Dovrat. Founded Viola Growth. Former CEO, President & Chairman of Tecnomatix (NASDAQ: TCNO) - led company to $100M revenues and 650+ employees before $228M sale to UGS in 2005. BA Economics from Hebrew University (now Chairman of Board), MBA MIT Sloan. 30+ years management experience in IT."
+    }
+  },
+  {
+    "id": "recQTAjUFPDDF5kk0",
+    "fields": {
+      "Name": "Yoni Goldberg",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Dynamic co-founder - Web3 auth platform (acquired by Fireblocks $90M)"
+    }
+  },
+  {
+    "id": "recQfCYdQo7vtBtaV",
+    "fields": {
+      "Name": "Julie Tauber",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recOJDKTHZ3Ototyl"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CPO & Co-founder of Tweed. Former Mastercard M&A. French-Israeli. 50% female org at Tweed."
+    }
+  },
+  {
+    "id": "recQiXcMsMTAAG444",
+    "fields": {
+      "Name": "Nir Duan",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recoBobRZgAHYiK2s"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of Sayfer (Web3 security company). Founded 2018. Experts in targeted audits and penetration tests for Web3/blockchain. Unique money-back guarantee with 40% staked in bug bounty. Active in Israeli Yalla Bitcoin community."
+    }
+  },
+  {
+    "id": "recQsvbvUtop2P2Ll",
+    "fields": {
+      "Name": "Lior Davidovitch",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recAeiobzwgB8OxaT"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of PUBLC, a new kind of search engine for Web 3.0. Building decentralized, social search with token economy to support web ecosystem."
+    }
+  },
+  {
+    "id": "recRuCC6l0BXVA0QA",
+    "fields": {
+      "Name": "Dr. Aviv Zohar",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "Blockchain,Scaling",
+      "Notes": "Hebrew University. Co-Founder & Chief Scientist at QED-it (Collider portfolio)."
+    }
+  },
+  {
+    "id": "recS9R1bE7BPGwRd8",
+    "fields": {
+      "Name": "Laurence Newman",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec6LxUMjR4VeqWnZ"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Serial entrepreneur. Open University of Israel. Started Coinmama after struggling to buy Bitcoin. Also works as personal coach for entrepreneurs."
+    }
+  },
+  {
+    "id": "recSVcttAzSqwV4Pz",
+    "fields": {
+      "Name": "Gary Benattar",
+      "Current Role": "Founder & CTO",
+      "Primary Type": "Founder",
+      "LP Potential": "Not Relevant",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Zengo co-founder - MPC wallet, NOTE: Already in discussion for Notalone investing in Zengo"
+    }
+  },
+  {
+    "id": "recSuQjYUImdJMLfy",
+    "fields": {
+      "Name": "Gil Binder",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec4d1aqpE0V6wyY6"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & CTO at Lava Network. Israeli entrepreneur with Web2 experience, deep expertise in software and cybersecurity."
+    }
+  },
+  {
+    "id": "recSvYDiZgHfkbFKE",
+    "fields": {
+      "Name": "Yehuda Lindell",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recaWIo9xh08qnewz"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Australian-born computer science professor at Bar-Ilan University. World-leading cryptography researcher, pioneered secure multi-party computation (MPC). Co-founded Unbound Security (2014) - acquired by Coinbase for ~$150M in 2022. Expert in cryptographic protocols."
+    }
+  },
+  {
+    "id": "recTRaBd6MRrIM7PQ",
+    "fields": {
+      "Name": "Ehud Shabtai",
+      "Current Role": "Advisor",
+      "Current Company": [
+        "rec8geNbSIlC6i6AF"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Advisor"
+      ],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Waze,8200",
+      "Notes": "Waze technical co-founder",
+      "Employment History": [
+        "recqzJ5TWEYBXMr4k"
+      ]
+    }
+  },
+  {
+    "id": "recTcFbaFQ6QvyV4x",
+    "fields": {
+      "Name": "Lior Simon",
+      "Current Role": "General Partner",
+      "Current Company": [
+        "recX5QldhPdWFR4aI"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Cyberstarts,Sequoia",
+      "Notes": "Cyberstarts General Partner. Previously at Sequoia Capital, Arbor Ventures. Industrial Engineering background."
+    }
+  },
+  {
+    "id": "recTg5ZG5DECM3TA4",
+    "fields": {
+      "Name": "Nimrod Lehavi",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recWygOnNJPgkGr6V"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Simplex,Payments",
+      "Notes": "Simplex founder - $200-250M Nuvei exit",
+      "Employment History": [
+        "recnbrXG66YN2WCJw"
+      ]
+    }
+  },
+  {
+    "id": "recTwV6JL57cyJzYj",
+    "fields": {
+      "Name": "Dr. Anna Becker",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec1BY7ksmeSEcYUF"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder at Magic Square. PhD Artificial Intelligence, Technion. Previously Founder & President at Strategy Runner (algorithmic trading 2001-2011), Co-founder at EndoTech.io (AI/FinTech). LinkedIn: linkedin.com/in/drannabecker"
+    }
+  },
+  {
+    "id": "recTxYlpyWapTvfaQ",
+    "fields": {
+      "Name": "Udi Mokady",
+      "Current Role": "Executive Chairman",
+      "Current Company": [
+        "reclf3nhn36oFBMX1"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "CyberArk,Cyber,NASDAQ",
+      "Notes": "CyberArk co-founder. CEO 2005-2023, now Executive Chairman. $1B+ revenue company. Based in Petah Tikva."
+    }
+  },
+  {
+    "id": "recU41ZpgpCeeo4yK",
+    "fields": {
+      "Name": "Adam Levi",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Backed,RWA",
+      "Notes": "Backed co-founder - tokenized stocks"
+    }
+  },
+  {
+    "id": "recUdtoA4FkW7xNt8",
+    "fields": {
+      "Name": "Nimrod Gruber",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec6LxUMjR4VeqWnZ"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO 2013-2017, then COO. Founded Israel's first Bitcoin ATM company (Bitbox). Board member Israeli Bitcoin Association 2015-2017. Based in Petah Tikva."
+    }
+  },
+  {
+    "id": "recUv43QnCIPIVtEN",
+    "fields": {
+      "Name": "Scott Gralnick",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Portis",
+      "Notes": "Portis co-founder"
+    }
+  },
+  {
+    "id": "recV3DQnAVsc6NPX5",
+    "fields": {
+      "Name": "Yaacov Akiba Slama",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recZWhw3FniNOmlXB"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "BSc Math & CS Ecole Normale Superieure (1990-95). Former IBM Software Engineer (1997-2001)."
+    }
+  },
+  {
+    "id": "recVACaTKAC8cghfi",
+    "fields": {
+      "Name": "Eyal Hertzog",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recMHGuPTQGkVtN9W"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "DeFi,AMM",
+      "Notes": "Bancor co-founder, invented AMM",
+      "Employment History": [
+        "recDTbEg0sHGBbcHp"
+      ]
+    }
+  },
+  {
+    "id": "recVDsW9k1TPvlVYm",
+    "fields": {
+      "Name": "Michelle Latzer",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recOJDKTHZ3Ototyl"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Tweed. Former Google. IDF 8200 alum. Building web3 wallet infrastructure."
+    }
+  },
+  {
+    "id": "recVOuP0z45rngL6r",
+    "fields": {
+      "Name": "Ben Samocha",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recybpAQErAbtCRZB"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Connector"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Connector",
+      "Estimated Net Worth": "$1-5M",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,Community",
+      "Notes": "EXISTING CONTACT via Reuven - START HERE",
+      "Employment History": [
+        "recjfrM7AZtCUgJW5"
+      ]
+    }
+  },
+  {
+    "id": "recVY47O5nG82gdUU",
+    "fields": {
+      "Name": "Alex Zaidelson",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recDWGiyNqlJnirVe"
+      ],
+      "Primary Type": "Executive",
+      "Location": "Tel Aviv",
+      "Notes": "CEO of SCRT Labs / Secret Network (since Aug 2023). TAU MBA. Based in Israel. Former CEO of Beam (privacy blockchain). Ex-VirtuSwap Chief Business Officer. Principal at CIRTech Fund."
+    }
+  },
+  {
+    "id": "recVZlNk5Q7hLOjtS",
+    "fields": {
+      "Name": "Dr. Anna Becker",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recR0K8GVTD472gRb"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Endotech ($150M+ AUM). Technion PhD in CS/AI by age 27. Solved 20-year unresolved NP-complete problem. Founded Strategy Runner (acq MF Global). Russian immigrant to Israel. ELITE LP TARGET."
+    }
+  },
+  {
+    "id": "recVezOvIMf5Ctf8s",
+    "fields": {
+      "Name": "Ouriel Ohayon",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recMMB0BpQtSuwLo0"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Zengo (2M+ users, zero hacks). Founded TechCrunch France (acq AOL 2009). Co-founded ISAI (French VC), Appsfire (acq 2016). HEC Paris MBA. Regional BD at AOL-ICQ."
+    }
+  },
+  {
+    "id": "recW1Ifukc9dFkR3x",
+    "fields": {
+      "Name": "Uri Margalit",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recHOA74lzqh9R8c9"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "VP R&D & Co-founder of eOracle / Lightblocks. 20+ years software development. Former Head of Engineering at bloXroute Labs. MBA strategic/innovation management. Ex-TripEX VP R&D."
+    }
+  },
+  {
+    "id": "recW4gaCjYgIFm7Eu",
+    "fields": {
+      "Name": "Dovi Frances",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recjkqqVNLTcWtASM"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Fintech,VC",
+      "Notes": "Group 11 founder, backed Fireblocks early",
+      "Employment History": [
+        "recz8imBm0ZZ5iDPd"
+      ],
+      "Investment Relationships": [
+        "recTtAc4xiLjroOlt"
+      ]
+    }
+  },
+  {
+    "id": "recWD5hf90eSCIzjP",
+    "fields": {
+      "Name": "Michael Asa",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ingonyama,ZK,Hardware",
+      "Notes": "Ingonyama co-founder - ZK hardware"
+    }
+  },
+  {
+    "id": "recWLvCHXwRSYBOO5",
+    "fields": {
+      "Name": "David Yakira",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rechuYBebipPktbBg"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Ola Finance (decentralized lending). Platform for creating custom Compound-like lending networks. $48M+ TVL. Deployed on BSC, Fantom, Fuse, Moonbeam, Boba. Partners include SpiritSwap, ApeSwap."
+    }
+  },
+  {
+    "id": "recWTMc3yKaoof1io",
+    "fields": {
+      "Name": "Yohai Rayfeld",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recEni2V85APdHuse"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Chairman/CEO & Co-founder of Efficient Frontier. Brought traditional markets expertise from KOSDAQ, HKEX, EUREX. Co-founded Curious Minds Israel. $10B+ monthly algorithmic trading volume."
+    }
+  },
+  {
+    "id": "recWo78sCDlpeagpl",
+    "fields": {
+      "Name": "Gilad Eisenberger",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rechffrMChpTukJpf"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Valid Network (Web3 intelligence). Built cyber intelligence technologies for blockchain security. Platform provides continuous vulnerability monitoring and proactive risk mitigation."
+    }
+  },
+  {
+    "id": "recWs1qJf9HuE1S3E",
+    "fields": {
+      "Name": "Dr. Tal Moran",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "MPC,Spacemesh",
+      "Notes": "Reichman University. Research led to Spacemesh blockchain. Advances MPC."
+    }
+  },
+  {
+    "id": "recWw6QeWdcZxlziO",
+    "fields": {
+      "Name": "Erez Shapira",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Simplex,Payments",
+      "Notes": "Simplex co-founder - $225M Nuvei exit"
+    }
+  },
+  {
+    "id": "recWz4BlZovstDO0p",
+    "fields": {
+      "Name": "Ido Sofer",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recjCj2ifNWWSrDlY"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Sodot (MPC infrastructure). Previously Director of Infrastructure and PPP Projects Unit at Accountant General Office, Israel Ministry of Finance for 7 years. Transitioned from government service to crypto innovation. Founded Sodot July 2023 with sub-5ms MPC signing technology."
+    }
+  },
+  {
+    "id": "recX0oweDJ4pwPyDL",
+    "fields": {
+      "Name": "Guy Melamed",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recy09d21fx3eMIJs"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Exberry. Former Zeex and GreenRoad. Building 2M+ trades/sec exchange infrastructure."
+    }
+  },
+  {
+    "id": "recX1zREqPuayM4fF",
+    "fields": {
+      "Name": "Ami Ben David",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recAfF6E0nhNAXJjG"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and Chairman of Simetria. Also founded Ownera (backed by JP Morgan). Building Israel's first private digital marketplace for alternative assets."
+    }
+  },
+  {
+    "id": "recXhx333VQRGmzMO",
+    "fields": {
+      "Name": "Ronen Nachmias",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recy09d21fx3eMIJs"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Exberry. Former Playtech. Deep exchange technology expertise."
+    }
+  },
+  {
+    "id": "recXvbarhurORlVir",
+    "fields": {
+      "Name": "Raphael Fettaya",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recQeS0duiSpLzNGQ"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Nilos. Tel Aviv University. Ex-Microsoft Data Scientist II. Ex-Check Point Data Scientist. French founder living in Tel Aviv. Building Web3 payment infrastructure."
+    }
+  },
+  {
+    "id": "recXwGVI4eOj52pxm",
+    "fields": {
+      "Name": "Raz Niv",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recIqFr5pEa28IABK"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Blockaid,Security",
+      "Notes": "Blockaid co-founder",
+      "Employment History": [
+        "rectP4zqVtH3KMXWI"
+      ]
+    }
+  },
+  {
+    "id": "recXyfPaK81N1O5vR",
+    "fields": {
+      "Name": "Asaf Nadler",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Addressable co-founder - crypto marketing platform"
+    }
+  },
+  {
+    "id": "recY75IoGBQGroWyJ",
+    "fields": {
+      "Name": "Aviad Eyal",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recQyGSMCn7VenE7q"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Entree,Forbes Midas",
+      "Notes": "Entrée Capital co-founder. Forbes European VC Midas List #1 (2023). Portfolio: monday.com, Riskified, Coupang, PillPack. Co-founded SigmaLabs. BSc EE from U. of Natal."
+    }
+  },
+  {
+    "id": "recY8HlRPCwDbTkeM",
+    "fields": {
+      "Name": "Yoni Assia",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recuGsnVYpIWDQMPx"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "eToro,Colored Coins",
+      "Notes": "eToro founder (35M users). Met Vitalik in Israel 2013. Colored Coins team.",
+      "Employment History": [
+        "recXQosHs5NLF6oTC"
+      ]
+    }
+  },
+  {
+    "id": "recYQIObE7exWKuG4",
+    "fields": {
+      "Name": "Itai Elizur",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recAiDxP54wxD5XrH"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "COO & Partner at MarketAcross. Ex-Wix Creative Manager, ex-Infolinks Director of Marketing. 500 Startups mentor. Angel investor at BlockBuilders. GAM3 Awards judge ($300K Web3 gaming awards)."
+    }
+  },
+  {
+    "id": "recYd9laczlZV0vSA",
+    "fields": {
+      "Name": "Roberto Klein",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Backed,RWA",
+      "Notes": "Backed co-founder"
+    }
+  },
+  {
+    "id": "recYhQI7m5bfpRstW",
+    "fields": {
+      "Name": "Alon Cohen",
+      "Current Role": "Founder",
+      "Current Company": [
+        "reclf3nhn36oFBMX1"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "CyberArk,Mamram,Cyber",
+      "Notes": "CyberArk founder & first CEO (1999-2012). IDF Mamram unit veteran. Invented Network Vault. Author."
+    }
+  },
+  {
+    "id": "recZDJPDqVrGYohbf",
+    "fields": {
+      "Name": "Yonatan Hayun",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recfb2cVyClkaI6SD"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Chaos Labs,DeFi",
+      "Notes": "Chaos Labs co-founder",
+      "Employment History": [
+        "recn2pGTnvnw8smV2"
+      ]
+    }
+  },
+  {
+    "id": "recZeL8jE1g93yYpU",
+    "fields": {
+      "Name": "Sam Eiderman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Utila co-founder - wallet infrastructure"
+    }
+  },
+  {
+    "id": "recZppBVLYYIZMP1F",
+    "fields": {
+      "Name": "Yuval Roash",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recmOzQzSKJR0sp7Q"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Bits of Gold,Exchange,Crypto",
+      "Notes": "Bits of Gold co-founder & CEO. Founded 2013 with brother Yonatan. Israel's first licensed crypto exchange."
+    }
+  },
+  {
+    "id": "recZyFGCKlGUaGUSo",
+    "fields": {
+      "Name": "Ran Achituv",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recQyGSMCn7VenE7q"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Entree,8200,Technion",
+      "Notes": "Entrée Capital Managing Partner since 2017. Previously GP at Magma VC. Founded IDF Satellite Intelligence unit. Former CTO Amdocs, Verint. Kellogg MBA. Reichman lecturer. National Quantum Task Force."
+    }
+  },
+  {
+    "id": "recaHu3WjTArAl8DR",
+    "fields": {
+      "Name": "Uri Levine",
+      "Current Role": "Chairman",
+      "Current Company": [
+        "rec5vsZy4AMfvqL8y",
+        "rec8geNbSIlC6i6AF"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Investor"
+      ],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Serial Founder,Consumer",
+      "Notes": "Waze co-founder, 11 startups, Moovit board",
+      "Employment History": [
+        "recMuYTu7DHOl5azz",
+        "recRRgOv3fg12V2WJ"
+      ]
+    }
+  },
+  {
+    "id": "recaJHFDu9HdeoRui",
+    "fields": {
+      "Name": "Adam Levi",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recn6bchgyFrSrVNz"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "Is Technion Alumni": true,
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Backed Finance (tokenized stocks). Ph.D. in Theoretical Physics from Technion - research on quantum effects near black holes. Previously co-founded DAOstack (raised $30M). Working on tokenized equities vision for 4+ years. Company acquired by Kraken."
+    }
+  },
+  {
+    "id": "recaNFxOuBFBr2UNZ",
+    "fields": {
+      "Name": "Abraham Makovetsky",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec13z22rRFQn3I5d"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder at Braavos. BSc from Open University of Israel. Previously Senior Engineer at Cato Networks, Comigo, Modu. LinkedIn: linkedin.com/in/makovetsky"
+    }
+  },
+  {
+    "id": "recaTVXIOCu45WSeh",
+    "fields": {
+      "Name": "Omri Lahav",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "recvdMrQKVWTHkSLm"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Blockfence (Web3 security). Founded 2022 with Yuval Gov. Team from PayPal, Meta, and special intelligence units. Developed patent-pending ML/AI algorithms for scam detection. Backed by Viola FinTech."
+    }
+  },
+  {
+    "id": "recaUnOrNf8wKJb0w",
+    "fields": {
+      "Name": "Eli Bejerano",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recStEePIR5hLrdMF"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Early Bitcoin adopter since 2011. Director Israeli Bitcoin Association since 2011. Blockchain lecturer. Built one of world's first 10 crypto exchanges."
+    }
+  },
+  {
+    "id": "recaZ75GjOsXf2WzQ",
+    "fields": {
+      "Name": "Oren Fine",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recbrmasinFARI4t4"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Talpiot Alumni": "Yes",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of SphereX (smart contract security). Veteran of Israeli Army Talpiot program (elite tech/science unit). Spent most of professional career in cyber unit of Israeli military. Teamed up with Eyal Meron to found SphereX in July 2022."
+    }
+  },
+  {
+    "id": "recaZnbcTWZQa4KAU",
+    "fields": {
+      "Name": "Shlomo Dovrat",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "rec5aA0ptEo6GGpMj"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founded Viola Group in 2000. Before that, was an entrepreneur who took his company public. Son of late Aharon Dovrat. Key figure in Israeli VC ecosystem. Built Viola into Israel's premier private equity investment group with over $2.5B under management."
+    }
+  },
+  {
+    "id": "recameh5XUw4CpLmu",
+    "fields": {
+      "Name": "Uri Bornstein",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "reclKTrO7luSzpw13"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Whitestream (blockchain analytics). Founded 2014 with Itsik Levy. Platform turns blockchain raw data into searchable data for fraud detection and investigation."
+    }
+  },
+  {
+    "id": "recbJzHzHDAy7lKCD",
+    "fields": {
+      "Name": "Eden Vitner",
+      "Current Role": "Partner",
+      "Primary Type": "Executive",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,Operations",
+      "Notes": "Collider Ventures Operations Assistant"
+    }
+  },
+  {
+    "id": "recbR8dxLYySrX7nQ",
+    "fields": {
+      "Name": "Elichai Turkel",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sodot co-founder - secret-keeping network"
+    }
+  },
+  {
+    "id": "recbeznABxPDtNxJw",
+    "fields": {
+      "Name": "Shalev Keren",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recjCj2ifNWWSrDlY"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of Sodot (MPC infrastructure). Part of founding team with 20+ years collective experience in cryptography and security. Sodot provides MPC SDK with industry-leading <5ms signing performance."
+    }
+  },
+  {
+    "id": "recbpJAOGHS6RD0p4",
+    "fields": {
+      "Name": "Ami Ben David",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recjqI20o2x9TDypm"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ownera,Securitize,SPiCE,Tokenization",
+      "Notes": "Ownera founder & CEO. Co-founded SPiCE VC, Securitize. Security token pioneer. Previously at Aladdin, MagmaVC, Ki-Bi (AIM IPO). Technion BSc (Cum Laude)."
+    }
+  },
+  {
+    "id": "recbvTTPu51lfTmxR",
+    "fields": {
+      "Name": "Yaniv Nissenboim",
+      "Current Role": "Founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Hexagate,Security",
+      "Notes": "Hexagate founder - Chainalysis acquisition 2024"
+    }
+  },
+  {
+    "id": "recbyeEfe0QXKIUK1",
+    "fields": {
+      "Name": "Dr. Shira Brezis",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recNK5nxR5y6QXNkL"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Redefine. PhD Law & Economics from University of Chicago. DeFi security pioneer."
+    }
+  },
+  {
+    "id": "recc5EvsJd9RE0DRX",
+    "fields": {
+      "Name": "Maciej Miarecki",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec5hEVMF6RqF8XDp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Digital Dogs. AI and robotics expert. MS Automation & Robotics, Poznan University of Technology. Leads PetOS platform development."
+    }
+  },
+  {
+    "id": "reccHFEpmXP337sHk",
+    "fields": {
+      "Name": "Asaf Orpani",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recEYhdiYL5thpnos"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Founder of Arkhivist. IDF 8200 veteran (2 years). Ex-Trustwave Web Security Researcher (3 years). Ex-SafeRide Technologies. Monitors $60B+ DeFi assets. Detected Yearn/Aave exploits."
+    }
+  },
+  {
+    "id": "reccKivqVYzxxRg8S",
+    "fields": {
+      "Name": "Gili Raanan",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recX5QldhPdWFR4aI"
+      ],
+      "Primary Type": "Investor",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Cyberstarts,8200,Sequoia",
+      "Notes": "Cyberstarts founder. 10 years in IDF 8200. Founded Sanctum (sold IBM), nLayers (sold EMC $50M). CAPTCHA co-inventor. Former Sequoia Israel Managing Partner. Wiz investor ($32B pending Google acquisition)."
+    }
+  },
+  {
+    "id": "reccKyQKCxbisGLUJ",
+    "fields": {
+      "Name": "Henry Korchia",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec7MJX2CphTnPu43"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "20+ years marketing/management. American Business School Paris. Expertise: business growth, revenue expansion, team leadership."
+    }
+  },
+  {
+    "id": "reccNe6vYBL87frSI",
+    "fields": {
+      "Name": "Scott Gralnick",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recz5foHBLOYTlcp7"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CBO of Portis (Ethereum wallet). Joined as VP Business Development in late 2018 operating from NYC. Company acquired by ShapeShift in 2020. Became Director of Global Partnerships at ShapeShift after acquisition."
+    }
+  },
+  {
+    "id": "reccT27j629myuN3G",
+    "fields": {
+      "Name": "Josh Schwartz",
+      "Current Role": "Founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Fordefi,MPC",
+      "Notes": "Fordefi founder - $100M Paxos acquisition",
+      "Employment History": [
+        "recbEK05YjcZdDUCL"
+      ]
+    }
+  },
+  {
+    "id": "reccVXM5vNEPcFYlC",
+    "fields": {
+      "Name": "Omer Shlomovits",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recMMB0BpQtSuwLo0"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & Head of Crypto at Zengo. 8 years IDF (8200 + Unit 81). Founded MPC-Alliance (50+ companies). Founded Zero-Knowledge TLV (800 members). NOW CEO of Ingonyama (ZK hardware). HIGH VALUE LP."
+    }
+  },
+  {
+    "id": "reccn5yCJZOMtmUy2",
+    "fields": {
+      "Name": "Hillel Fuld",
+      "Current Role": "Independent",
+      "Primary Type": "Advisor",
+      "Secondary Types": [
+        "Connector"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Connector",
+      "Estimated Net Worth": "$1-5M",
+      "Location": "Tel Aviv",
+      "Tags": "Influencer,Content,Amplification",
+      "Notes": "Tech influencer, very responsive on Twitter",
+      "Employment History": [
+        "recE2bMPu3t1ACnyl"
+      ]
+    }
+  },
+  {
+    "id": "recd2Od4vqQM54lgA",
+    "fields": {
+      "Name": "Erez Shapira",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recWygOnNJPgkGr6V"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Simplex,Payments,PayPal",
+      "Notes": "Simplex co-founder & CTO. Former PayPal employee. Nuvei exit ~$225M."
+    }
+  },
+  {
+    "id": "recdO8sB1xTsmwGbL",
+    "fields": {
+      "Name": "Michael Riabzev",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "StarkWare co-founder - chief architect"
+    }
+  },
+  {
+    "id": "recdU8oJr92YbNhBX",
+    "fields": {
+      "Name": "Eyal Meron",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Spherex co-founder - smart contract security, 8200 alumni"
+    }
+  },
+  {
+    "id": "recdfLaRrJ0v9EWEm",
+    "fields": {
+      "Name": "Mooly Sagiv",
+      "Current Role": "Professor",
+      "Current Company": [
+        "recPIVFl2SqcY582B"
+      ],
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "Certora,Formal Verification",
+      "Notes": "Certora founder - secures $25B+ DeFi",
+      "Employment History": [
+        "rec36bsnfiy4bAhJz"
+      ]
+    }
+  },
+  {
+    "id": "recdtlzLjGEuSOIzJ",
+    "fields": {
+      "Name": "Henrik Hjelte",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec0ebLFSMA9mTcVS"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Master's Uppsala University. Developer since 1980s. Financial risk modeling background. Discovered Bitcoin/Colored Coins 2013. Based in Stockholm."
+    }
+  },
+  {
+    "id": "recdzFdXJp2Mloq8V",
+    "fields": {
+      "Name": "Aryeh Mergi",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recjlnIqqHgeO7E4g"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "M-Systems,Hardware,Flash",
+      "Notes": "M-Systems co-founder with Dov Moran (1989). Based in Kfar Saba. Company sold to SanDisk for $1.6B."
+    }
+  },
+  {
+    "id": "rece18AeMcb4WANU6",
+    "fields": {
+      "Name": "Bruno Guez",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recsWfGmQHy8kf3MR"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Ethnomusicology UCLA. Founded Quango Music Group 1993 (Island Records subsidiary). Creative Director Cirque du Soleil. Hosted 'Shortwave' on KCRW. Board of Merlin Network 2017-2020. Released early Basement Jaxx, Tricky, Zero 7 (ft. Sia)."
+    }
+  },
+  {
+    "id": "rece9ZiviJbFwyHDa",
+    "fields": {
+      "Name": "Tzahi Kanza",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recfvA7wQFOzmIyUG"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "COO & Co-founder of Kima. Previously founded Syndika. Operational expertise in crypto infrastructure."
+    }
+  },
+  {
+    "id": "receGRH7BfLoEmvDK",
+    "fields": {
+      "Name": "Tal Be'ery",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recMMB0BpQtSuwLo0"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "Unknown",
+      "Location": "Tel Aviv",
+      "Tags": "MPC,Security",
+      "Notes": "Zengo CTO - IN DEAL PIPELINE (not LP target)",
+      "Employment History": [
+        "recfRuVz3aY72j3uh"
+      ]
+    }
+  },
+  {
+    "id": "receHOLZaZrasQCCL",
+    "fields": {
+      "Name": "Erez Shapira",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "Simplex co-founder - acquired by Nuvei $225M"
+    }
+  },
+  {
+    "id": "receTNcla5yaHaI91",
+    "fields": {
+      "Name": "Stan Goldin",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recVNYprBAGVxdv5U"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO Poolz. Experienced founder and developer. Extensive software industry background. Focus on making technology accessible."
+    }
+  },
+  {
+    "id": "receYh8rPLiG14AAC",
+    "fields": {
+      "Name": "Yael Tamar",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec6xGOxYJxIyaoBc"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "20 years financial markets. Former Wall Street analyst. Top 25 Blockchain Speakers, 100 Most Inspirational Women in Blockchain. Led first commercial real estate STO (St. Regis Aspen $18M)."
+    }
+  },
+  {
+    "id": "recejyrs5N3BAeNXP",
+    "fields": {
+      "Name": "Idan Ofrat",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CPO & Co-founder of Fireblocks ($8B valuation). Elite intel unit - ISRAEL DEFENSE AWARD. TAU CS (Magna Cum Laude). VP R&D at C4 Security (acq Elbit). CTO at Yeloha. VP Product at Orbs. 20 yrs cybersecurity."
+    }
+  },
+  {
+    "id": "recew66FFBM7FtWqb",
+    "fields": {
+      "Name": "Yaniv Nissenboim",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec51JmXP8AqtnVbn"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Hexagate (acq by Chainalysis $60M). IDF 8200 veteran. 20 yrs cybersecurity. Ex-Vdoo VP BD (sold to JFrog $300M). Founded Scientra, co-founded Jumper Labs. Ben Gurion EE/CS. Now at Chainalysis."
+    }
+  },
+  {
+    "id": "recf0Xk3TWHMqhZIf",
+    "fields": {
+      "Name": "Yohai Rayfeld",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Efficient Frontier co-founder - digital asset management"
+    }
+  },
+  {
+    "id": "recf1dAJSXjbCkhZs",
+    "fields": {
+      "Name": "Beni Hakak",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rectR4HZwmJISMZl8"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Technion Alumni": true,
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of LiquidApps (DAPP Network). Former CEO of Students Association at Technion. Previously in M&A and business strategy consulting at Ernst & Young. Also co-founded LiquidEOS (leading EOS block producer)."
+    }
+  },
+  {
+    "id": "recf71xyAQxVJnvXL",
+    "fields": {
+      "Name": "Adam Efrima",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recVxyfJW914n0f7q"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "SSV Network,Staking",
+      "Notes": "SSV Network founder - ETH staking infrastructure",
+      "Employment History": [
+        "recsuquc1E35STewN"
+      ]
+    }
+  },
+  {
+    "id": "recfAuaRlH0uRurF2",
+    "fields": {
+      "Name": "Gil Rabinovici",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Kryptex founder - crypto mining platform"
+    }
+  },
+  {
+    "id": "recfBsEWLAXiDkg6A",
+    "fields": {
+      "Name": "Ronen Assia",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "eToro",
+      "Notes": "eToro co-founder"
+    }
+  },
+  {
+    "id": "recfP3F2ZyM1XBtiJ",
+    "fields": {
+      "Name": "Ohad Galor Kimchi",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Efficient Frontier co-founder - digital asset management"
+    }
+  },
+  {
+    "id": "recfSXunralB9p4ws",
+    "fields": {
+      "Name": "Dr. Dan Boneh",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "LP Potential": "Cold",
+      "Tags": "Cryptography,Stanford",
+      "Notes": "Leading cryptographer at Stanford. 100+ published papers. Co-director Stanford Center for Blockchain Research."
+    }
+  },
+  {
+    "id": "recfSzjh9EWhDloa8",
+    "fields": {
+      "Name": "Ouriel Ohayon",
+      "Current Role": "CEO",
+      "Current Company": [
+        "recMMB0BpQtSuwLo0"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "Unknown",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,Wallet,Consumer",
+      "Notes": "Zengo CEO - IN DEAL PIPELINE (not LP target)",
+      "Employment History": [
+        "recj8pthkj5FJ6IyH"
+      ]
+    }
+  },
+  {
+    "id": "recgKC80RuqqYD8qV",
+    "fields": {
+      "Name": "Yuval Gov",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recvdMrQKVWTHkSLm"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Blockfence (Web3 security). Founded 2022 with Omri Lahav. Background from enterprise security - team from PayPal, Meta, and special intelligence units."
+    }
+  },
+  {
+    "id": "recgLVgAN04Wpxow2",
+    "fields": {
+      "Name": "Ziv Isaiah",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec0G1Jn8OEsA80kW"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc Electrical Engineering & Physics TAU. Executive MBA Kellogg Northwestern. Former Check Point, Boxee founder. 2 US patents. Now also co-founded Clarity (cybersecurity)."
+    }
+  },
+  {
+    "id": "recgRPATOw7zCoMg6",
+    "fields": {
+      "Name": "Yaron Evron",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recrv7by3z2Lew14G"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Moovit,Intel,Mobility",
+      "Notes": "Moovit co-founder. Prominent public engineer in Israel. Intel acquisition $900M (2020)."
+    }
+  },
+  {
+    "id": "recggWHoaMcWTYEdm",
+    "fields": {
+      "Name": "Motty Lavie",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rec13z22rRFQn3I5d"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & CEO at Braavos (StarkNet wallet). BSc CS & Math from Technion. Previously CEO at Comigo Ltd (2011-2019), Co-founder at Pimento. LinkedIn: linkedin.com/in/motty-lavie-4484661a"
+    }
+  },
+  {
+    "id": "recgl2cYz2JYZGGm4",
+    "fields": {
+      "Name": "Itai Turbahn",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Dynamic co-founder - Web3 auth platform (acquired by Fireblocks $90M)"
+    }
+  },
+  {
+    "id": "rech1lYQ8fdtfN5Jb",
+    "fields": {
+      "Name": "Eytan Messika",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recQeS0duiSpLzNGQ"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CMO & Co-founder of Nilos. Paris Dauphine + EDHEC Finance Masters. Ex-PayPal Marketing Analytics. Lecturer at HEC Paris. VC at Oneragtime. Angels incl. Payoneer & Sandbox founders."
+    }
+  },
+  {
+    "id": "rechFsfrsmShOqK9P",
+    "fields": {
+      "Name": "Bentzi Rabi",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec4FWuTHXboxxKwU"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Utila. IDF Military Intelligence R&D Officer. Hebrew U MBA. Former Principal at i3 Equity Partners. 10+ years crypto. Intel Ignite alum."
+    }
+  },
+  {
+    "id": "rechV8A1eqxfnJEYN",
+    "fields": {
+      "Name": "Roei Erez",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recZWhw3FniNOmlXB"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc CS Academic College Tel Aviv-Yaffo. VP R&D at Breez. Former Checkmarx, Codebashing, harmon.ie. Skills: NLP, Design Patterns."
+    }
+  },
+  {
+    "id": "rechXdA33tV9X76WV",
+    "fields": {
+      "Name": "Jonathan Caras",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec4irYSnTIw02ece"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder of Levana Protocol. Rabbi trained, professional magician, and software engineer. Started software house in 2007, dove into crypto in 2016. Built Levana on Terra (2021), survived crash and migrated to Cosmos. Levana merged with Kujira to form Rujira (Apr 2025)."
+    }
+  },
+  {
+    "id": "rechXjV3vZtuOprnR",
+    "fields": {
+      "Name": "Eyal Daskal",
+      "Current Role": "CEO",
+      "Current Company": [
+        "rec8EphlSFx8su4VV"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,Fintech",
+      "Notes": "Crymbo founder & CEO. Founded 2018. Previously founded EBK Olam marketing firm."
+    }
+  },
+  {
+    "id": "rechetk9n4Q6a7eXP",
+    "fields": {
+      "Name": "Amram Adar",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recBHEBF3hnoA38QJ"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "MBA Financial Planning Open University Israel. IDF Navy Special Forces (since 2011). Former Product Manager WaveTech (blockchain dev firm 2016). Co-founded Oobit 2017."
+    }
+  },
+  {
+    "id": "rechxTD8n1aCtTmMp",
+    "fields": {
+      "Name": "Niv Yehezkel",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Notes": "Hexagate co-founder - Web3 security (acquired by Chainalysis $200M+), 8200 alumni"
+    }
+  },
+  {
+    "id": "reciQ5mehlG7PwwvH",
+    "fields": {
+      "Name": "Alex Mizrahi",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec0ebLFSMA9mTcVS"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Created world's first Colored Coins implementation (2012) - first 'Bitcoin 2.0' tech. Known as 'killerstorm'. Collaborated with Vitalik Buterin pre-Ethereum on Color Coins paper."
+    }
+  },
+  {
+    "id": "recibWIPBYVk3uLIJ",
+    "fields": {
+      "Name": "Uri Kolodny",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "StarkWare co-founder"
+    }
+  },
+  {
+    "id": "recikBwkHLkASRFgS",
+    "fields": {
+      "Name": "Yehuda Lindell",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto Curious Traditional",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "MPC,Cryptography,Academic",
+      "Notes": "Unbound Security co-founder, MPC pioneer, Coinbase exit",
+      "Employment History": [
+        "recOYviriIP2HrdSu",
+        "recEK2Kx0r4xBTfly"
+      ]
+    }
+  },
+  {
+    "id": "reciqJ2JBjr7PzPaq",
+    "fields": {
+      "Name": "Lior Gal",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recn0aEw4qr2MYvkL"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "CTO of Jointer - world's first commercial real estate DeFi platform. Built on Binance Smart Chain with fully decentralized auction smart contracts."
+    }
+  },
+  {
+    "id": "reciweoKF98C2vG7J",
+    "fields": {
+      "Name": "Uri Kolodny",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "recg1Do9u8vc6GvBt"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,ZK",
+      "Notes": "StarkWare co-founder",
+      "Employment History": [
+        "recez6LZ1Ml6tDv4M"
+      ]
+    }
+  },
+  {
+    "id": "recixSMCFzsmwRhcr",
+    "fields": {
+      "Name": "Alon Ram",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recNK5nxR5y6QXNkL"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Redefine. MSc Biomedical Engineering from Technion. Raised at $50M valuation from Ribbit Capital."
+    }
+  },
+  {
+    "id": "recj1e1A4rL2c8Iej",
+    "fields": {
+      "Name": "Dan Caspi",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recrq6Q9pfzOcydq2"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Hypernative,Security",
+      "Notes": "Hypernative co-founder",
+      "Employment History": [
+        "rec7zr0xDQ9pJGWE6"
+      ]
+    }
+  },
+  {
+    "id": "recjQtTmCMNkjwGKs",
+    "fields": {
+      "Name": "Anna Stone",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recU6SPZPYBFauEsz"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Executive Director GoodDollar. Based in NYC. Ex-eToro, Bancor (launched first Ethereum DEX 2017), Signals Analytics. 10+ years marketing/BD/strategy."
+    }
+  },
+  {
+    "id": "recjZqEo2AUwIVcyv",
+    "fields": {
+      "Name": "Idan Ofrat",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Fireblocks co-founder - $8B valuation, 8200 alumni"
+    }
+  },
+  {
+    "id": "recjnx1exaBdHL5VN",
+    "fields": {
+      "Name": "Matan Sitbon",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recHOA74lzqh9R8c9",
+        "rec5MXv7sR1h2ncjn"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "eOracle,EigenLayer",
+      "Notes": "eOracle founder - built on EigenLayer",
+      "Employment History": [
+        "rec7egRWMFdVD1Lzm"
+      ]
+    }
+  },
+  {
+    "id": "reck0oYAs6miViu8L",
+    "fields": {
+      "Name": "Gal Sagie",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recrq6Q9pfzOcydq2"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "AI,Security,Web3",
+      "Notes": "Hypernative co-founder",
+      "Employment History": [
+        "rec1aDRozlS3m0mA9"
+      ]
+    }
+  },
+  {
+    "id": "reckCM4t8VwfMDnrM",
+    "fields": {
+      "Name": "Shy Datika",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec72RhhEuYF6vLWF"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BA TAU, MBA Manchester Business School. 25+ years capital markets. Former Bank Hapoalim G7 spot desk. Co-founder anyoption (2008). External Director Altshuler Shaham Pension Funds 12 years."
+    }
+  },
+  {
+    "id": "reckMKSGwYSeoTzPQ",
+    "fields": {
+      "Name": "Netta Korin",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recSFZQOSfb6BES9e"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder at Orbs, Head of Hexa Foundation. Former Wall Street hedge fund manager (Lehman Brothers 1994). Senior Advisor in Israeli Ministry of Defense. WEF Agenda Contributor. LinkedIn: linkedin.com/in/netta-korin-66a20929b"
+    }
+  },
+  {
+    "id": "reckg0JjZP9Bs7JPj",
+    "fields": {
+      "Name": "Guy Oren",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recVNYprBAGVxdv5U"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "8+ years founding startups (3 total). Former COO Fokoya (gamification for financial markets). CEO Arena. Managed 40+ employees, raised from angels/VCs, operated products in 60 countries."
+    }
+  },
+  {
+    "id": "recknpfIFFYyXuwyb",
+    "fields": {
+      "Name": "Guy Vider",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recfvA7wQFOzmIyUG"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Kima. Former Yahoo and ADP. Building cross-chain liquidity protocol."
+    }
+  },
+  {
+    "id": "reckxRUJ09qFup9pY",
+    "fields": {
+      "Name": "Mark Smargon",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recJq26dGiufDzLki"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "CEO of Fuse Network (2019) - payments-focused EVM-compatible blockchain. Pioneer in Israel's Bitcoin exchange sector. Entrepreneur 20+ years since 2001. Team of 40+ predominantly in Israel. Voltage Finance built on Fuse raised $3.4M."
+    }
+  },
+  {
+    "id": "recl2g3bFxadl5coL",
+    "fields": {
+      "Name": "Dr. Shafi Goldwasser",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "ZK Pioneer,Turing Award",
+      "Notes": "Co-inventor of zero-knowledge proofs - 2012 Turing Award winner. Weizmann Institute."
+    }
+  },
+  {
+    "id": "recl3Xfgo4ZvJhIkA",
+    "fields": {
+      "Name": "Erez Ben-Kiki",
+      "Current Role": "Founder",
+      "Current Company": [
+        "rec88U0yINhcDzSil"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto",
+      "Notes": "2Key founder & CEO. Previously founded EBK Olam marketing firm in Tel Aviv. Company shut down after token collapse."
+    }
+  },
+  {
+    "id": "recl6N620ex4H5QzY",
+    "fields": {
+      "Name": "Tal Shalom",
+      "Current Role": "Partner",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,VC",
+      "Notes": "Collider Ventures Partner"
+    }
+  },
+  {
+    "id": "reclCOEXVoF7rrKWn",
+    "fields": {
+      "Name": "Jonathan Rouach",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recB50cJIolMhPbu2"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc EE Technion. IDF Military Intelligence. Serial entrepreneur. Co-founded Bits of Gold (first Israeli Bitcoin exchange 2013), LedgerLock (sold to Digital Asset Holdings 2015). Co-founded Israeli Bitcoin Association."
+    }
+  },
+  {
+    "id": "reclIEjfBf1LE75gd",
+    "fields": {
+      "Name": "Assaf Rappaport",
+      "Current Role": "CEO",
+      "Current Company": [
+        "rec16Q9Kryxz6heVn",
+        "recr3zyBhynRsDCM5"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "8200,Serial Founder,Cyber",
+      "Notes": "Adallom + Wiz founder, $32B exit",
+      "Employment History": [
+        "recMfpC02JNIruAYw",
+        "recl0txHzToMtUSJm",
+        "recz6zgpDUpBzjuh1",
+        "recQINcQUaAzNH1BY"
+      ]
+    }
+  },
+  {
+    "id": "reclITMcFDlTROtHR",
+    "fields": {
+      "Name": "Tal Zackon",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec0ts5fQMzDschBy"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Tres Finance. Israeli Special Forces Major (6 years). Forbes 30 Under 30. Angels include Fireblocks CEO and Chainalysis CEO."
+    }
+  },
+  {
+    "id": "reclIoYJOqae5sOzH",
+    "fields": {
+      "Name": "Ori Kalinski",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec3daiFiryaZKlQk"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc CS TAU (First Class honors). Former Mintigo, IDF Military Intelligence. Skills: Python, SQL, Apache Storm, Redis."
+    }
+  },
+  {
+    "id": "reclJOPq6Vjj1ElU2",
+    "fields": {
+      "Name": "Roei Levav",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Efficient Frontier co-founder - digital asset management"
+    }
+  },
+  {
+    "id": "reclcETewPKlJE2Sq",
+    "fields": {
+      "Name": "Tomer Afek",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec345DWMuvHLEpWa"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc Economics & CS TAU (Cum Laude). Serial entrepreneur. Co-founded ConvertMedia (acquired by Taboola), Showbox. 7 years at Evergreen VC. Founding member Sanctum Inc."
+    }
+  },
+  {
+    "id": "reclqvUaCabABRo34",
+    "fields": {
+      "Name": "Elad Fouks",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec8Zx96njHNepOke"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of Alterya (acq by Chainalysis $150M). IDF Special Operations senior officer. 8200 Cyber Security Group Leader. Managed cross-functional R&D and intel teams. YC S22. Now at Chainalysis."
+    }
+  },
+  {
+    "id": "reclwf9jUL892sQo0",
+    "fields": {
+      "Name": "David Solomon",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recln4WfG8UuAeGBa",
+        "recKKH6W6iP03b5UL"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CTO of nReach (Web3 B2B sales platform). Background in Electrical Engineering and physics. 10+ years experience in B2B systems, leveraging AI and data-driven solutions. Recognized gap in Web2 go-to-market strategies for Web3 companies."
+    }
+  },
+  {
+    "id": "recmJPslgxHAWAs0D",
+    "fields": {
+      "Name": "Ronen Vindichansky",
+      "Current Role": "Partner",
+      "Primary Type": "Executive",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,Operations",
+      "Notes": "Collider Ventures Chief Operating Officer"
+    }
+  },
+  {
+    "id": "recmK5veZluF7LBNs",
+    "fields": {
+      "Name": "Hadar Rottenberg",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recU6SPZPYBFauEsz"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Technical Lead GoodDollar. Monetary reformist and researcher. Led product/tech teams. Transitioned to Advisory role early 2025 after 4 years as ED."
+    }
+  },
+  {
+    "id": "recmTOjX2yPNk1uNa",
+    "fields": {
+      "Name": "Sam Eiderman",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec4FWuTHXboxxKwU"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Utila. IDF elite intelligence unit. Former Google, Oracle, Ravello Systems (acq $500M). Hebrew U. Cryptography and cloud infrastructure expert."
+    }
+  },
+  {
+    "id": "recmiMbVNha9cgeFP",
+    "fields": {
+      "Name": "Shahaf Gonen",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec8Zx96njHNepOke"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Alterya (acq by Chainalysis $150M). Talpiot program graduate. 8200 cybersecurity team leader. Ex-Google engineer. HIGH VALUE LP - elite military + FAANG background."
+    }
+  },
+  {
+    "id": "recmt5MW90hGyoQ0X",
+    "fields": {
+      "Name": "Leon Prouger",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recJq26dGiufDzLki"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "CTO of Fuse Network (2019). Long-term collaborator with Mark Smargon since his previous company. Building payments infrastructure on EVM-compatible blockchain."
+    }
+  },
+  {
+    "id": "recmzA5XhRXG6ggEb",
+    "fields": {
+      "Name": "Mark Smargon",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recRrD0JaswunGYfa"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "In crypto since 2013. Founded Bitgo.co.il (early Israeli exchange). Co-founded Colu (2014). Worked on Colored Coins R&D with Vitalik Buterin. Reichman University. 20+ years tech experience, started first company at 14."
+    }
+  },
+  {
+    "id": "recn53KE5nedvJMTQ",
+    "fields": {
+      "Name": "Galia Benartzi",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recMHGuPTQGkVtN9W"
+      ],
+      "Primary Type": "Founder",
+      "Location": "SF Bay Area",
+      "Notes": "BD & Co-founder of Bancor. Ex-Founders Fund Venture Partner. Sold Mytopia (to 888) + Particle Code (to Appcelerator). Dartmouth BA, Johns Hopkins SAIS MA. Forbes leading woman in crypto."
+    }
+  },
+  {
+    "id": "recnTwdqUGU3AQU1R",
+    "fields": {
+      "Name": "Itay Shrem",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "reccIdNzXyrtcMCEn"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Is Talpiot Alumni": "Yes",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of SendBlocks (blockchain data infrastructure). 10+ years in Talpiot program. Specializes in networking. Raised $8.2M seed from Castle Island, Pitango, Starkware. Clients include Bancor and SphereX."
+    }
+  },
+  {
+    "id": "recnVqfDmYvGQMKHn",
+    "fields": {
+      "Name": "Roy Reznik",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recr3zyBhynRsDCM5"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "TRUE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Adallom,Wiz,8200,Talpiot",
+      "Notes": "Adallom & Wiz co-founder & VP Engineering. 8200 + Talpiot alumni. Microsoft $320M + Google $32B exits."
+    }
+  },
+  {
+    "id": "recnePbJLlAt581iL",
+    "fields": {
+      "Name": "Itay Radotzki",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Portis",
+      "Notes": "Portis co-founder"
+    }
+  },
+  {
+    "id": "reco0k7Ei1Trapual",
+    "fields": {
+      "Name": "Tal Shmuel Harel",
+      "Current Role": "CEO",
+      "Current Company": [
+        "rec7WcKPwre7aI8iD"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Cold",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto,PR",
+      "Notes": "Chainstory co-founder and co-CEO. Crypto PR expert helping blockchain startups since 2016."
+    }
+  },
+  {
+    "id": "recoJS1IMoNqnrqKk",
+    "fields": {
+      "Name": "Tomer Shlomo",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Addressable co-founder - crypto marketing platform"
+    }
+  },
+  {
+    "id": "recoTdNNdycE3CCVv",
+    "fields": {
+      "Name": "Ronen Assia",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "eToro",
+      "Notes": "eToro co-founder"
+    }
+  },
+  {
+    "id": "recoXylL0wkjA13Yt",
+    "fields": {
+      "Name": "Dor Baruch",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec3daiFiryaZKlQk"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Harvard University graduate. Frontend Architect. Based in San Diego, USA."
+    }
+  },
+  {
+    "id": "recod4w08l4E3Iohw",
+    "fields": {
+      "Name": "Chen Arad",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Solidus Labs co-founder - crypto market surveillance"
+    }
+  },
+  {
+    "id": "recofMKSfhk9KLJzf",
+    "fields": {
+      "Name": "Liam Cohen",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recVNYprBAGVxdv5U"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "CMO Poolz. 6+ years crypto investor. Former community manager Endor Protocol (MIT startup, raised $50M+ from Google)."
+    }
+  },
+  {
+    "id": "recong8S2bOLcqoen",
+    "fields": {
+      "Name": "Michael Volfman",
+      "Current Role": "VP R&D",
+      "Current Company": [
+        "recg3boJcAeqqFifD"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Fordefi,Paxos,Crypto",
+      "Notes": "Fordefi co-founder & VP R&D. Founded 2021. Acquired by Paxos for $100M+ in 2025."
+    }
+  },
+  {
+    "id": "recouiq9I3xhGlyv0",
+    "fields": {
+      "Name": "Haddar Macdasi",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recStEePIR5hLrdMF"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "BSc CS Holon Institute. MCSD. Software architect. Former Migdal Insurance, LabOS, Tel Aviv Stock Exchange. Blockchain dev since 2012."
+    }
+  },
+  {
+    "id": "recpOucHVtQyjRXEP",
+    "fields": {
+      "Name": "Shalev Keren",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sodot co-founder - secret-keeping network"
+    }
+  },
+  {
+    "id": "recpYTRVwdcxSjwwD",
+    "fields": {
+      "Name": "Tomer Sharoni",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Addressable co-founder - crypto marketing platform"
+    }
+  },
+  {
+    "id": "recpmpqEOWTqCxUzP",
+    "fields": {
+      "Name": "Martin Moshal",
+      "Current Role": "Chairman",
+      "Current Company": [
+        "recQyGSMCn7VenE7q"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "VC,Entree",
+      "Notes": "Entrée Capital co-founder. Co-founded the firm in 2010 with Aviad Eyal."
+    }
+  },
+  {
+    "id": "recpyGgOlGyx4h1tT",
+    "fields": {
+      "Name": "Amir Aaronson",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recyzRE2JTG5OlUkF"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and COO of Beam (Mimblewimble privacy cryptocurrency). Part of founding team that launched Beam in March 2018."
+    }
+  },
+  {
+    "id": "recqU6mMDYJdRF2Z9",
+    "fields": {
+      "Name": "Lior Lamesh",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Notes": "GK8 co-founder - acquired by Galaxy Digital $125M, 8200 alumni"
+    }
+  },
+  {
+    "id": "recqdpRXYOB7jr88I",
+    "fields": {
+      "Name": "Praveen Kumar",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Solidus Labs co-founder - crypto market surveillance"
+    }
+  },
+  {
+    "id": "recr0D0i65eMRoQgf",
+    "fields": {
+      "Name": "Dima Kogan",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recg3boJcAeqqFifD"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Fordefi,Paxos,Crypto",
+      "Notes": "Fordefi co-founder & CTO. Founded 2021. Acquired by Paxos for $100M+ in 2025. Leading R&D in Tel Aviv post-acquisition."
+    }
+  },
+  {
+    "id": "recrGVeHV4Db65TPj",
+    "fields": {
+      "Name": "Nimrod Lehavi",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Notes": "Simplex co-founder - acquired by Nuvei $225M"
+    }
+  },
+  {
+    "id": "recrJkRdG62xOGnmc",
+    "fields": {
+      "Name": "Meni Rosenfeld",
+      "Current Role": "Chairman",
+      "Current Company": [
+        "rec8albS0SCkNtwhP"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Bitcoin,Israeli Bitcoin Association",
+      "Notes": "Weizmann Institute. Founder/chairman Israeli Bitcoin Association. Launched Israel's first Bitcoin exchange."
+    }
+  },
+  {
+    "id": "recrVrWGD0O8JwHCS",
+    "fields": {
+      "Name": "Omri Shabtay",
+      "Current Role": "Founder & CTO",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Co-Founder and CTO of Newhedge - Bitcoin analytics platform. Building advanced price models, on-chain analysis, and adoption metrics."
+    }
+  },
+  {
+    "id": "recrddcvAiVEm3VyB",
+    "fields": {
+      "Name": "Yaron Velner",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recfMyKcw5UUwSvgG"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$1-5M",
+      "Location": "Tel Aviv",
+      "Tags": "DeFi,Liquidation",
+      "Notes": "B.Protocol founder, DeFi OG",
+      "Employment History": [
+        "recTISWVOv4q4dMe0"
+      ]
+    }
+  },
+  {
+    "id": "recrdddTcq7KbQf9V",
+    "fields": {
+      "Name": "Roy Sheinfeld",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recZWhw3FniNOmlXB"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founded harmon.ie (1000+ enterprise customers). Software developer. Coined 'Lightning Service Provider (LSP)' term. Pioneer of Lightning Network ecosystem."
+    }
+  },
+  {
+    "id": "recrgx5QjKSGbiQE5",
+    "fields": {
+      "Name": "Adi Shamir",
+      "Current Role": "Professor",
+      "Primary Type": "Academic",
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "RSA,Cryptography,Turing Award",
+      "Notes": "The 'S' in RSA encryption. Weizmann Institute. His secret-sharing technology is embedded in wallets like Ledger and Trezor. Turing Award winner."
+    }
+  },
+  {
+    "id": "recruHLJOhMEzSuTc",
+    "fields": {
+      "Name": "Tom Azoulay",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sayfer co-founder - blockchain security audits"
+    }
+  },
+  {
+    "id": "recrxqcFScyhROf4Y",
+    "fields": {
+      "Name": "Catherine Leung",
+      "Current Role": "Partner",
+      "Current Company": [
+        "reciDTzQy2kLEIBYS"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Location": "Tel Aviv",
+      "Tags": "Mizmaa,China,Investment Banking",
+      "Notes": "Mizmaa Ventures co-founder (2016). 20 years investment banking with focus on China. Connects Israel tech to Asia markets."
+    }
+  },
+  {
+    "id": "recs5vSWAJuYMEFRt",
+    "fields": {
+      "Name": "Yinon Costica",
+      "Current Role": "VP Product",
+      "Current Company": [
+        "rec16Q9Kryxz6heVn"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "8200,Serial Founder",
+      "Notes": "Adallom + Wiz co-founder",
+      "Employment History": [
+        "recUa4LfCH6pIfrgF",
+        "rechyJKN1FAYHMGjO",
+        "recayjJf9JUI1T27N"
+      ]
+    }
+  },
+  {
+    "id": "recs9BANncXCdUMhh",
+    "fields": {
+      "Name": "Aviv Eyal",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec345DWMuvHLEpWa"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder Crackle.com (acquired by Sony 2006). Blockchain and distributed systems expert."
+    }
+  },
+  {
+    "id": "recsGr00wZFvY61vz",
+    "fields": {
+      "Name": "Omer Shlomovits",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ingonyama,ZK,Cryptography",
+      "Notes": "Ingonyama co-founder - ZK proofs hardware"
+    }
+  },
+  {
+    "id": "rectJfFBoLzyL0k8f",
+    "fields": {
+      "Name": "Avishay Ovadia",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Hot",
+      "LP Segment": "Frustrated Allocator",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto VC,Connector",
+      "Notes": "Israeli crypto super-connector",
+      "Employment History": [
+        "recOebshjI34Kogmg"
+      ],
+      "Investment Relationships": [
+        "recU6tpY2N5wEbhKL",
+        "recq4pdU0FPZ4r4Pg",
+        "recsdZJdOy9R0ekLM"
+      ]
+    }
+  },
+  {
+    "id": "rectLt2sqp38RUcVR",
+    "fields": {
+      "Name": "Amichai Shulman",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recbTGSXywtgVq4cb"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Imperva,Cyber,Nokod",
+      "Notes": "Imperva co-founder & VP Technology. Later co-founded Nokod Security. Thales acquired Imperva for $3.6B."
+    }
+  },
+  {
+    "id": "rectNq5MVDiA9VRIF",
+    "fields": {
+      "Name": "Dan Yadlin",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recDI2pR0dlWBrKY2"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Curv (acq PayPal $200M). TALPIOT program. Led 50+ person IDF cyber department. Hebrew U BS/MS CS. Now Director of Engineering at PayPal."
+    }
+  },
+  {
+    "id": "rectR9kWOGty34MD3",
+    "fields": {
+      "Name": "Yonatan Ben-Shimon",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recjq9toVWc0WA29h"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Founder of MatchboxDAO (2022) - StarkNet on-chain gaming ecosystem. Raised $7.5M seed from Starkware, 1kx, Bitkraft, Delphi, Fabric Ventures. Building 'on-chain version of Unreal Engine'. Products: Matchbox Spark (incubator), Matchbox Studios (dev tools). ZK privacy for on-chain games."
+    }
+  },
+  {
+    "id": "rectcexlFufzvxHLn",
+    "fields": {
+      "Name": "David Lachmish",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "rec5hT5htqxLnK344",
+        "receQ9sINVUWLYUjb",
+        "rectWzOv1w5Mv3Pxp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CPO & Co-founder of dWallet Labs / Odsy / Ika Network. TAU Math & Philosophy. Previously founded Orthodox.ai. Former CTO at Playscape, Muzeums, Wandering Ltd."
+    }
+  },
+  {
+    "id": "rectgMDB7V9G6WlJz",
+    "fields": {
+      "Name": "Shlomo Kramer",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recuDdgycF6bygv4N",
+        "recbTGSXywtgVq4cb"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Investor"
+      ],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Cold",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Serial Founder,Cyber,Investor",
+      "Notes": "Check Point co-founder, Imperva founder, Cato Networks founder, 60+ investments",
+      "Employment History": [
+        "recBtt1IgYhUecRkx",
+        "reczAFe28wbwrnfM8",
+        "recPqbKYM63ZMcWSS"
+      ]
+    }
+  },
+  {
+    "id": "rectjU5dm24SAMERG",
+    "fields": {
+      "Name": "Ido Sofer",
+      "Current Role": "Co-founder & CEO",
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sodot co-founder - secret-keeping network, 8200 alumni"
+    }
+  },
+  {
+    "id": "rectp3AOfxxp1xfux",
+    "fields": {
+      "Name": "Yair Cleper",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rec4d1aqpE0V6wyY6"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & CEO at Lava Network ($1.5B valuation). Technion (2006-2010). Serial entrepreneur - founded Supersmart.me, Neolithics, Octopai, SHOUT.GROUP. Seed investor in CodiumAI. LinkedIn: linkedin.com/in/cleper"
+    }
+  },
+  {
+    "id": "rectqCAzARZdrJ92O",
+    "fields": {
+      "Name": "Asaf Naim",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recRiBAfh6CJGKAXy"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Master's Business Taxation (summa cum laude). 10+ years accountant/international taxation. Self-taught programmer. Former CEO TabCross (Top 50 Firefox add-ons 2013). Now also CEO Intentable."
+    }
+  },
+  {
+    "id": "rectrkB7XAnQIZxva",
+    "fields": {
+      "Name": "Guy Zyskind",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recDWGiyNqlJnirVe"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder of Secret Network / Enigma. BSc EE/CS Tel Aviv University. MIT Media Lab PhD research. Top 15 most-cited blockchain researcher. Created Enigma protocol. Now founder of Fhenix (FHE blockchain)."
+    }
+  },
+  {
+    "id": "rectzs2WuTRbvHtrB",
+    "fields": {
+      "Name": "Jude Regev",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recn0aEw4qr2MYvkL"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "CEO and Founder of Jointer (2016) - world's first commercial real estate DeFi. Raised $2.5M seed. Won $1M 'Best Startup in World' prize at EDGE196 (2018, 4000 startups). Disruptive Startup Award at Stanford (2019). Advisory board includes Nobel Prize winners, former SEC Chairman, Visa founder."
+    }
+  },
+  {
+    "id": "recu548lRI1JvcL70",
+    "fields": {
+      "Name": "Eden Shochat",
+      "Current Role": "Partner",
+      "Current Company": [
+        "recF71OHfTcuMMUNM"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Frustrated Allocator",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Enterprise,VC",
+      "Notes": "Aleph partner, bold investor",
+      "Employment History": [
+        "rec0znmQnWwTCwO7K"
+      ],
+      "Investment Relationships": [
+        "recz8Jqe8FbIIdlBF"
+      ]
+    }
+  },
+  {
+    "id": "recuDbOVMS1kTdUN6",
+    "fields": {
+      "Name": "Niv Yehezkel",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec51JmXP8AqtnVbn"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Hexagate (acq by Chainalysis $60M). IDF 8200 veteran. Started security research at 14. Ex-Medigate early employee. Discovered $5B Polygon vulnerability. Now Head of Security Products at Chainalysis."
+    }
+  },
+  {
+    "id": "recuKXs1l4pfWBTYi",
+    "fields": {
+      "Name": "Amir Shinar",
+      "Current Role": "Founder",
+      "Current Company": [
+        "rec8geNbSIlC6i6AF"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$20-50M",
+      "Location": "Tel Aviv",
+      "Tags": "Waze,8200",
+      "Notes": "Waze co-founder and VP R&D. Founded X.L.Net before Waze. System architect with 15+ years experience."
+    }
+  },
+  {
+    "id": "recud2qmflnhX13p3",
+    "fields": {
+      "Name": "Eylon Levin",
+      "Current Role": "Partner",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Collider,Operations",
+      "Notes": "Collider Ventures Partner - Operations"
+    }
+  },
+  {
+    "id": "recugYi8piKcPfL7O",
+    "fields": {
+      "Name": "Dean Rubin",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Othentic,AVS,EigenLayer",
+      "Notes": "Othentic co-founder - Collider portfolio"
+    }
+  },
+  {
+    "id": "recuqlmtxnlQ9fSYp",
+    "fields": {
+      "Name": "Chen Arad",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recugi8PiLQCm0Ra4"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Solidus Labs,Brandeis,Compliance",
+      "Notes": "Solidus Labs co-founder & COO. Brandeis alum."
+    }
+  },
+  {
+    "id": "recuxcHCX457q7HMz",
+    "fields": {
+      "Name": "Matan Hamilis",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sodot co-founder - secret-keeping network"
+    }
+  },
+  {
+    "id": "recuydE7vxfPZmcv4",
+    "fields": {
+      "Name": "Dudi Krisher",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recy09d21fx3eMIJs"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Head of Product & Co-founder of Exberry. Former eToro. Part of OM2 Group. eToro mafia connection."
+    }
+  },
+  {
+    "id": "recvMP1YxgFcxmxEk",
+    "fields": {
+      "Name": "Meir Dolev",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recC2wsRqyQJ8hxCf"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of CyVers. Previously CTO of a startup, then VP R&D at acquirer. Long-time colleague of Deddy Lavid. Proactive blockchain security pioneer."
+    }
+  },
+  {
+    "id": "recvdtlKrS6AVxgh2",
+    "fields": {
+      "Name": "Danny Shterman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Ingonyama,ZK",
+      "Notes": "Ingonyama co-founder"
+    }
+  },
+  {
+    "id": "recvphZSZ4vi0Neem",
+    "fields": {
+      "Name": "Adam Benayoun",
+      "Current Role": "Founding Partner",
+      "Current Company": [
+        "recLLlneaPv57Le5i"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [],
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Warm",
+      "LP Segment": "Frustrated Allocator",
+      "Estimated Net Worth": "$1-5M",
+      "Location": "Tel Aviv",
+      "Tags": "Crypto VC,Technical",
+      "Notes": "Collider technical partner",
+      "Employment History": [
+        "rece0BfyQvDskDuzu"
+      ]
+    }
+  },
+  {
+    "id": "recvt8UhvLwKge1kw",
+    "fields": {
+      "Name": "Roi Bar-Zur",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Sayfer co-founder - blockchain security audits"
+    }
+  },
+  {
+    "id": "recw4MgqURe7VNDNW",
+    "fields": {
+      "Name": "Yoav Weiss",
+      "Current Role": "Founder",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "LP Potential": "Cold",
+      "Location": "Tel Aviv",
+      "Tags": "ERC-4337,Account Abstraction",
+      "Notes": "Co-authored ERC-4337 (Account Abstraction) standard - foundational Ethereum improvement"
+    }
+  },
+  {
+    "id": "recw859ODTAdbDA7y",
+    "fields": {
+      "Name": "Yehonatan Goldman",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "Backed,RWA",
+      "Notes": "Backed co-founder"
+    }
+  },
+  {
+    "id": "recw8wmspI9r2yM97",
+    "fields": {
+      "Name": "Andrey Nayman",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "rec1BY7ksmeSEcYUF"
+      ],
+      "Primary Type": "Founder",
+      "Notes": "Co-founder & CEO at Magic Square. PhD Mathematics, Tel Aviv University. Previously MD at Radical Ventures (Israel VC), 7.5 years at Final (algo-trading). Early crypto adopter (2013). LinkedIn: linkedin.com/in/nayco"
+    }
+  },
+  {
+    "id": "recwAZfqNg2NB00qE",
+    "fields": {
+      "Name": "Alex Zeltcer",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "rec0G1Jn8OEsA80kW"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "MBA Tel Aviv University. Former CEO Artizone, COO Zeek. 25+ years experience in fintech. Built fraud prevention tech at Zeek before spinning off nsure.ai."
+    }
+  },
+  {
+    "id": "recwMSOGKKLAqd6Q4",
+    "fields": {
+      "Name": "Uriel Peled",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recSFZQOSfb6BES9e"
+      ],
+      "Primary Type": "Founder",
+      "Is Technion Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & VP Strategic Partnerships at Orbs. BSc summa cum laude Electrical Engineering, Technion. Previously co-founded Visualead (first Israeli company acquired by Alibaba). Tech installed on 600M+ devices in China. LinkedIn: linkedin.com/in/uriel-peled-61073b29"
+    }
+  },
+  {
+    "id": "recwMStdRJ8ZKuKhc",
+    "fields": {
+      "Name": "Ori Levi",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recPZ9DGbqScBSOgF"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Founder and CEO of NFTrade - first cross-chain and blockchain-agnostic NFT platform. Aggregates all NFT marketplaces. Supports Ethereum, BSC, Avalanche, Polygon. Features P2P swaps, NFT farming. NFTD governance token."
+    }
+  },
+  {
+    "id": "recwMfdZ4r24vnhJr",
+    "fields": {
+      "Name": "David Ring",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Hot",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "eToro",
+      "Notes": "eToro co-founder"
+    }
+  },
+  {
+    "id": "recwXK7EbNGzy3XXB",
+    "fields": {
+      "Name": "Raz Niv",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recIqFr5pEa28IABK"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Blockaid ($83M raised). IDF 8200 veteran. ISRAEL DEFENSE PRIZE winner. Ex-PM Office Cyber R&D Team Lead. Met Ido during military service. Team of 20+ 8200 alumni."
+    }
+  },
+  {
+    "id": "recwXWn6ksulYYN1b",
+    "fields": {
+      "Name": "Eliran Ouzan",
+      "Current Role": "Founder & CEO",
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Serial entrepreneur (20+ years in tech). CEO of CryptoHub and CoinScan charting platform. iAngels backed. Building crypto trading tools and analytics for traders."
+    }
+  },
+  {
+    "id": "recwgNPqzGVAkaVV1",
+    "fields": {
+      "Name": "Amram Adar",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "Oobit co-founder - crypto payments app"
+    }
+  },
+  {
+    "id": "recwlUQCYcThJfBQC",
+    "fields": {
+      "Name": "Ben Sharon",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recE4OfcNrnn2GRqJ"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "LP Potential": "Hot",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of LumiShare - RWA tokenization platform for renewable energy. Mentor at Stanford Web3 & AI Research Lab. Technion educated. Background in cybersecurity and marketing. In crypto since 2016. Partnership with Sheikh Mohamed Bin Ahmed Al Nahyan's private office."
+    }
+  },
+  {
+    "id": "recwvIZePIBdKYjOI",
+    "fields": {
+      "Name": "Guy Peer",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recaWIo9xh08qnewz"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Software expert who served as VP of R&D at Unbound Security. Co-founded Unbound Security (2014) with Yehuda Lindell, Nigel Smart, and Avner Mor. Company acquired by Coinbase for ~$150M in 2022."
+    }
+  },
+  {
+    "id": "recwyW4k6NfwUTcDB",
+    "fields": {
+      "Name": "Udi Hakim",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recOJDKTHZ3Ototyl"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Tweed. Former Cymotive/Volkswagen. Deep automotive security background."
+    }
+  },
+  {
+    "id": "recx1fcIWR3aLybFb",
+    "fields": {
+      "Name": "Pavel Berengoltz",
+      "Current Role": "CTO",
+      "Current Company": [
+        "recIwcZmHAf08jdgU"
+      ],
+      "Primary Type": "Founder",
+      "Is 8200 Alumni": true,
+      "LP Potential": "Not Relevant",
+      "Location": "Tel Aviv",
+      "Tags": "Fireblocks,MPC",
+      "Notes": "Fireblocks co-founder & CTO",
+      "Employment History": [
+        "recafAmzX4EfYFJdd"
+      ]
+    }
+  },
+  {
+    "id": "recx2BO5R1rJQzWqv",
+    "fields": {
+      "Name": "Dr. Yonatan Sompolinsky",
+      "Current Role": "Founder",
+      "Current Company": [
+        "rec8albS0SCkNtwhP"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Academic"
+      ],
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "GHOST,Kaspa,BlockDAG",
+      "Notes": "Hebrew University. Created KASPA, GHOST protocol (influenced Ethereum). Mentioned in ETH whitepaper.",
+      "Employment History": [
+        "recu4i1H93l06GHBU"
+      ]
+    }
+  },
+  {
+    "id": "recxAZBQYdmfOm7dN",
+    "fields": {
+      "Name": "Elad Mor",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recAiDxP54wxD5XrH"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CEO & Co-founder of MarketAcross. 10+ years Web3 PR. Also founded InboundJunction, Chainwire. 500 Startups mentor. Angel investor (accessiBe). 400+ crypto clients incl. Binance, Polygon, Solana."
+    }
+  },
+  {
+    "id": "recxIvX6lgR3ONQUs",
+    "fields": {
+      "Name": "Aharon Miller",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recBHEBF3hnoA38QJ"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "COO Oobit. Blockchain evangelist, fintech entrepreneur. In crypto since 2015. Founded ESP technology company. Worked with Adar at WaveTech before Oobit."
+    }
+  },
+  {
+    "id": "recxnLDqwDsvmtZ5c",
+    "fields": {
+      "Name": "Dr. Asaf Nadler",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recZtvAEJbhsFExZp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Chief Scientist & Co-founder of Addressable. IDF 8200 alum. PhD-level data science expertise."
+    }
+  },
+  {
+    "id": "recxpSorcmQ8O681J",
+    "fields": {
+      "Name": "Eilon Lotem",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec0ts5fQMzDschBy"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Tres Finance. Previously CTO and co-founder of a cybersecurity company. Met Tal during military service."
+    }
+  },
+  {
+    "id": "recxrWGUP8EVxjw79",
+    "fields": {
+      "Name": "Oliver Horr",
+      "Current Role": "Co-founder",
+      "Current Company": [
+        "recqaCe9NI4CfwMxB"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Director of Operations & Co-founder of Hats Finance. Building decentralized security audit marketplace."
+    }
+  },
+  {
+    "id": "recyLP0yE1xGR1iLq",
+    "fields": {
+      "Name": "Tomer Shlomo",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recZtvAEJbhsFExZp"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Addressable. Technion graduate. Building web3 analytics infrastructure."
+    }
+  },
+  {
+    "id": "recyan2pGt6y0y7FB",
+    "fields": {
+      "Name": "Matan Field",
+      "Current Role": "Founder & CEO",
+      "Current Company": [
+        "recHsw45hkbdGDLTk"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder & CEO at DAOStack (shut down 2022). PhD Theoretical Physics, Weizmann Institute (String Theory). Previously founded La'Zooz (decentralized ride-sharing), Backfeed. Now at Common. LinkedIn: linkedin.com/in/matan-field-92a2b396"
+    }
+  },
+  {
+    "id": "recypyy8993v9P9ci",
+    "fields": {
+      "Name": "Yoni Goldberg",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "rec2jY77PaZNeU4ch"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Dynamic (acq by Fireblocks $90M). MIT graduate. IDF veteran. Serial entrepreneur. 15+ year partnership with Turbahn since MIT."
+    }
+  },
+  {
+    "id": "recystn6ZXKDPQUeB",
+    "fields": {
+      "Name": "Nadav Zafrir",
+      "Current Role": "CEO",
+      "Current Company": [
+        "rec1umsiFg35vSD8o",
+        "recREi1inShZZCeqX"
+      ],
+      "Primary Type": "Executive",
+      "Secondary Types": [
+        "Founder"
+      ],
+      "Is 8200 Alumni": true,
+      "Is Talpiot Alumni": "FALSE",
+      "LP Potential": "Not Relevant",
+      "Estimated Net Worth": "$50-100M",
+      "Location": "Tel Aviv",
+      "Tags": "8200 Commander,Team8",
+      "Notes": "Former 8200 Commander, Team8 founder, now Check Point CEO",
+      "Employment History": [
+        "recRo214RsW1OolWR",
+        "recYNb04VdObSa2nA",
+        "recoDW9Y6yNTmoUnv"
+      ]
+    }
+  },
+  {
+    "id": "reczO8uBVoUaB9Mzo",
+    "fields": {
+      "Name": "Shay Zluf",
+      "Current Role": "Founder & CTO",
+      "Current Company": [
+        "recqaCe9NI4CfwMxB"
+      ],
+      "Primary Type": "Founder",
+      "Location": "Tel Aviv",
+      "Notes": "CTO & Co-founder of Hats Finance. Former La'Zooz. Pioneer in on-chain bug bounty infrastructure."
+    }
+  },
+  {
+    "id": "reczR19bdyayzhoan",
+    "fields": {
+      "Name": "Eric Wall",
+      "Current Role": "Co-founder",
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Estimated Net Worth": "$5-20M",
+      "Location": "Tel Aviv",
+      "Tags": "Taproot Wizards,Bitcoin,Ordinals",
+      "Notes": "Taproot Wizards co-founder - Bitcoin Ordinals"
+    }
+  },
+  {
+    "id": "reczSq0X3wVUIQG6P",
+    "fields": {
+      "Name": "Dov Moran",
+      "Current Role": "Managing Partner",
+      "Current Company": [
+        "recdzfR8KP3PRvb2i",
+        "recjlnIqqHgeO7E4g"
+      ],
+      "Primary Type": "Investor",
+      "Secondary Types": [
+        "Founder",
+        "Advisor"
+      ],
+      "Is Talpiot Alumni": "FALSE",
+      "Is Technion Alumni": true,
+      "LP Potential": "Warm",
+      "LP Segment": "Exit Millionaire",
+      "Estimated Net Worth": "$100M+",
+      "Location": "Tel Aviv",
+      "Tags": "Serial Founder,Hardware,Deep Tech",
+      "Notes": "M-Systems ($1.6B exit), Modu founder, Grove Ventures founder",
+      "Employment History": [
+        "rec3VJ4g3Hi5uA1Sa",
+        "recopUpmMm8XlGsc5",
+        "recKSWJcCeAbj24Ur"
+      ],
+      "Investment Relationships": [
+        "rec6M7vlgBod0GRh4"
+      ]
+    }
+  },
+  {
+    "id": "reczky37MCfMkt0T7",
+    "fields": {
+      "Name": "Guy Zyskind",
+      "Current Role": "Founder",
+      "Current Company": [
+        "recgsJJL6q5ZXQXhH"
+      ],
+      "Primary Type": "Founder",
+      "LP Potential": "Warm",
+      "LP Segment": "Crypto OG",
+      "Location": "Tel Aviv",
+      "Tags": "FHEenix,Privacy,Enigma",
+      "Notes": "FHEenix co-founder - previously Secret Network/Enigma",
+      "Employment History": [
+        "rec8IlfNexY5u94EU"
+      ]
+    }
+  },
+  {
+    "id": "reczxcVpfjXcAaWLW",
+    "fields": {
+      "Name": "Itsik Levy",
+      "Current Role": "Co-founder & CEO",
+      "Current Company": [
+        "reclKTrO7luSzpw13"
+      ],
+      "Primary Type": "Founder",
+      "Secondary Types": [
+        "Executive"
+      ],
+      "Location": "Tel Aviv",
+      "Notes": "Co-founder and CEO of Whitestream (blockchain analytics). Founded 2014. Specializes in AML, KYC, fraud detection, counterterrorism funding. Provides investigation services to governments and financial institutions. Identified Hamas fundraising on Coinbase."
+    }
+  }
+]

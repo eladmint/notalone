@@ -1,0 +1,59 @@
+Person,Company,Role,Start Date,End Date,Is Founder,Is Current,Notable Achievement,Notes
+Dov Moran,M-Systems,Founder & CEO,1989-01-01,2006-07-01,TRUE,FALSE,"$1.6B exit to SanDisk","Invented USB Flash Drive"
+Dov Moran,Modu,Founder & CEO,2007-01-01,2011-02-01,TRUE,FALSE,,"$130M raised, patents to Google"
+Dov Moran,Grove Ventures,Managing Partner,2015-01-01,,TRUE,TRUE,,"Deep tech VC"
+Gil Shwed,Check Point,Founder & CEO,1993-01-01,2024-12-01,TRUE,FALSE,"Invented firewall","Israel Prize laureate"
+Gil Shwed,Check Point,Executive Chairman,2024-12-01,,TRUE,TRUE,,"Transitioned from CEO"
+Shlomo Kramer,Check Point,Co-Founder & VP Engineering,1993-01-01,1998-01-01,TRUE,FALSE,"Invented firewall",
+Shlomo Kramer,Imperva,Founder & CEO,2002-01-01,2014-01-01,TRUE,FALSE,"$2.1B exit to Thoma Bravo",
+Shlomo Kramer,Cato Networks,Founder & CEO,2015-01-01,,TRUE,TRUE,"Created SASE category","$773M raised"
+Nir Zuk,Check Point,Engineer,1994-01-01,1999-01-01,FALSE,FALSE,"Stateful inspection patent",
+Nir Zuk,Palo Alto Networks,Founder & CTO,2005-01-01,,TRUE,TRUE,"Built $100B+ company",
+Assaf Rappaport,Unit 8200,Officer,2004-01-01,2009-01-01,FALSE,FALSE,"8200 alumni",
+Assaf Rappaport,Microsoft,GM Security,2015-07-01,2020-01-01,FALSE,FALSE,"Post-Adallom acquisition",
+Assaf Rappaport,Adallom,Co-Founder & CEO,2012-01-01,2015-07-01,TRUE,FALSE,"$320M exit to Microsoft",
+Assaf Rappaport,Wiz,Co-Founder & CEO,2020-01-01,,TRUE,TRUE,"$32B exit to Google","Fastest growing cyber company ever"
+Ami Luttwak,Adallom,Co-Founder & CTO,2012-01-01,2015-07-01,TRUE,FALSE,,
+Ami Luttwak,Microsoft,CTO Security,2015-07-01,2020-01-01,FALSE,FALSE,,
+Ami Luttwak,Wiz,Co-Founder & CTO,2020-01-01,,TRUE,TRUE,,
+Roy Reznik,Adallom,Co-Founder,2012-01-01,2015-07-01,TRUE,FALSE,,
+Roy Reznik,Microsoft,Engineering Lead,2015-07-01,2020-01-01,FALSE,FALSE,,
+Roy Reznik,Wiz,Co-Founder & VP R&D,2020-01-01,,TRUE,TRUE,,
+Yinon Costica,Adallom,Co-Founder,2012-01-01,2015-07-01,TRUE,FALSE,,
+Yinon Costica,Microsoft,Product Lead,2015-07-01,2020-01-01,FALSE,FALSE,,
+Yinon Costica,Wiz,Co-Founder & VP Product,2020-01-01,,TRUE,TRUE,,
+Uri Levine,Waze,Co-Founder,2006-01-01,2013-06-11,TRUE,FALSE,"$1.3B exit to Google",
+Uri Levine,Pontera,Chairman,2012-01-01,,FALSE,TRUE,,"Fintech"
+Ehud Shabtai,Waze,Co-Founder & CTO,2006-01-01,2013-06-11,TRUE,FALSE,"Technical co-founder",
+Eli Ben-Sasson,Technion,Professor,2001-01-01,,FALSE,TRUE,"Invented STARKs","Cryptography research"
+Eli Ben-Sasson,StarkWare,Co-Founder & President,2018-01-01,,TRUE,TRUE,"$8B valuation",
+Uri Kolodny,StarkWare,Co-Founder & CEO,2018-01-01,,TRUE,TRUE,,
+Michael Shaulov,Check Point,VP Mobile Security,2010-01-01,2017-01-01,FALSE,FALSE,"Lacoon acquisition",
+Michael Shaulov,Fireblocks,Co-Founder & CEO,2018-01-01,,TRUE,TRUE,"$8B valuation, zero security incidents",
+Itay Malinger,Curv,Co-Founder & CEO,2018-01-01,2021-03-01,TRUE,FALSE,"$200M exit to PayPal",
+Yehuda Lindell,Bar-Ilan University,Professor,1999-01-01,,FALSE,TRUE,"MPC pioneer",
+Yehuda Lindell,Unbound Security,Co-Founder,2014-01-01,2022-01-01,TRUE,FALSE,"$100M exit to Coinbase",
+Ouriel Ohayon,Zengo,Co-Founder & CEO,2018-01-01,,TRUE,TRUE,"2M+ users","MPC wallet"
+Tal Be'ery,Zengo,Co-Founder & CTO,2018-01-01,,TRUE,TRUE,"Zero hacks",
+Ido Ben-Natan,Unit 8200,Officer,2012-01-01,2017-01-01,FALSE,FALSE,,
+Ido Ben-Natan,Blockaid,Co-Founder & CEO,2022-01-01,,TRUE,TRUE,"$83M raised","Web3 security leader"
+Omer Goldberg,Chaos Labs,Founder & CEO,2021-01-01,,TRUE,TRUE,"$79M raised","DeFi risk management"
+Gal Sagie,Hypernative,Co-Founder,2022-01-01,,TRUE,TRUE,"$40M raised","Protects $100B+ assets"
+Yaron Velner,B.Protocol,Founder,2020-01-01,,TRUE,TRUE,,"DeFi OG"
+Eyal Hertzog,Bancor,Co-Founder,2017-01-01,,TRUE,TRUE,"Invented AMM","$153M raised"
+Avishay Ovadia,Collider Ventures,Founding Partner,2018-01-01,,TRUE,TRUE,,"Israeli crypto super-connector"
+Adam Benayoun,Collider Ventures,Founding Partner,2018-01-01,,TRUE,TRUE,,
+Sebastian Lehrer,Collider Ventures,Investor,2020-01-01,,FALSE,TRUE,,"Report author"
+Nadav Zafrir,Unit 8200,Commander,2005-01-01,2009-01-01,FALSE,FALSE,"8200 Commander",
+Nadav Zafrir,Team8,Founder & CEO,2014-01-01,2024-01-01,TRUE,FALSE,"Cyber foundry",
+Nadav Zafrir,Check Point,CEO,2024-12-01,,FALSE,TRUE,"Took over from Gil Shwed",
+Shauli Rejwan,Masterkey VC,Partner,2020-01-01,,FALSE,TRUE,,"Web3 Dev Underground sponsor"
+Gigi Levy-Weiss,NFX,General Partner,2015-01-01,,FALSE,TRUE,,"Prolific angel"
+Eden Shochat,Aleph,Partner,2013-01-01,,FALSE,TRUE,,
+Michael Eisenberg,Aleph,Partner,2013-01-01,,FALSE,TRUE,,"Writes about crypto"
+Gil Dibner,Angular Ventures,Founder,2017-01-01,,TRUE,TRUE,"Solo GP","Makes own decisions"
+Dovi Frances,Group 11,Founder,2015-01-01,,TRUE,TRUE,,"Backed Fireblocks early"
+Yossi Vardi,Independent,Investor,1970-01-01,,FALSE,TRUE,"ICQ, 80+ investments","Israeli tech godfather"
+Oren Zeev,Zeev Ventures,Founder,2008-01-01,,TRUE,TRUE,,"Houzz investor"
+Hillel Fuld,Independent,Tech Influencer,2010-01-01,,FALSE,TRUE,,"Very responsive on Twitter"
+Ben Samocha,CryptoJungle,CEO,2020-01-01,,TRUE,TRUE,,"EXISTING CONTACT via Reuven"

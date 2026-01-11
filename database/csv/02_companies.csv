@@ -1,0 +1,28 @@
+Company Name,Founded Year,Shutdown Year,Company Type,Stage,Status,Sector,Technologies,HQ Location,Description,Total Raised,Exit Value,Exit Type,Exit Date,Tags,Notes
+Modu,2007,2011,Startup,Shut Down,Shut Down,Hardware,Mobile,Tel Aviv,Modular smartphone pioneer - failed but spawned 12+ startups,130000000,0,Shut Down,2011-02-01,Modu Effect,"Patents sold to Google for $4.9M (became Project Ara)"
+M-Systems,1989,2006,Startup,Acquired,Acquired,Hardware,Semiconductors,Tel Aviv,Invented USB Flash Drive (DiskOnKey),0,1600000000,Acquisition,2006-07-01,,"Acquired by SanDisk for $1.6B"
+Check Point,1993,,Startup,Public,IPO,Cybersecurity,"Firewall,Network Security",Tel Aviv,Invented the firewall - Israeli cyber origin story,0,0,IPO,1996-06-01,8200 Origin,Founded by Gil Shwed Shlomo Kramer Marius Nacht
+Palo Alto Networks,2005,,Startup,Public,IPO,Cybersecurity,"Firewall,Cloud Security",SF Bay Area,Next-gen firewall leader,0,0,IPO,2012-07-01,,Founded by Nir Zuk (Check Point alum)
+CyberArk,1999,,Startup,Acquired,Acquired,Cybersecurity,"Identity,Privileged Access",Tel Aviv,Identity security leader,0,25000000000,Acquisition,2025-01-01,,Acquired by Palo Alto for $25B
+Imperva,2002,,Startup,Acquired,Acquired,Cybersecurity,"Web Security,Database",Tel Aviv,Web application firewall pioneer,100000000,2100000000,Acquisition,2018-10-01,,Founded by Shlomo Kramer - acquired by Thoma Bravo
+Cato Networks,2015,,Startup,Growth,Active,Cybersecurity,"SASE,Cloud Security",Tel Aviv,Created SASE category,773000000,0,Active,,,"Founded by Shlomo Kramer, Gur Shatz"
+Waze,2006,2013,Startup,Acquired,Acquired,Consumer,Mobile,Tel Aviv,Navigation app - acquired by Google,67000000,1300000000,Acquisition,2013-06-11,,"Gave birth to 50 other unicorns per Uri Levine"
+Wiz,2020,,Startup,Acquired,Acquired,Cybersecurity,"Cloud Security,CNAPP",Tel Aviv,Fastest growing cyber company ever,1900000000,32000000000,Acquisition,2025-03-01,8200 Origin,Founded by Adallom team - acquired by Google
+Adallom,2012,2015,Startup,Acquired,Acquired,Cybersecurity,Cloud Security,Tel Aviv,Cloud security pioneer,0,320000000,Acquisition,2015-07-01,8200 Origin,Acquired by Microsoft - team founded Wiz
+StarkWare,2018,,Startup,Growth,Active,Crypto/Web3,"ZK Proofs,Layer 2",Tel Aviv,Invented STARKs - ZK rollup leader,273000000,8000000000,Active,,,Founded by Eli Ben-Sasson - Technion cryptography
+Fireblocks,2018,,Startup,Growth,Active,Crypto/Web3,"MPC,Custody",Tel Aviv,Enterprise crypto custody leader,1039000000,8000000000,Active,,,Zero security incidents - institutional standard
+Curv,2018,2021,Startup,Acquired,Acquired,Crypto/Web3,"MPC,Custody",Tel Aviv,MPC custody pioneer,30000000,200000000,Acquisition,2021-03-01,,Acquired by PayPal
+Unbound Security,2014,2022,Startup,Acquired,Acquired,Cybersecurity,"MPC,Key Management",Tel Aviv,MPC security platform,41000000,100000000,Acquisition,2022-01-01,,Acquired by Coinbase
+Fordefi,2021,2025,Startup,Acquired,Acquired,Crypto/Web3,"MPC,Custody",Tel Aviv,Institutional MPC wallet,18000000,100000000,Acquisition,2025-11-01,,Acquired by Paxos
+Dynamic,2021,2025,Startup,Acquired,Acquired,Crypto/Web3,"Wallet,Auth",Tel Aviv,Web3 authentication platform,0,90000000,Acquisition,2025-10-01,,Acquired by Fireblocks
+Alterya,2021,2025,Startup,Acquired,Acquired,Crypto/Web3,"Compliance,Analytics",Tel Aviv,Blockchain compliance,0,150000000,Acquisition,2025-01-01,,Acquired by Chainalysis
+Hexagate,2022,2024,Startup,Acquired,Acquired,Crypto/Web3,"Security,Smart Contracts",Tel Aviv,Smart contract security,0,60000000,Acquisition,2024-12-01,,Acquired by Chainalysis
+Zengo,2018,,Startup,Series B,Active,Crypto/Web3,"MPC,Wallet",Tel Aviv,Consumer MPC wallet - zero hacks,73000000,0,Active,,,"2M+ users, targeting $10M ARR"
+Blockaid,2022,,Startup,Series B,Active,Crypto/Web3,"Security,Web3",Tel Aviv,On-chain security platform,83000000,0,Active,,,Led by Ribbit Capital and Google Ventures
+Hypernative,2022,,Startup,Series B,Active,Crypto/Web3,"Security,Risk",Tel Aviv,Web3 security protecting $100B+ assets,40000000,0,Active,,,Led by Ten Eleven Ventures
+Chaos Labs,2021,,Startup,Series A,Active,Crypto/Web3,"DeFi,Risk Management",Tel Aviv,DeFi risk management,79000000,0,Active,,,
+B.Protocol,2020,,Startup,Seed,Active,Crypto/Web3,DeFi,Tel Aviv,DeFi liquidation protocol,0,0,Active,,,Founded by Yaron Velner
+Bancor,2017,,Startup,Growth,Active,Crypto/Web3,"DeFi,AMM",Tel Aviv,Invented automated market makers,153000000,0,Active,,,Pioneer of AMM concept
+Grove Ventures,2015,,VC Fund,Active,Active,,Venture Capital,Tel Aviv,Deep tech VC founded by Dov Moran,500000000,0,Active,,,34+ portfolio companies
+Collider Ventures,2018,,VC Fund,Active,Active,Crypto/Web3,Venture Capital,Tel Aviv,Israeli crypto-focused VC,0,0,Active,,,"Partners: Avishay Ovadia, Adam Benayoun"
+Team8,2014,,VC Fund,Active,Active,Cybersecurity,Venture Capital,Tel Aviv,Cyber foundry + VC,0,0,Active,,,Founded by 8200 commander Nadav Zafrir

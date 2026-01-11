@@ -1,0 +1,12 @@
+Investor,Company,Investment Type,Round,Amount,Date,Lead Investor,Board Seat,Notes
+Dov Moran,Fireblocks,Angel,Seed,500000,2018-06-01,FALSE,FALSE,"Early bet on crypto custody"
+Nir Zuk,Wiz,Angel,Seed,1000000,2020-03-01,FALSE,FALSE,"$150M+ invested in Israeli startups"
+Gigi Levy-Weiss,Fireblocks,Angel,Seed,250000,2018-06-01,FALSE,FALSE,
+Dovi Frances,Fireblocks,VC,Series A,5000000,2019-03-01,TRUE,TRUE,"Group 11 led"
+Avishay Ovadia,Blockaid,VC,Seed,1000000,2022-06-01,FALSE,FALSE,"Collider Ventures"
+Avishay Ovadia,Chaos Labs,VC,Seed,500000,2021-09-01,FALSE,FALSE,"Collider Ventures"
+Avishay Ovadia,Hypernative,VC,Seed,500000,2022-03-01,FALSE,FALSE,"Collider Ventures"
+Eden Shochat,Wiz,VC,Series A,10000000,2020-12-01,FALSE,TRUE,"Aleph"
+Michael Eisenberg,StarkWare,VC,Series A,6000000,2018-09-01,FALSE,FALSE,"Aleph"
+Yossi Vardi,Waze,Angel,Seed,250000,2006-03-01,FALSE,TRUE,"Early believer"
+Gil Dibner,Fireblocks,VC,Series A,3000000,2019-03-01,FALSE,FALSE,"Angular Ventures"
