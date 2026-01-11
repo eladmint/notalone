@@ -1,29 +1,47 @@
 # NocoDB and Superset Setup Guide
 
+## Setup Status: COMPLETE
+
+**Date:** 2026-01-11
+
+### Database Connection
+- **Database ID:** 3
+- **Name:** Notalone - Israeli Tech Ecosystem
+- **Connection:** postgresql://postgres:notalone2026@172.17.0.1:5433/calendar_monitoring
+- **Schema:** notalone
+
+### Datasets Created (IDs 42-59)
+All 18 datasets configured for visualization:
+- 14 tables: people, companies, lp_prospects, institutions, employment_history, funding_rounds, person_connections, cofounder_relationships, board_positions, acquisitions, investment_relationships, military_service, education_records, interactions_log
+- 4 views: v_lp_pipeline, v_people_careers, v_company_funding, v_8200_network
+
+---
+
 ## Quick Start
 
 ### Access URLs
-- **NocoDB:** http://localhost:8080 (via SSH tunnel)
+- **NocoDB:** http://74.50.97.243:8080 (publicly accessible)
 - **Superset:** http://74.50.97.243:8088
 
-### SSH Tunnel for NocoDB
-```bash
-ssh -L 8080:localhost:8080 eladm@74.50.97.243
-# Then open http://localhost:8080 in browser
-```
+### NocoDB Login
+- **Email:** mintzer.elad@gmail.com
+- **Password:** f887vnAhb5f2XtN
+
+### Superset Login
+- **Username:** admin
+- **Password:** EventsHive2025!
 
 ---
 
 ## NocoDB Setup
 
-### 1. Create External Database Connection
+NocoDB runs as a NixOS container on XNode3 and is shared with events-hive and Lava projects.
 
-In NocoDB dashboard:
-1. Click **"New Base"** or **"Create Base"**
-2. Select **"Connect to External Database"**
-3. Choose **PostgreSQL**
+### Adding Notalone Schema to Existing NocoDB
 
-### 2. Connection Details
+1. **Login to NocoDB** at http://74.50.97.243:8080
+2. **Create a new Base** → Click "New Base" → "Connect to External Database"
+3. **Choose PostgreSQL** and enter connection details:
 
 | Field | Value |
 |-------|-------|
@@ -31,8 +49,13 @@ In NocoDB dashboard:
 | Port | `5433` |
 | Database | `calendar_monitoring` |
 | User | `postgres` |
-| Password | *(your postgres password)* |
+| Password | `notalone2026` |
 | Schema | `notalone` |
+
+4. **Name the Base:** "Notalone - Israeli Tech Ecosystem"
+5. **Sync Tables:** NocoDB will discover all 14 Notalone tables
+
+**Note:** NocoDB runs in a NixOS container with access to PostgreSQL on localhost:5433.
 
 ### 3. Import Tables
 
