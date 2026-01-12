@@ -4,11 +4,15 @@
 Database specialist responsible for understanding, documenting, and managing the database infrastructure for the Notalone project - an Israeli tech ecosystem intelligence and LP fundraising platform.
 
 ## My Recent Work
+- 2026-01-12: **Major Funding Data Expansion** - Batches 3-5
+  - Added funding for 20+ companies across 5 SQL files (011-015)
+  - Notable additions: Secret Network ($400M), Bancor ($153M ICO), Utila ($51.5M), DAOStack ($31M), Colu ($26.6M), Lava Network ($26M), Dynamic ($21M acquired by Fireblocks), Efficient Frontier ($12M), Odsy Network ($12.5M)
+  - **New totals:** 184 companies, 123 funding rounds, 1,294 network edges, 327 unique sources
+  - SQL files: 011-015 (major_company_funding, additional_funding_batch2-5)
 - 2026-01-12: **Collider DB Import** - Added 34 new Israeli Web3 companies
   - Created `scripts/import_collider_companies.py` - reusable parser for Collider DB markdown
   - Imported notable companies: eToro, Solidus Labs, Ingonyama, Fhenix, Venn, Chain Reaction, GK8, DeepDAO, Portis
   - Added 10 funding rounds for notable companies (eToro $350M, Solidus Labs $45M, etc.)
-  - **New totals:** 184 companies, 91 funding rounds, 906 network edges
   - SQL files: 009_import_collider_companies.sql, 010_notable_company_funding.sql
 - 2026-01-12: Fixed Chart 173 "Web3: Founded by Year" - was failing on Dashboard 20
   - Root cause: Chart used simple string metric reference `"count"` instead of inline adhoc metric structure
@@ -316,10 +320,10 @@ The network graph uses a layered view architecture culminating in `v_network_gra
 | **`v_network_graph_full`** | **All edges combined** | **906** |
 
 ### Current Statistics (2026-01-12)
-- **Total Edges:** 906
-- **Unique Sources:** 251
-- **Unique Targets:** 254
-- **Funding Rounds:** 91
+- **Total Edges:** 1,294
+- **Unique Sources:** 327
+- **Unique Targets:** ~300
+- **Funding Rounds:** 123
 - **Companies:** 184
 
 ### Edge Categories by Count
@@ -350,6 +354,11 @@ The network graph uses a layered view architecture culminating in `v_network_gra
 | `008_additional_funding_rounds.sql` | 58 additional funding rounds import |
 | `009_import_collider_companies.sql` | 34 companies from Collider DB |
 | `010_notable_company_funding.sql` | 10 funding rounds for notable companies |
+| `011_major_company_funding.sql` | Fireblocks, StarkWare, ZenGo, Blockaid, etc. |
+| `012_additional_funding_batch2.sql` | Kaspa, Dymension, SSV Network, Ownera, etc. |
+| `013_additional_funding_batch3.sql` | Secret Network, Bancor, Lava Network, Utila, Dynamic |
+| `014_additional_funding_batch4.sql` | DAOStack, Colu, Beam, Chromia, Bit2C |
+| `015_additional_funding_batch5.sql` | Efficient Frontier, Lightblocks, Crowdsense, Odsy Network |
 
 **Documentation:**
 - `/Users/eladm/Projects/Nuru-AI/Notalone/database/SUPERSET_NETWORK_GRAPH_SETUP.md`
