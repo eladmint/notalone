@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "2c585dd5-02d5-80d2-88ca-e72b97abf95f",
+    "type": "column_list",
+    "depth": 0,
+    "has_children": true,
+    "text": "[Column Layout]"
+  },
+  {
+    "id": "2c585dd5-02d5-80d3-b4a1-d35bdcfa27ac",
+    "type": "column",
+    "depth": 1,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-80e0-b4dc-efd6cd0adb55",
+    "type": "callout",
+    "depth": 2,
+    "has_children": true,
+    "text": "Blurb: ",
+    "icon": null,
+    "color": "gray_background"
+  },
+  {
+    "id": "2c585dd5-02d5-8084-a477-c62a0be90954",
+    "type": "divider",
+    "depth": 3,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-802c-8e14-df331199eb7c",
+    "type": "callout",
+    "depth": 3,
+    "has_children": false,
+    "text": "Milo is an AI-powered autonomous trading agent and crypto portfolio manager that enables natural language trading with automated execution across multiple blockchains. After 5 weeks post-Auto Trader launch: 2,480 WAU, $120K AUM, $95.7K weekly trading volume, $3.5K MRR with 81% monthly retention and 100% organic acquisition.",
+    "icon": null,
+    "color": "gray_background"
+  },
+  {
+    "id": "2c585dd5-02d5-806b-b21f-e70550363bf5",
+    "type": "paragraph",
+    "depth": 3,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8000-8258-f30622822c93",
+    "type": "paragraph",
+    "depth": 3,
+    "has_children": false,
+    "text": "Team: Moti Cohen (CEO, ex-Apester founder) & Omri Kerel (CTO, VP R&D) - both crypto degens since 2017",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-803a-a25d-cd06bfded39f",
+    "type": "paragraph",
+    "depth": 3,
+    "has_children": false,
+    "text": "Deal: $2.5M-$4M SAFE at $15M cap with 1:1 token warrants",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-808e-9827-f41797dedf42",
+    "type": "paragraph",
+    "depth": 2,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8095-8912-fc55d766f02b",
+    "type": "column",
+    "depth": 1,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-801c-896f-d8fcf14b65d0",
+    "type": "paragraph",
+    "depth": 2,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8049-b6f5-c6087d7b9701",
+    "type": "child_database",
+    "depth": 2,
+    "has_children": false
+  },
+  {
+    "id": "2c585dd5-02d5-804b-81e3-c1832114168e",
+    "type": "paragraph",
+    "depth": 2,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80e5-98c6-f139a5be9521",
+    "type": "child_database",
+    "depth": 2,
+    "has_children": false
+  },
+  {
+    "id": "2c585dd5-02d5-8062-9dea-fd363841720b",
+    "type": "callout",
+    "depth": 2,
+    "has_children": false,
+    "text": "",
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/slideshow-play_gray.svg"
+      }
+    },
+    "color": "gray_background"
+  },
+  {
+    "id": "2c585dd5-02d5-80cb-89c7-c5c5b2b09b6a",
+    "type": "callout",
+    "depth": 2,
+    "has_children": true,
+    "text": "",
+    "icon": null,
+    "color": "gray_background"
+  },
+  {
+    "id": "2c585dd5-02d5-8045-8add-ef7dbe4188d6",
+    "type": "toggle",
+    "depth": 3,
+    "has_children": true,
+    "text": "Additional reading",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80dc-bca1-c910580c4b0e",
+    "type": "divider",
+    "depth": 4,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-809d-857b-f68d6a4a88d5",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": ""
+  },
+  {
+    "id": "2c585dd5-02d5-800f-9fee-e5e53fd2c0a2",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Company Overview ",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-800d-9380-e054ccc693f2",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-804b-989e-c6373e5314d4",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "What they do",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80bf-b10b-d90e38fe514a",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "Milo provides an AI-powered digital portfolio manager and crypto companion that allows users to: (1) Trade with natural language - execute trades by simply typing commands like 'milo swap all my dust to USDC', (2) Automate portfolio management - deploy AI agents that trade autonomously based on user risk profiles and market conditions, (3) Unify cross-chain operations - manage all chains and wallets through a single interface, (4) Access simplified DeFi - navigate complex DeFi protocols with AI guidance.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-807c-bce6-d845e798b31c",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "The Problem They Solve",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80c1-a33e-c9f1d87ee597",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "Trading/Investing On Chain in 2025 is Still Broken. Pain points: 84% report missing opportunities, 76% struggle with portfolio management, 92% want simplified DeFi access, 68% fear making mistakes. Users face too many feeds, too many steps, too much risk - multiple wallets per chain, scattered trading tools, complex DeFi interfaces, disconnected data sources, and execution errors. Milo solves this as a unified AI companion that simplifies the entire trading journey through: Collaborate, Explain, Execute, and Optimize.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80a9-97ac-de799cecb3eb",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Product",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8035-9f9a-dc4d44019441",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-80c5-8022-d6cecb74c925",
+    "type": "column_list",
+    "depth": 1,
+    "has_children": true,
+    "text": "[Column Layout]"
+  },
+  {
+    "id": "2c585dd5-02d5-8049-b5b1-f63974686c98",
+    "type": "column",
+    "depth": 2,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-80d3-8d47-ff99294ee221",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Value Proposition",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8067-a90a-db7ebe16309d",
+    "type": "quote",
+    "depth": 3,
+    "has_children": false,
+    "text": "\"One Agent, All of Crypto\" - The first AI Agent asset manager for internet capital markets. Milo simplifies crypto trading from discovery through execution and optimization.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8087-9af6-e1f20db0dffa",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Core Platform Components",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80d6-b075-e978e41c89d2",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": true,
+    "text": "Smart Agent Wallet",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8187-bf17-f3c4464f731b",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Unified portfolio view across all chains"
+  },
+  {
+    "id": "2c585dd5-02d5-818f-a956-ee32bcff5241",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Simplified DeFi access"
+  },
+  {
+    "id": "2c585dd5-02d5-81d5-8eaf-dba993b8c77c",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Cross-chain operations (10+ blockchains supported)"
+  },
+  {
+    "id": "2c585dd5-02d5-816a-9b49-ce9f6a4efdc2",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Both custody wallet and user wallet integration"
+  },
+  {
+    "id": "2c585dd5-02d5-8079-bc7f-c0156ca187d6",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": true,
+    "text": "AI Quant Engine (Talk2Trade)",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8139-9452-dddb70bba457",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Natural language trading interface"
+  },
+  {
+    "id": "2c585dd5-02d5-81a1-ab0c-fe8c05585cb9",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Automated trading execution"
+  },
+  {
+    "id": "2c585dd5-02d5-81e4-b085-d8173cf14573",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Risk-adjusted position sizing"
+  },
+  {
+    "id": "2c585dd5-02d5-8183-80fa-fea8bd35f4af",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Personal market analysis feed"
+  },
+  {
+    "id": "2c585dd5-02d5-8062-a3f8-c7e2e33145c7",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": true,
+    "text": "AutoMode (Auto Trader)",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8100-84fe-fb56fa44594a",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Agent-powered autonomous trading"
+  },
+  {
+    "id": "2c585dd5-02d5-8162-92af-fa2c8963087b",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Real-time on-chain data integration"
+  },
+  {
+    "id": "2c585dd5-02d5-812c-9506-e853f36aa14e",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Discover alpha opportunities"
+  },
+  {
+    "id": "2c585dd5-02d5-813c-a6f5-ffdeaaeb3caf",
+    "type": "bulleted_list_item",
+    "depth": 4,
+    "has_children": false,
+    "text": "Build, execute, and optimize strategies hands-free"
+  },
+  {
+    "id": "2c585dd5-02d5-806b-9bc5-d177979eae94",
+    "type": "column",
+    "depth": 2,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-8030-8f60-de87aab4c065",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Key Features",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-801f-8f08-e8f0b7defbfa",
+    "type": "table",
+    "depth": 3,
+    "has_children": true,
+    "table_width": 2,
+    "has_column_header": true,
+    "has_row_header": false
+  },
+  {
+    "id": "2c585dd5-02d5-8090-ad58-d5d55216c9d0",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Feature",
+      "Description"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-8090-a235-db10c7338b88",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Natural Language Trading",
+      "Type commands like 'milo swap all my dust to USDC' and AI executes"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-802c-9725-df6b51310ca1",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Alpha Hunter Personal Feed",
+      "Personalized discovery of trading opportunities"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-8003-b54b-f3e400a3fd7a",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Smart Watchlist",
+      "Track coins and wallets with AI-powered monitoring"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-8081-af5e-f98b24cd25d5",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "On-chain Analysis",
+      "Real-time blockchain data analysis for decision-making"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-806c-aed2-e3e38a8d6412",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Target Market",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80ed-9530-d7c6e80c9430",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-8097-ab0f-c6476fc3e543",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Primary Customers",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80ff-a450-d8b6d684d0c8",
+    "type": "numbered_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "1. Crypto Traders - active traders seeking to reduce complexity. 2. DeFi Users - struggling with fragmented protocols. 3. Crypto Beginners - wanting simplified access (92% want simplified DeFi). 4. Portfolio Managers - managing multiple positions across chains."
+  },
+  {
+    "id": "2c585dd5-02d5-8004-880d-edcf1ca44fab",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Market Segments",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80b6-a2e5-c742aa9e16ac",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "By Risk Tolerance: Low risk (~$10K AUM), Medium risk (~$70K AUM, largest segment), High risk (~$22K AUM). By Engagement: Average top-up $201.30, 50.1% of Auto Traders topped up."
+  },
+  {
+    "id": "2c585dd5-02d5-80a9-8926-cede7c48647e",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Geographic Focus",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-804b-b11b-eec009b399c9",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "United States (89 users, $22K AUM - largest), Australia (16 users), Germany (17 users), Israel (13 users), Spain (7 users). Also Singapore, UK, France, Norway, Italy."
+  },
+  {
+    "id": "2c585dd5-02d5-8084-8271-cf5b162a2e4c",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Customer Count",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80f8-93e1-e3d7212075b3",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "712K overall active users, 2,480 WAU, 562 DAU, 314 active Auto Traders (>=1 SOL), 81% monthly retention, ~50% daily retention."
+  },
+  {
+    "id": "2c585dd5-02d5-8087-bd6d-f94737d0aa6c",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Business Model",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80d7-a675-e154d5714657",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-8099-b102-ea0385075d32",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Revenue Model",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8005-8e8a-ee5dad620f8e",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "Trading Fees (~0.77% implied rate) - $10K generated on $1.3M volume. Subscription/Staking - Advanced Auto Trader features require token staking. Current: $3.5K MRR, $42K ARR run rate."
+  },
+  {
+    "id": "2c585dd5-02d5-8044-a5aa-f8ab0f0e8607",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Technology",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80af-9f71-fabd6eac1bd1",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-80bc-82d8-de09c86f48d7",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Core Technology Approach",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8085-aa5f-f3aca21beb08",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "Built on Eliza OS AI Agent Framework with multi-agent orchestration: Analyst Agent (market research), Chain Action Agent (blockchain execution), Strategy Agent (trading strategies). ML/AI Engine includes regression, classification, clustering models and reinforcement learning for investor profiling, asset allocation, and algo trading.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8076-aa5f-d71bf24a0ae8",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Technical Infrastructure",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80bc-9df2-c159c0e9cee0",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "miloOS Framework: System layer for fast responses, Agent Crew orchestration, Model Adapter for multi-model AI, Data Pipeline for real-time on-chain data, Telegram integration, Agent swarm coordination."
+  },
+  {
+    "id": "2c585dd5-02d5-8030-95e7-f5b2e28d46be",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Technology Stack",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8056-b248-caf92914946f",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "AI Framework: Eliza OS. Blockchains: 10+ (Bitcoin, Ethereum, Solana, Base, Avalanche, TON, Binance, Optimism). Data Partners: Helius (Solana RPC), Birdeye (market data). Integrations: Trust Wallet, MetaMask, BullX, Photon trading bots."
+  },
+  {
+    "id": "2c585dd5-02d5-80a2-a50c-c712163d5e6f",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Funding/Investors",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80fe-9580-fafcc8d4de04",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Funding History",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8058-92a4-f8214115281f",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Investor Roster",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80a0-a0f6-c9cfd01887cf",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "Wix Ventures (leading Israeli tech investor), PrimeVC (active crypto/Web3 VC), Ariel Maislos (ex-CEO Kraken US, McKinsey, Google), Tal Cohen (CMO at partner network).",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80a6-8e99-e46e82ca10b0",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Valuation",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8003-8166-d6f842d1e5e9",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "Entry FDV: $15M cap. Pre-money: $9M. Current metrics: 357x ARR multiple, $6,048 valuation per WAU. Below Notalone ideal range ($25-40M) but acceptable."
+  },
+  {
+    "id": "2c585dd5-02d5-8034-8177-ce1f1399db99",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Use of Funds",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8024-b2b7-e5f71a752e08",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "1. Accelerate Go-To-Market 2. Run open beta 3. Enhance product capabilities. Estimated burn: $100-150K/month, runway: 17-40 months with $2.5-4M raise."
+  },
+  {
+    "id": "2c585dd5-02d5-8018-9e6e-dba86939a86e",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8012-a388-cf6742a28c2b",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Competitors",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8014-a8bb-e9ee2eafcbc1",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-8014-8f01-ed2f8545da70",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Direct Competitors",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8076-a825-d1953f29a68f",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "AI Trading Assistants - other AI-powered crypto trading platforms (specific names not disclosed in deck)"
+  },
+  {
+    "id": "2c585dd5-02d5-804f-9cd5-fc8198dda44f",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "Trading Bots (BullX, Photon) - integration partners but potential competitors"
+  },
+  {
+    "id": "2c585dd5-02d5-8086-90e3-ed1808c7c4f6",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Competitive Advantages",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8032-a3e2-e95c13cd83d4",
+    "type": "numbered_list_item",
+    "depth": 1,
+    "has_children": false,
+    "text": "1. First AI Agent Asset Manager claim. 2. Natural Language Interface (Talk2Trade). 3. Cross-Chain Unification (10+ blockchains). 4. 100% Organic Growth (strong PMF signal)."
+  },
+  {
+    "id": "2c585dd5-02d5-805e-9e79-f7f56187b729",
+    "type": "heading_3",
+    "depth": 1,
+    "has_children": false,
+    "text": "Competitive Landscape Summary",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80e6-89c3-c9f3f666002c",
+    "type": "paragraph",
+    "depth": 1,
+    "has_children": false,
+    "text": "Deck does not mention competitors - red flag. Claims to be creating new 'DeFAi' (DeFi + AI) category. If truly new category, lack of competitors makes sense but requires validation. Large incumbents (Binance, Coinbase) could enter space.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8017-9cd4-d33973ad582b",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "Market Position",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8067-9557-cd4be1758c51",
+    "type": "divider",
+    "depth": 1,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-80b4-bff1-cb7c70611e45",
+    "type": "column_list",
+    "depth": 1,
+    "has_children": true,
+    "text": "[Column Layout]"
+  },
+  {
+    "id": "2c585dd5-02d5-80c4-aa45-fcb24fbb00a7",
+    "type": "column",
+    "depth": 2,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-807e-80a9-cc51271592d1",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Positioning Statement",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80c0-b1bb-f2e74ffad1e9",
+    "type": "paragraph",
+    "depth": 3,
+    "has_children": false,
+    "text": "\"The first AI Agent asset manager for internet capital markets.\" Category creator in DeFAi, simplification layer for complex crypto trading, autonomous agent as personal portfolio manager.",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-805c-8528-c6dc248fea79",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Competitive Moats",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-803a-81fb-c45302cb5a44",
+    "type": "numbered_list_item",
+    "depth": 3,
+    "has_children": false,
+    "text": "1. Technology Moat (MEDIUM) - Multi-model AI, natural language, cross-chain. 2. Data Moat (WEAK-MEDIUM) - Early stage, limited data. 3. Network Effects (WEAK) - Social trading graph nascent. 4. Execution Moat (MEDIUM-STRONG) - 81% retention, organic growth. 5. First-Mover (UNCLEAR) - Need validation."
+  },
+  {
+    "id": "2c585dd5-02d5-808c-ab2b-d6d264adbea0",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Market Opportunity",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-803a-83d5-cba984553dc0",
+    "type": "bulleted_list_item",
+    "depth": 3,
+    "has_children": false,
+    "text": "TAM: $94T annual crypto trading, $100B+ DeFi TVL, 420M crypto users, 50M active traders. SAM: 5-10M users struggling with complexity. SOM: 100K-500K users achievable in 3-5 years."
+  },
+  {
+    "id": "2c585dd5-02d5-80d3-adb6-d40a92baed84",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "Risks and Challenges",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-809e-b800-d6e08e4cad7f",
+    "type": "numbered_list_item",
+    "depth": 3,
+    "has_children": false,
+    "text": "1. Crypto Market Dependency (HIGH) - Bear market would crush volume. 2. Regulatory Risk (HIGH) - AI financial advice + crypto trading uncertainty. 3. Competition (MEDIUM-HIGH) - Large exchanges could build similar. 4. AI Reliability (HIGH) - ML trading decisions carry risk. 5. Small Scale (HIGH) - $120K AUM needs 1000x growth."
+  },
+  {
+    "id": "2c585dd5-02d5-8088-9d72-f88ef40db6cd",
+    "type": "paragraph",
+    "depth": 3,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80dc-9b67-fbd2133b798b",
+    "type": "column",
+    "depth": 2,
+    "has_children": true,
+    "text": "[Column]"
+  },
+  {
+    "id": "2c585dd5-02d5-8074-8925-c952ffa5a1e5",
+    "type": "heading_3",
+    "depth": 3,
+    "has_children": false,
+    "text": "SWOT Summary",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-80a7-8de0-f9113655ea9e",
+    "type": "table",
+    "depth": 3,
+    "has_children": true,
+    "table_width": 2,
+    "has_column_header": true,
+    "has_row_header": false
+  },
+  {
+    "id": "2c585dd5-02d5-8093-ae6b-d81f202990f4",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Strengths",
+      "Weaknesses"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-80c8-a8e6-dcc31f802161",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Strong early traction (81% retention)",
+      "Extremely small scale ($120K AUM)"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-807f-996a-d300c23237a3",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "100% organic growth",
+      "Very early revenue ($42K ARR)"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-807d-80d4-f5cffc791291",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Experienced crypto-native founders",
+      "Small team (7 people)"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-80f8-9532-ca5dee5ff66f",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Quality investors (Wix, ex-Kraken CEO)",
+      "Incomplete tokenomics"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-80b6-8a23-ccaba0808a73",
+    "type": "table",
+    "depth": 3,
+    "has_children": true,
+    "table_width": 2,
+    "has_column_header": true,
+    "has_row_header": false
+  },
+  {
+    "id": "2c585dd5-02d5-807a-a067-c3cc657e0d52",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Opportunities",
+      "Threats"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-80cf-baaa-c4ce78ecda0f",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Emerging DeFAi category",
+      "Crypto bear market impact"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-8006-82dd-ed7ad94e318b",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "DeFi complexity driving demand",
+      "Regulatory crackdown risk"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-8085-b1ca-fd36a71b6e3c",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Token launch for growth",
+      "Large incumbents entering space"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-802f-8556-f1ae9f7bd2a5",
+    "type": "table_row",
+    "depth": 4,
+    "has_children": false,
+    "cells": [
+      "Network effects from social trading",
+      "AI model failures causing losses"
+    ]
+  },
+  {
+    "id": "2c585dd5-02d5-80ac-9ee3-c61b741715a1",
+    "type": "divider",
+    "depth": 3,
+    "has_children": false,
+    "text": "---"
+  },
+  {
+    "id": "2c585dd5-02d5-8012-90d4-f55d6c77b419",
+    "type": "heading_2",
+    "depth": 0,
+    "has_children": true,
+    "text": "NOTALONE & Zengo ",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-8083-ad79-cb688f4aa54d",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": true,
+    "text": "Why Interesting"
+  },
+  {
+    "id": "2c585dd5-02d5-80ec-9c47-cf227315c3cf",
+    "type": "bulleted_list_item",
+    "depth": 2,
+    "has_children": false,
+    "text": "Strong PMF signals (81% retention, 29% conversion, 100% organic). AI + DeFi convergence aligns with Notalone thesis. Entry at $15M cap below ideal range. Quality investors validate team."
+  },
+  {
+    "id": "2c585dd5-02d5-80d9-8357-c9e9fe7a51fb",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": true,
+    "text": "Concerns: "
+  },
+  {
+    "id": "2c585dd5-02d5-803d-8e47-c612be3cb9bb",
+    "type": "bulleted_list_item",
+    "depth": 2,
+    "has_children": false,
+    "text": "Incomplete tokenomics (no TGE timeline, no unlock schedule). No competitor analysis in deck. Very early stage ($120K AUM, $42K ARR). No regulatory/compliance discussion."
+  },
+  {
+    "id": "2c585dd5-02d5-80c8-9c30-db28cd313097",
+    "type": "bulleted_list_item",
+    "depth": 1,
+    "has_children": true,
+    "text": "Possible collaboration ideas: "
+  },
+  {
+    "id": "2c585dd5-02d5-809d-9854-eeb480fdfd54",
+    "type": "bulleted_list_item",
+    "depth": 2,
+    "has_children": false,
+    "text": "Portfolio company synergy with Zengo (wallet infrastructure). AI agent integration opportunities. Cross-promotion with Notalone portfolio companies in crypto space."
+  },
+  {
+    "id": "2c585dd5-02d5-800f-b8e0-e81f1d02ef08",
+    "type": "paragraph",
+    "depth": 0,
+    "has_children": false,
+    "text": "",
+    "color": "default"
+  },
+  {
+    "id": "2c585dd5-02d5-806e-8941-e4ff881bea8e",
+    "type": "child_database",
+    "depth": 0,
+    "has_children": false
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "version": "4.0.0",
+  "lastUpdated": "2025-12-14T13:20:00.000Z",
+  "mappings": [
+    {
+      "pageId": "2c960b6e8d1881f98e48c4f6acbc1f4f",
+      "filePath": "./docs/NOTALONE-IL.md",
+      "title": "NOTALONE IL",
+      "lastSyncGitToNotion": null,
+      "lastSyncNotionToGit": null,
+      "lastGitCommit": null,
+      "lastNotionEdit": "2025-12-14T13:04:00.000Z",
+      "conflictStrategy": "interactive"
+    },
+    {
+      "pageId": "2c585dd502d581058a47fb8024bae29a",
+      "filePath": "./deal-flow/addressable/notion-sync.md",
+      "title": "Addressable",
+      "lastSyncNotionToGit": "2025-12-10T18:04:46.864Z",
+      "lastNotionEdit": "2025-12-10T17:36:00.000Z",
+      "conflictStrategy": "notion-wins"
+    }
+  ]
+}

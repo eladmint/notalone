@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "description": "Inject LOCAL-CONTEXT reminder at session start",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/eladm/Projects/Nuru-AI/CollaborativeIntelligence/interfaces/claude-bridge/hooks/inject-local-context.sh",
+            "timeout": 2000
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^5.4.0",
+    "dotenv": "^16.6.1",
+    "playwright": "^1.57.0"
+  },
+  "scripts": {
+    "capture-deck": "node scripts/capture-presentation.js",
+    "install-browsers": "npx playwright install chromium",
+    "test-notion": "node scripts/test-notion-connection.js"
+  }
+}
