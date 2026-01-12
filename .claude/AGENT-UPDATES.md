@@ -104,3 +104,22 @@ TEMPLATE FOR NEW ENTRIES (copy and fill):
 
 ---
 
+### 2026-01-12 19:00 | researcher
+**Summary**: Created comprehensive post-TGE project sourcing plan for Liquid Alpha (80%) strategy
+**Affects**: developer, database, analyst, trader
+**Details**:
+- Analyzed Notalone investment thesis: 80% Liquid Alpha (OTC), 20% Venture Select
+- Defined target project profiles: 4 personas (Growth-Starved, Liquidity-Challenged, Strategic Upgrader, Pivot Seeker)
+- Mapped data sources: DefiLlama, CoinGecko, Token Unlocks, STIX, Artemis for automated screening
+- Created quantitative screening criteria: Tier 1 filters + Tier 2 scoring (0-100)
+- Proposed new database table: `notalone_investment_targets` for pipeline tracking
+- Defined implementation roadmap: 8-week phased approach
+**Action Required**:
+- @database: Review and deploy proposed schema extension (Option B - new table)
+- @developer: Implement CoinGecko and DefiLlama sync scripts
+- @analyst: Create Superset dashboards for screening and pipeline tracking
+- @trader: Review hedging feasibility scoring criteria
+**Reference**: Full plan at `/Users/eladm/Projects/Nuru-AI/Notalone/docs/research/NOTALONE_PROJECT_SOURCING_PLAN.md`
+
+---
+
